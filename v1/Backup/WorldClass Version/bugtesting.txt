@@ -1,0 +1,10 @@
+
+Things to test
+
+- Whether INDENT ON/OFF ruins any of my text or paragraphs.
+- Whether you can do anything to DummyThing
+- If you "know" about hidden things before you see them
+- Conversations
+- Whether the debugging verbs are turned off
+- Make sure HELP, HINTS, VERBS, SCORE, FULL SCORE, AMUSING, DIE, etc work properly
+- Catch all the various synonyms (if they don't make sense)

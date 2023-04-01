@@ -1,0 +1,130 @@
+Main Puzzle list:
+1. Get from ground to first
+2. Get from first to second
+3. Get from second to seventh
+4. Pass by Yin & Yang
+5. Survive fall
+6. Talk with The Creator
+
+* Means the puzzle is implemented
+
+
+1. Get from ground to first
+===========================
+*- Find R&C's keys in mailbox.
+*- Find hairpin in dryer. Pick lock.
+- Push over plant. Ring janitor. Get through door after him.
+- Kick boiler. Ring janitor. Get through door after him.
+* Break into old storage. Throw bin at fire escape. Climb ladder.
+
+2. Get from first to second
+===========================
+- Throw three towels on the stairs. Walk up.
+- Use portable hairdryer. Find replacement battery/recharge battery.
+- Climb fire escape. Knock on window and convince programmer to let you in.
+- Steal Vern's key. Take mop from janitor's closet and mop path.
+
+3. Get from second to seventh
+=============================
+- Get card. Get programmer to rewrite card. Swipe card and take elevator.
+- Get past prisoner. Take secret shaft to seventh floor.
+
+3.1 Get card
+======================
+- Find gift for Cody. Swap for card.
+- Get faulty card from R&C's fridge (after appeasing Charlie).
+- Steal jacket from raver. Take card from pocket.
+- Find Masterpiece Games (and hint book) and give to the programmer.
+- Break into manager's office and safe. Steal card.
+- Steal recluse's card.
+- Steal Vern's key. Take keycard from janitor's closet.
+- Find key in locked box in new storage.
+
+3.2 Rewrite card
+================
+- Get card reader from Recluse. Give gift to programmer (Masterpiece games/TRS-90)
+
+3.3 Get card reader from Recluse
+================================
+- Ask recluse about pizza ("Pizza delivery!"). When he opens the door slightly, kick it open.
+- Break in via elevator shaft. (Enter elevator, stand on box, climb through roof, go south, open access panel, drop down)
+- Talk to him and make him slightly happy. Give him love note from Jill.
+- Knock on door. Show him the badge. Get reader.
+
+4. Yin and Yang
+===============
+- Give them one of the following pairs:
+  - Hot v Cold
+  - Spiritual v Material
+  - Life v Death
+  - Summer v Winter
+  - Male v Female
+  - Odd v Even
+  - Sun v Moon
+  - Fire v Water
+  - Wood v Metal
+  - East v West
+
+4.1 The pairs (Yin/Yang):
+(Cold/Hot) Ice cube / hairdryer
+(Material/Spiritual) Statuette, physics textbook / Shakespeare, Tao Te-Ching
+(Pictures/Words) Picture, photograph, sticker / Prisoner's diary, philosophy books
+(Autumn/Spring) Autumn leaf / Love poetry
+(Female/Male) Perfume / Sporting equipment
+(Even/Odd) Even number of coins / Odd number of coins
+(Water/Fire) Ice cube / Lighter
+(Metal/Wood) Fork, keys, coins, metal box / chopsticks, paper
+(West/East) Pizza, fork / Chinese food, chopsticks
+
+5. Survive fall
+===============
+- Close door. Open door, enter door.
+
+6. Talk with Creator
+====================
+
+
+
+
+OTHER PUZZLES
+=============
+
+Get into Manager's Office
+=========================
+- Get bobby pin or paperclip. Pick lock.
+
+Get into Manager's safe
+=======================
+- Guess the combination.
+- Find combination written as Bible verse. (For example: Corinthians 1, 3:14 is 3,1,14)
+
+Get into old storage room
+=========================
+- Get to alleyway via fire escape. Break western windows.
+? Get to alleyway via manager's office. Break western windows.
+- Pull over heavy cupboard. Pick lock/kick down door.
+
+Get Masterpiece Games
+=====================
+- Break/pick lock on box in new storage area
+- Drop the box off the upper alleyway floors.
+
+Steal Vern's keys
+=================
+- Put metal object in microwave while he's watching.
+- Put grotty liquid in his coffee and take them while he runs off to the toilet.
+- Long conversation to "crack the nut".
+? Give him something priceless.
+- Whack him with something heavy.
+
+Where is...
+(Statuette) Old Storage Room
+(Masterpiece Games) New Storage Room
+(Masterpiece Hints) New Storage Room
+(Fork) Cody's kitchen
+(Chopsticks) Locked apartment
+(Bobby pin) Laundry, Jill's bedroom
+(Paperclip) Reception, Manager's Office
+(Card reader) Recluse's place
+(Card) [See above]
+(Autumn leaf) Old storage

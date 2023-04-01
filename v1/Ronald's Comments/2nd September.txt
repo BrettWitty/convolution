@@ -1,0 +1,103 @@
+Ronald Stewart is fine for the credits :)
+
+OK... here is a further problem I had with the phone... it's behaviour
+sometimes doesn't make sense and I'm not sure exactly why. This is
+unchanged and repeatable weirdness -
+
+{I pick up the phone and get the appropriate shivers}
+
+>put down phone
+You let the receiver fall from your hands. It dangles from the phone,
+rocking back and forth, colliding every so often, sending itself into
+a spin.
+>take phone
+You are already holding the phone. 
+>put handset on hook
+There's no good surface on the hook. 
+>put down phone
+You're not carrying that. 
+>take phone
+You are already holding the phone. 
+>hang up phone
+You put the handset back on the hook. 
+
+Checking my inventory (>i) never shows the phone or handset's presence
+in my hand.
+
+Sorry for the many-short-messages... but
+
+>light paper
+(with your trusty Zippo(tm) lighter)
+That is not something you can burn.
+
+I did cheat and restart, but in the boiler room:
+
+>look at steam
+A complicated network of pipes enter and leave the boiler, eventually
+disappearing into the wall.
+
+I'm really worried about upsetting you here with this one... the game
+claims that there is nothing in my pocket after i put stuff into it
+(except for the lighter, which goes back to being invisible when i put
+it in my pocket, but isn't refound) :S
+
+
+>put paper in pocket
+Done. 
+
+>put lighter in pocket
+Done. 
+
+>search coat
+You search through the pockets, hoping to find some long-lost
+treasure, but alas, you find nothing.
+
+>i
+You are carrying nothing, and are wearing your trenchcoat (which
+contains a crumpled-up scrap of paper).
+
+This indicates two mistakes - I am told that I decide not to punch to
+door for a second time, and yet I do anyway... also the grammar of
+'The ring of the phone' isn't quite correct.
+
+>punch door
+Which door do you mean, the swinging door to the laundry, or the door
+to the stairwell?
+
+>swinging
+You punch the door with your palm. It swings violently for a while
+before stopping. It looks you came off more worse for wear than it
+did.
+
+The ring of the phone to the west reverberate through the hallway. 
+
+>again
+After the stinging hand you received last time, you decide not to
+punch the door again. You punch the door with your palm. It swings
+violently for a while before stopping. It looks you came off more
+worse for wear than it did.
+
+The ring of the phone to the west reverberate through the hallway.
+
+A ghostly storage room sign is described in the text, but seems inaccessible.
+
+>look at sign
+Which sign do you mean, the storage room sign, or the out-of-order
+sign from washing machine?
+
+>storage room
+That was not one of the choices. Which did you mean, the storage room
+sign, or the out-of-order sign from washing machine?
+
+and the mailboxes...
+>look at mail
+The small, round key is a typical design for a mailbox key. You recall
+having some key similar to this once before.
+
+mailbox 105 exists when it shouldn't, and mailbox 101 doesn't have an owner
+
+>unlock mailboxes
+Those are not something you can unlock. 
+
+Going up to the second floor in the staircase results in a No Exit
+Death. The staircase is the only way Up I have found so far.

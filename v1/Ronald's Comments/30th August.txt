@@ -1,0 +1,67 @@
+OK. I'm using 1.21... Good Work!
+I'll come back to the first 3 rooms at another point, but I thought it
+would be better to move on for now. You'll notice that I had major
+problems with the phone. So...
+
+>e,e,s
+<b>Reception</b>
+
+Over the front counter to the south you spy a small phone. It rings loudly. 
+>look at phone
+You see no phone here. 
+>look at counter  [same with "mess", "filing cabinets", "office",
+"stuff", "administrative stuff"]
+The word "counter" is not necessary in this story.
+>look at door
+{describes the manager's door, but the plain-looking door to the north
+is forgotten}
+>search room
+You see no room here. [stupid TADS]
+
+Basically I can't find anything of interest in this room. Sorry! On we
+go, anyway...
+
+>s
+<b>The Lobby</b>
+>look at carpet [corner, hallway, door, elevator, window, reception
+window, shadows,
+You see no carpet here.
+>search fern
+There's nothing unusual in the decorative potted fern. [not gramatically sound?]
+
+>kick fern
+{it falls over}
+>look at fern
+{no mention of it having fallen - described as "proud, tall"}
+
+>press phone [or take, etc.]
+The lobby phone is too heavy. [Is it really heavy? or more unmoveable]
+
+>dial 101 [call, ring, phone]
+The story doesn't understand that command.
+
+>hang up phone
+(first putting the handset on the hook)
+You put the handset back on the hook. 
+
+(first putting the handset on the hook)
+You put the handset back on the hook. 
+
+(first putting the handset on the hook)
+You put the handset back on the hook. 
+
+{Infinite loop}
+
+>put phone on hook
+You can't do that while the hook is in the lobby phone. 
+
+The phone stutters out a faint dial tone. 
+{although it gave me an Infinite loop before as well}
+
+>put coin in phone
+You can't put anything in the lobby phone. 
+
+So, I can't figure out how to dial out or pay for the phone, basically
+:( am i missing something obvious?
+
+Next I'm going to play with the elevator, ok?

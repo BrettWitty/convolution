@@ -1,0 +1,40 @@
+A couple of things I have just spottedddd
+
+In the Entrance
+>take keys
+The word "keys" is not necessary in this story.
+
+>touch Vern
+You feel nothing out of the ordinary. 
+
+I 'read' the microwave, which makes me all the more hungry to nuke
+stuff (i liked it better when i had a coin to nuke): but i haven't
+figured out if that is possible yet.
+
+>read coffee machine
+A bulky grey automatic coffee machine fills in some of the space
+between the sink and the microwave. The grey plastic is sickly under
+this light. A small scrap of paper has been taped to the machine,
+reading:
+"Machine broke. Mngmt order new one."
+ Tough break...
+
+>take paper
+You see no paper here. [I ripped up my own paper, as you suggested,
+but there is paper on the coffee machine]
+
+I found a piece of paper in a kitchen (and a piece of card in Cody's
+bedroom). Suddenly I am reminded of 'Hotel California' by the Eagles.
+
+I met the guy in the far apartment. He's friendly...
+
+>guy, hi!
+The guy interrupts you. "Dude, I don't think I even know you. Intro yourself!" 
+
+>introduce self
+"Er, hi..." you say....
+
+>take skis
+[Runtime error: nil object reference]
+
+I get stuck by entering the elevator ("west") on the first floor, as well.

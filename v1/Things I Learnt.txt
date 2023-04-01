@@ -1,0 +1,11 @@
+Things I learnt:
+
+- You should set nouns for the player
+- How to make a sign that "sticks" to the front of a door.
+- You can always cut out objects, ideas... even whole levels. I originally had something like 10 levels in the apartment block. I now have an ultra-compressed building that is less than half that size.
+
+
+Things that weren't to be:
+- An immovable object (to produce the philosophical conundrum of colliding an irresistible body with an immovable one). The irresistable body may have been a hot chick.
+- The circular reference room
+- The dark room/bomb trap

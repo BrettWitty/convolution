@@ -1,0 +1,6 @@
+Pillow on Cody's bed: B=50, W=5
+Notes: B=1, W=1
+Coin B=1, W=1
+
+Sink can hold 30 bulk
+Fridge can hold 75 bulk, 150 weight

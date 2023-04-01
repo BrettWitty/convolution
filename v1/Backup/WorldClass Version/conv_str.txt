@@ -1,0 +1,3881 @@
+1999
+WorldClass library version 
+.  Copyright &copy 
+ The Children of Dana. 
+.
+.
+\(Generic\): An all-purpose adventure developed with TADS  and the WorldClass version 2 library. Version 0.\n
+<hr>This product includes portions of WorldClass version 2, a TADS class library developed by David Haire for \(The Children of Dana\). Original WorldClass library developed by David M.\ Baggett for \(ADVENTIONS\).\b
+Version: v1.0 (WorldClass) 1999/02/19. Original TADS version  copyright &copy 1994 Jeff Laing.\n
+Jeff Laing
+version tracking
+you
+of
+and
+then
+all
+everything
+both
+but
+except
+one
+ones
+it
+there
+them
+him
+her
+any
+either
+\b\b\b\b
+This is the introduction.  Prepare to play...\b
+:
+:
+0
+Sun
+Mon
+Tue
+Wed
+Thu
+Fri
+Sat
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+ 
+ 
+ 
+/
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+In a total of 
+ turns, you have achieved a score of 
+ points out of a possible 
+.\n
+\bYou have seen 
+100
+% of the items, and 
+100
+% of the game locations.\n
+\bYou haven't done much yet.\n
+\bYou have earned these points by doing the following:\b
+ points for 
+\n
+Thanks for playing this game!
+I beg your pardon? 
+\b
+*** Your score just went up by 
+ points. ***
+*** Your score just went down by 
+ points. ***
+*** Your score just went up by a point. ***
+*** Your score just went down by a point. ***
+<font face='TADS-Input'>
+</font>
+File to save game in
+
+Failed. 
+Save failed. 
+Saved. 
+\n
+Filename for autosave game
+
+Failed.
+Save failed. 
+Saved.
+\b
+\b*** Warning : Autosave operation failed ***\b
+Restore failed. 
+Restored.\b
+\n
+You may restore a saved game, start over, quit, or undo the current command.\n
+\nPlease enter RESTORE, RESTART, QUIT, or UNDO: >
+RESTORE
+RESTART
+QUIT
+UNDO
+\t
+\b
+\n
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+ten
+eleven
+twelve
+thirteen
+fourteen
+fifteen
+sixteen
+seventeen
+eighteen
+nineteen
+twenty
+
+ 
+ 
+\^
+ 
+\ 
+
+,
+ and 
+, 
+ \v
+. 
+ are 
+ is 
+in
+ here. 
+ 
+ 
+. 
+\^
+ 
+Some things 
+Something 
+ 
+ 
+ 
+ 
+. 
+\^
+ 
+Some things 
+Something 
+ 
+ 
+ 
+ 
+. 
+\^
+ 
+Some things 
+Something 
+ 
+ 
+ 
+ 
+. 
+to
+ what?
+Which 
+ do you mean, 
+, 
+or 
+?
+I don't know how to 
+ 
+.
+anything 
+to
+ 
+.
+(
+ 
+)
+You can't use "all" with that verb.
+[
+]
+[
+]
+[\(
+\)]:\ 
+No such footnote.
+[\(
+\)]
+
+me
+myself
+me
+myself
+on
+to
+onto
+in
+to
+into
+in
+between
+inbetween
+down
+in
+downin
+down
+on
+downon
+up
+on
+upon
+out
+of
+outof
+off
+of
+offof
+out
+from
+outfrom
+outfrom
+under
+outfromunder
+from
+under
+fromunder
+outfrom
+underneath
+outfromunderneath
+from
+underneath
+fromunderneath
+outfrom
+beneath
+outfrombeneath
+from
+beneath
+frombeneath
+outfrom
+below
+outfrombelow
+from
+below
+frombelow
+outfrom
+behind
+outfrombehind
+from
+behind
+frombehind
+outfrom
+between
+outfrombetween
+from
+between
+frombetween
+of
+of
+about
+about
+with
+with
+to
+to
+on
+onto
+downon
+upon
+on
+in
+into
+downin
+inside
+in
+off
+offof
+off
+out
+outof
+outside
+outfrom
+out
+from
+from
+between
+inbetween
+between
+over
+over
+at
+at
+up
+up
+down
+down
+around
+around
+through
+thru
+through
+behind
+behind
+for
+for
+under
+underneath
+beneath
+below
+under
+outfromunderneath
+fromunderneath
+outfromunder
+fromunder
+outfrombeneath
+frombeneath
+outfrombelow
+frombelow
+out from under
+outfrombehind
+frombehind
+out from behind
+outfrombetween
+frombetween
+out from between
+north
+n
+south
+s
+east
+e
+west
+w
+up
+down
+northeast
+ne
+northwest
+nw
+southeast
+se
+southwest
+sw
+u
+d
+upstream
+downstream
+us
+ups
+ds
+direction
+the
+a
+an
+verb
+s
+That command is only for playtesting!
+\^
+ 
+ know what that is.
+There is nothing here matching that vocabulary that 
+ can do that to.
+: 
+\n
+\^
+ can't do that, because 
+(trying to 
+ 
+ first)\b
+I don't know what you're referring to.
+I can't imagine what you're referring to.
+in
+on
+under
+behind
+\^
+ can't 
+ 
+.
+A
+That verb is only for playtesting!
+again
+g
+repeat
+takeVerb
+takeVerb
+No verb here.
+take
+get
+take
+grab
+remove
+Take
+Takefrom
+Takeoff
+Takeout
+Takeout
+Takeoff
+Takeunder
+Takeunder
+Takebehind
+Takebehind
+on
+in
+under
+behind
+drop
+drop
+put down
+Puton
+Putin
+Putunder
+Putbehind
+Putthrough
+Putthrough
+Drop
+taste
+taste
+lick
+Taste
+inspect
+inspect
+examine
+look at
+l at
+x
+ex
+Inspect
+look at
+looks at
+look
+l
+look around
+l around
+Inspect
+take inventory of
+takes inventory of
+inventory
+i
+touch
+touches
+touch
+feel
+feel around
+Touch
+Touchwith
+smell
+smell
+sniff
+waft
+Smell
+listen to
+listens to
+listen
+listen to
+hear
+Listento
+eat
+eat
+consume
+swallow
+Eat
+ask about
+asks about
+ask
+inquire
+enquire
+question
+query
+Askabout
+Askfor
+say
+say
+speak
+utter
+answer
+Say
+Sayto
+yell
+yell
+shout
+scream
+Say
+Sayto
+Sayto
+look in
+looks in
+look in
+look into
+look inside
+look downin
+l in
+l into
+l inside
+l downin
+Lookin
+look at what's on
+looks at what's on
+look on
+look onto
+look downon
+look upon
+l on
+l onto
+l downon
+l upon
+Lookon
+look under
+looks under
+look under
+look beneath
+l under
+l beneath
+Lookunder
+look behind
+looks behind
+look behind
+l behind
+Lookbehind
+look through
+looks through
+look through
+look thru
+l through
+l thru
+look out
+look outof
+Lookthrough
+put
+put
+place
+position
+insert
+Putin
+Puton
+Putunder
+Putbehind
+Putthrough
+tell
+tell
+Tellabout
+Tellto
+follow
+follow
+Follow
+dig in
+digs in
+dig
+dig in
+dig into
+dig inside
+dig downin
+excavate
+exhume
+Digwith
+push
+pushes
+push
+press
+depress
+Push
+Typeon
+attach
+attaches
+attach
+connect
+Attachto
+tie
+tie
+lash
+Tieto
+Tieto
+wear
+wear
+put on
+don
+Wear
+take off
+takes off
+take off
+doff
+Unwear
+Takefrom
+open
+open
+Open
+Openwith
+close
+close
+Close
+plug
+plug
+Plugin
+light
+light
+Light
+Lightwith
+extinguish
+unlight
+blow out
+extinguish
+extinguishes
+Unlight
+screw
+screw
+Screw
+Screwwith
+unscrew
+unscrew
+Unscrew
+Unscrewwith
+set
+set
+Turn
+Turnto
+Putin
+Puton
+Putunder
+Putbehind
+Putthrough
+turn
+turn
+rotate
+twist
+dial
+tune
+Turn
+Turnto
+switch
+switches
+switch
+Switch
+flip
+flick
+flip
+Flip
+turn on
+activate
+turn on
+switch on
+enable
+start
+start up
+turns on
+Turnon
+turn off
+turn off
+deactivate
+switch off
+disable
+turns off
+Turnoff
+sit
+sit
+sit down
+You'll have to be more specific.
+You'll have to be more specific.
+sit on
+sits on
+sit on
+sit downon
+sit upon
+Siton
+sit in
+sits in
+sit in
+sit downin
+Sitin
+lie
+lie
+lie down
+You'll have to be more specific.
+You'll have to be more specific.
+lie in
+lies in
+lie in
+lie downin
+Liein
+lie on
+lies on
+lie on
+lie downon
+lie upon
+Lieon
+get out of
+gets out of
+get out
+get outof
+Getout
+get off of
+gets off of
+get off
+get offof
+Getoff
+get out from behind
+gets out from behind
+get outfrombehind
+Getoutfrombehind
+get out from under
+gets out from under
+get outfromunder
+get outfromunderneath
+Getoutfromunder
+get in
+gets in
+get in
+get into
+get inside
+get downin
+Getin
+get on
+gets on
+get on
+get onto
+stand on
+go on
+get downon
+Geton
+get under
+gets under
+get under
+get underneath
+stand under
+stand underneath
+go under
+go underneath
+Getunder
+get behind
+gets behind
+get behind
+stand behind
+go behind
+hide behind
+Getbehind
+board
+board
+Board
+wait for
+waits for
+wait
+z
+pause
+Time passes...\n
+attack
+kill
+attack
+Attackwith
+hit
+hit
+punch
+beat
+pound
+bang
+bang on
+bang upon
+bang downon
+bang onto
+hit on
+hit upon
+hit downon
+hit onto
+punch on
+punch upon
+punch downon
+punch onto
+beat on
+beat upon
+beat downon
+beat onto
+pound on
+pound upon
+pound downon
+pound onto
+Hit
+Hitwith
+kick
+kick
+boot
+Kick
+break
+break
+destroy
+damage
+bust
+mangle
+smash
+shatter
+Break
+Hitwith
+climb
+climb
+scale
+clamber
+clamber up
+climb up
+scale up
+climb into
+climb onto
+climb over
+Climb
+drink
+drink
+quaff
+imbibe
+Drink
+give
+give
+offer
+Giveto
+pull
+pull
+yank
+pull on
+yank on
+pull upon
+yank upon
+Pull
+read
+read
+Read
+throw
+throw
+toss
+Throwat
+Throwto
+Throwthrough
+Throwunder
+Throwbehind
+Putin
+Puton
+stand
+stand
+stand up
+get up
+standing
+\^
+ already standing.
+say hello
+says hello
+hello
+hi
+greetings
+howdy
+Talking to yourself won't help matters.
+\^
+ nods.
+show
+show
+Showto
+clean
+clean
+polish
+shine
+buff
+scrub
+clean up
+polish up
+shine up
+buff up
+scrub up
+Clean
+Cleanwith
+move
+move
+lift
+raise
+Move
+Movewith
+fasten
+fasten
+buckle
+buckle up
+Fasten
+unfasten
+unfasten
+unbuckle
+Unfasten
+unplug
+unplug
+Unplug
+Unplugfrom
+type
+type
+Typeon
+lock
+lock
+Lock
+Lockwith
+unlock
+unlock
+Unlock
+Unlockwith
+detach
+detaches
+detach
+disconnect
+Detachfrom
+Detach
+untie
+untie
+unlash
+Untiefrom
+Untie
+sleep
+sleep
+%You% 
+.
+poke
+poke
+jab
+Poke
+Pokewith
+search
+searches
+search
+Search
+shoot
+shoot
+blast
+fire
+Shootwith
+Shootat
+knock
+knock on
+knock on
+knocks on
+Knockon
+empty
+empty
+empties
+Empty
+fill
+fill
+Fill
+move north
+moves north
+move north
+move n
+push north
+push n
+MoveN
+move south
+moves south
+move south
+move s
+push south
+push s
+MoveS
+move east
+moves east
+move east
+move e
+push east
+push e
+MoveE
+move west
+moves west
+move west
+move w
+push west
+push w
+MoveW
+move northeast
+moves northeast
+move northeast
+move ne
+push northeast
+push ne
+MoveNE
+move northwest
+moves northwest
+move northwest
+move nw
+push northwest
+push nw
+MoveNW
+move southeast
+moves southeast
+move southeast
+move se
+push southeast
+push se
+MoveSE
+move southwest
+moves southwest
+move southwest
+move sw
+push southwest
+push sw
+MoveSW
+Verb has no verprop.
+Verb has no doprop.
+\^
+ 
+ nowhere!
+\^
+ can't go anywhere on 
+ own!
+\nERROR: Travelverb can't evaluate property!
+\^
+ can't go that way.
+\nERROR: travel method (
+) does not return an object or nil.
+go north
+goes north
+north
+go north
+n
+go n
+go south
+goes south
+south
+go south
+s
+go s
+go east
+goes east
+east
+go east
+e
+go e
+go west
+goes west
+west
+go west
+w
+go w
+go northeast
+goes northeast
+northeast
+go northeast
+ne
+go ne
+go northwest
+goes northwest
+northwest
+go northwest
+nw
+go nw
+go southeast
+goes southeast
+southeast
+go southeast
+se
+go se
+go southwest
+goes southwest
+southwest
+go southwest
+sw
+go sw
+go up
+goes up
+up
+go up
+u
+go u
+go down
+goes down
+down
+go down
+d
+go d
+go in
+goes in
+in
+go in
+enter
+go inside
+go into
+go downin
+Enter
+go out
+goes out
+out
+go out
+exit
+go outof
+Exit
+go upstream
+goes upstream
+upstream
+go upstream
+us
+go us
+ups
+go ups
+go downstream
+goes downstream
+downstream
+go downstream
+ds
+go ds
+jump
+jump
+jump over
+jump off
+jump out
+jump in
+jump behind
+quit
+\bDo you really want to quit? (YES or NO) > 
+\b
+Okay. 
+verbose
+wordy
+Okay, now in VERBOSE mode.\n
+brief
+terse
+Okay, now in TERSE mode.\n
+score
+status
+save
+save
+Save
+restore
+load
+restore
+Restore
+File to restore game from
+
+Failed. 
+script
+script
+Script
+File to write transcript to
+
+Failed. 
+All text will now be saved to the script file. Type UNSCRIPT at any time to discontinue scripting.
+unscript
+Script closed.\n
+restart
+Are you sure you want to start over? (YES or NO) > 
+\n
+\nOkay.\n
+version
+undo
+undo
+Undo
+Please specify the number of turns you want to undo, or just type "undo" to undo a single turn.
+You cannot redo turns that you undo.\nAre you sure you want to undo that many commands? (YES or NO) > 
+Okay, never mind.
+One command undone. 
+ commands undone. 
+There is not enough undo information to undo any more commands.
+\b
+space
+space
+Now single-spacing text.
+Now double-spacing text.
+indent
+indent
+Paragraph indentation now off.
+Paragraph indentation now on.
+deterministic
+(Deterministic mode)\n
+sources
+source
+sources
+credits
+credit
+credits
+, 
+The following modules were provided by TADS developers who were prepared to share their work with others:
+\bIf you are a TADS developer, please consider doing the same. All the above mentioned modules should be available for ftp from the interactive fiction archive maintained by \(Volker Blasius\) on \(ftp.gmd.de\).
+
+, 
+, 
+ and 
+\b\^
+ 
+were
+was
+ provided by \(
+\).\n
+autosave on
+autosave on
+\b*** Autosave is already on ***\n
+\b*** Autosave is now on. Game will be saved every 
+ commands entered ***\n
+autosave off
+autosave off
+\b*** Autosave is now turned off ***\n
+\b*** Autosave is already turned off ***\n
+autosave
+autosave
+Autosave
+\bAutosave is currently 
+on
+off
+ and set to save every 
+ turns.\bUse 'autosave on' or 'autosave off' to turn the autosave function on or off, and use 'autosave' followed by a value to set the turns between autosaves.\nDuring the first autosave you will be prompted for a filename, which will be subsequently used.\n
+get footnote information for
+gets footnote information for
+footnote
+note
+Footnote
+fastquit
+q
+locate
+locate
+Locate
+list contents
+listcontents
+contents
+list
+Listcontents
+commit suicide
+die
+become (un)hungry
+hungry
+become (un)thirsty
+thirsty
+become (un)sleepy
+sleepy
+gimme
+gimme
+Gimme
+warpto
+warp to
+Warpto
+know
+know
+Know
+light room
+lightroom
+Let there be light!
+\b
+dark room
+darkroom
+Let there be dark!
+\b
+debug reach
+debugreach
+reachdebug
+debug reach
+reach debug
+Reach debugging is now 
+ON
+OFF
+.
+debugtrace
+debug trace
+debugTrace is now OFF.\n
+debugTrace is now ON.\n
+debug
+I don't see any bugs here.
+weight
+weight
+Weight
+bulk
+bulk
+Bulk
+notify on
+notify on
+\b*** Score notification is already on ***\n
+\b*** Score notification is now turned on ***\n
+notify off
+notify off
+\b*** Score notification is now turned off ***\n
+\b*** Score notification is already turned off ***\n
+notify
+notify
+\b*** Score notification is currently turned  
+off
+on
+ ***\n
+talk
+talk to
+talk
+Talk
+\^
+ 
+ likely to carry out your whims.
+in
+are
+is
+aren't
+isn't
+do
+does
+don't
+doesn't
+have
+has
+ have
+'ll
+they're
+it's
+things
+thing
+\(
+\)
+\^
+ look like ordinary 
+.
+\^
+ looks like an ordinary 
+.
+the 
+a 
+ 
+
+
+they
+it
+them
+it
+their
+its
+themselves
+itself
+s
+ making any noise.
+ smell unusual.
+ normal.
+ feel unusual.
+\^
+ 
+\^
+ 
+\^
+ 
+\^
+ 
+\n
+*** ERROR: 
+.blocksreach called with obj = nil\n
+in
+in
+in
+in
+\bblocksreach: 
+: [ 
+(
+) 
+ ]\nblocksreach: 
+: [ 
+(
+) 
+ ]\n
+Least common ancestor is 
+\n
+Child of LCA (self) is 
+\n
+Child of LCA (obj) is 
+\n
+Reach trace:\b
+ OUT [
+] of [
+]\n
+ (*)\n
+ OUT of [
+]\n
+ (*)\n
+ OUT of [nil] (*)\n
+ ACROSS [
+]\n
+ (*)\n
+ ACROSS [nil] (*)\n
+ IN [
+]\n
+ (*)\n
+ IN [nil] (*)\n
+ IN [
+] of [
+]\n
+ (*)\n
+\bEnd of reach trace.\n
+ blocks 
+ view of 
+ can't reach 
+ - 
+ 
+ in the way
+ prevents 
+ from taking 
+ prevents 
+ from smelling 
+ prevents 
+ from hearing 
+ prevents 
+ from hearing 
+ prevents 
+ from putting things in 
+ can't see anything.
+ can't touch anything.
+ can't take anything.
+ can't smell anything.
+ can't hear anything.
+ can't say anything.
+ can't put anything anywhere.
+something tells 
+ 
+ will not be a particularly productive topic.
+\^
+ can't 
+ 
+.
+see the contents of
+touch the contents of
+take the contents of
+smell the contents of
+hear the contents of
+speak to the contents of
+put anything into the contents of
+that verb requires a double-quoted string or a number.
+that verb requires a double-quoted string.
+that verb requires a number.
+that verb requires a number or parenthesized list of numbers.
+\^
+.moveinto(
+, 
+): loctype unknown\n
+in
+in
+on
+under
+behind
+in
+on
+under
+behind
+\^
+ can't 
+ 
+.
+\^
+ efforts to clean 
+ have little effect.
+Now why would 
+ want to eat 
+?
+\^
+ can't enter 
+.
+\^
+ can't exit 
+.
+There's no reason to get huffy!
+Trying to look behind 
+ doesn't gain 
+ anything.
+\^
+ 
+ no way of looking inside 
+.
+There's nothing on 
+.
+\^
+ can't look through 
+.
+Trying to look under 
+ doesn't gain 
+ anything.
+Poking 
+ doesn't seem to have much effect.
+Pulling on 
+ doesn't seem to have much effect.
+Pushing 
+ doesn't seem to have much effect.
+\^
+ 
+ have any text on 
+.
+\^
+ can't stand here.
+\^
+ 
+ wearing 
+.
+\^
+ can't ask 
+ about anything.
+\^
+ can't ask 
+ for anything.
+\^
+ can't attach 
+ to anything.
+\^
+ can't attach anything to 
+.
+Attacking 
+, while perhaps satisfying, would achieve little.
+\^
+ can't attack anything with 
+.
+\^
+ 
+ useful for cleaning things.
+There's nothing attached to 
+.
+\^
+ can't dig in 
+.
+\^
+ 
+ useful for digging.
+\^
+ can't give 
+ to anyone.
+\^
+ can't give things to 
+.
+Hitting things with 
+ isn't helpful.
+\^
+ can't lock 
+.
+\^
+ can't lock things with 
+.
+\^
+ can't move things with 
+.
+\^
+ can't plug 
+ into anything.
+\^
+ can't plug anything into 
+.
+\^
+ can't put 
+ anywhere.
+in
+on
+under
+behind
+\^
+ can't put 
+ anywhere.
+\^
+ can't put anything in 
+.
+\^
+ can't put anything on 
+.
+\^
+ can't put anything under 
+.
+\^
+ can't put anything behind 
+.
+\^
+ can't put anything through 
+.
+\^
+ can't say that.
+\^
+ 
+ know how to talk to 
+\^
+ can't screw anything with 
+.
+\^
+ can't shoot anything with 
+.
+Shooting 
+ wouldn't help 
+ any.
+Shooting 
+ wouldn't help 
+ any.
+\^
+ can't shoot anything with 
+.
+\^
+ can't show things to 
+.
+\^
+ can't take anything from 
+.
+\^
+ can't take anything off 
+.
+\^
+ can't take anything out of 
+.
+\^
+ can't take anything out from under 
+.
+\^
+ can't take anything from behind 
+.
+\^
+ can't tell 
+ about anything.
+\^
+ can't throw 
+.
+Throwing things at 
+ isn't helpful.
+\^
+ can't throw things behind 
+.
+\^
+ can't throw things through 
+.
+\^
+ can't throw things to 
+.
+\^
+ can't throw things under 
+.
+\^
+ can't turn 
+ to anything.
+\^
+ can't turn anything to 
+.
+\^
+ can't type anything on 
+.
+\^
+ can't unlock 
+.
+\^
+ can't unlock things with 
+.
+\^
+ can't unplug 
+ from anything.
+\^
+ can't unplug anything from 
+.
+\^
+ can't untie 
+ from anything.
+\^
+ can't untie anything from 
+.
+\^
+ can't unscrew anything with 
+.
+ can't light anything with 
+.
+\^
+ 
+ 
+, but 
+ find anything.
+Nothing unusual happens when 
+ 
+touch
+touches
+ 
+ with 
+.
+You cheater!
+ 
+ 
+nil
+ 
+ 
+ IN 
+You are transported!
+You get a sudden burst of omniscience!
+in
+on
+\^
+ weighs 
+ units.
+in
+on
+\^Bulk of 
+ is 
+ units.
+\^
+ can't 
+ 
+ 
+anything 
+to 
+ 
+.
+\^
+ 
+ see anything unusual about 
+.
+
+string
+"Tap, tap, tap, tap..."
+Typeon
+Enteron
+Enterin
+Enterwith
+Save failed.
+Saved.
+Writing script file.
+Okay, "
+".
+number
+You need to specify what you want to type the number on.
+"Tap, tap, tap, tap..."
+Typeon
+Enteron
+Enterin
+Enterwith
+\b*** Autosave is set to every 
+ turns  ***\n
+\b*** Autosave value is too low ***\n
+list of numbers
+intlist
+\^
+ 
+ important.
+\^
+ 
+ important.
+\^
+ 
+ too far away.
+\^
+ 
+ here.
+There 
+ 
+ here.
+in
+on
+under
+behind
+\^
+ 
+ 
+\^
+ 
+ there
+\^
+ 
+ 
+ 
+  - 
+ 
+ 
+.
+.
+on
+in
+under
+behind
+\^
+ already 
+ 
+.
+in
+\^
+ 
+ 
+.
+That was delicious!
+\^
+ quenches 
+ thirst.
+(being worn)
+(taking off 
+ first)\n
+\^
+ already wearing 
+.
+(taking 
+ first)\n
+\^
+ 
+ now wearing 
+.
+\^
+ 
+ 
+.
+\^
+. 
+\^
+ 
+ 
+\^
+ 
+ 
+(providing light)
+\^
+ 
+ 
+\^
+ 
+ 
+\^
+ 
+ 
+\^
+ 
+ 
+, lighting the area.\b
+. 
+\^
+ 
+ 
+. 
+\^
+ 
+ 
+\^
+ 
+ 
+flickers.
+goes out!
+is lit.
+is already lit.
+is not lit.
+is burned out.
+\^
+ reads, "..."
+button
+dial
+\^
+ can be turned to settings numbered from 
+ to 
+.
+It's currently set to 
+.
+There's no such setting.
+Okay, it's now turned to 
+.
+It's already set to 
+.
+\^
+ can't turn 
+ to that.
+switch
+Okay, 
+ is now switched 
+on
+off
+.
+\^
+ can't pull 
+.
+\^
+ can't move 
+.
+\^
+ 
+ already turned on.
+Okay, 
+ 
+ now turned on.
+\^
+ 
+ already turned off.
+Okay, 
+ 
+ now turned off.
+in
+on
+under
+behind
+There doesn't appear to be anything 
+ 
+.
+\^
+ can't put 
+ 
+ 
+!
+\^
+ 
+ already 
+ 
+.
+\^
+ can't hold any more.
+\^
+ won't fit 
+
+.
+Done.
+in
+in
+on
+on
+under
+under
+behind
+behind
+\^
+ 
+ currently 
+open.
+closed.
+\^
+ 
+ already open.
+in
+\^
+ 
+ already closed.
+Opened. 
+in
+Closed.
+in
+\^
+ have to open 
+ first.
+\^
+ 
+ already open.
+\^
+ have to unlock 
+ first.
+\^
+ 
+ already locked.
+\^
+ have to close 
+ first.
+\^
+ 
+ already locked.
+\^
+ 
+ need anything to lock 
+.
+\^
+ 
+ fit the lock.
+\^
+ have to close 
+ first.
+\^
+ 
+ not locked.
+\^
+ 
+ not locked.
+\^
+ 
+ need anything to unlock 
+.
+\^
+ 
+ fit the lock.
+Locked.
+Unlocked.
+key
+(
+)
+\^
+ 
+ 
+.
+tied
+plugged in
+attached
+not 
+ to anything
+ to 
+, and 
+ and 
+, 
+tie
+untying
+plug in
+unplugging
+attach
+detaching
+\^
+ can't 
+ 
+ to 
+.
+\^
+ can't 
+ 
+ to 
+ without 
+ 
+ from something else first.
+\^
+ can't 
+ 
+ to 
+ without 
+ 
+ from something else first.
+Done.
+tied
+plugged in
+attached
+\^
+ 
+ not 
+ to anything.
+untie
+unplug
+detach
+\^
+ 
+need
+needs
+ to be more specific about what 
+ 
+want
+wants
+ to 
+ 
+ from.
+tied
+plugged in
+attached
+\^
+ 
+ not 
+ to 
+.
+Done.
+untie
+unplug
+detach
+\^
+ have to 
+ 
+ from 
+ first.
+
+<banner id=StatusLine height=previous border> <body bgcolor=statusbg text=statustext><b>
+</b><tab align=right><i>
+ 
+ 
+ 
+ 
+</i></banner>
+\n\t
+ ...
+In the dark
+sitting
+, sitting down
+lying
+, lying down
+in
+It's too dark to see.\n
+\n
+\^
+ 
+ smell anything unusual.
+\^
+ 
+ hear anything unusual.
+\^
+ 
+ feel anything unusual.
+<body 
+bgcolor=
+ text=
+>
+in
+\^
+ can't see anything - it's too dark.
+standing
+\^
+ 
+ now standing.
+, 
+ 
+\^
+ have to get 
+ 
+ first.
+\^
+ can't put anything in 
+.
+\^
+ can't take anything out of 
+.
+\^
+ have to get 
+ 
+ to reach 
+.
+, 
+ 
+ 
+behind
+\^
+ not behind 
+.
+standing
+\^
+ 
+get
+gets
+ out from behind 
+. 
+standing
+\^
+ 
+get
+gets
+ out from behind 
+.\b
+standing
+\^
+ now standing behind 
+.
+in
+in
+\^
+ can't hold 
+ weight.
+table
+on
+ 
+under
+chair
+, 
+ 
+ 
+in
+\^
+ not in 
+.
+sitting
+\^
+ now sitting in 
+.
+standing
+\^
+ now standing on 
+.
+standing
+\^
+ 
+ now standing.
+stool
+, 
+ 
+ 
+on
+\^
+ not on 
+.
+sitting
+\^
+ now sitting on 
+.
+standing
+\^
+ now standing on 
+.
+standing
+\^
+ 
+ now standing.
+ledge
+, 
+ 
+ 
+on
+\^
+ not on 
+.
+on
+sitting
+\^
+ now sitting on 
+.
+on
+lying
+\^
+ now lying on 
+.
+on
+standing
+\^
+ now standing on 
+.
+Please be more specific. \^
+ can sit, stand or lie on 
+.
+standing
+\^
+ 
+ now standing.
+bed
+, 
+ 
+ 
+desk
+on
+Open.
+Closed.
+shelf
+on
+\^
+ 
+ 
+open
+closed
+ and locked
+.
+(Opening 
+)\n
+\^
+ have to open 
+ first.
+\^
+ 
+ already open.
+\^
+ have to unlock 
+ first.
+\^
+ 
+ already closed.
+\^
+ 
+ already locked.
+\^
+ can't be locked.
+\^
+ have to close 
+ first.
+\^
+ 
+ not locked.
+\^
+ 
+ already locked.
+\^
+ can't be locked.
+\^
+ 
+ need anything to lock 
+.
+\^
+ 
+ fit the lock.
+\^
+ have to close 
+ first.
+\^
+ 
+ not locked.
+\^
+ 
+ need anything to unlock 
+.
+\^
+ 
+ fit the lock.
+%You% can't knock on 
+ - it is open! 
+%You% 
+ 
+. 
+Enter
+Gothrough
+Open.
+Closed.
+Locked.
+Unlocked.
+There is an ominous <click> as the catch on 
+ drops, locking it. 
+keyhole
+\^
+ is currently 
+blocked by 
+, which 
+ in it.
+blocked by an object placed in the other side of the keyhole.
+empty.
+\^
+ is blocking 
+ view through the keyhole.
+Something on the other side is blocking 
+ view through the keyhole.
+\^
+ can't, because there is already something in 
+.
+As 
+ 
+ 
+ into 
+, 
+ 
+hear
+hears
+ a soft thunk on the other side.
+sitting
+\^
+ 
+ now sitting down.
+lying
+\^
+ 
+ now lying down.
+\^
+ already on the ground. 
+ground
+ground
+floor
+walls
+walls
+wall
+ceiling
+ceiling
+ can't see 
+.
+ can't touch 
+.
+ can't take 
+.
+ can't smell 
+.
+ can't hear 
+.
+ can't hear 
+.
+ can't put anything 
+ 
+.
+that verb requires a double-quoted string or a number.
+that verb requires a double-quoted string.
+that verb requires a number.
+that verb requires a number or a parenthesized list of numbers.
+\^
+ 
+are
+is
+ broken! 
+\^
+ 
+are
+is
+ already broken! 
+\^
+ 
+ 
+. 
+standing
+\^
+ 
+ here.
+themselves
+self
+\^
+ 
+ seem interested.
+You can't travel to nowhere!
+standing
+(\^
+ 
+ up)\b
+standing
+in
+in
+\^
+ 
+ "
+".
+*** \^
+ 
+ died ***
+\^
+ load is too heavy.
+\^
+ can't carry any more.
+\^
+ can't look inside 
+.
+\^
+ can't put things in 
+.
+\^
+ can't take things out of 
+.
+\^
+ can't show things to 
+.
+\^
+ 
+ seem interested in 
+.
+\^
+ 
+ have much to say about 
+.
+\^
+ can't throw things at 
+.
+\^
+ can't throw things to 
+.
+\^
+ can't take things from 
+.
+\^
+ 
+ 
+ and won't let 
+ have 
+.
+\^
+ have to convince 
+ to give 
+that to 
+ 
+ first.
+\^
+ 
+ 
+ possessions. 
+ is no longer here. 
+\^
+ is no longer here.
+\^
+ is no longer here.
+they're
+he's
+they
+he
+them
+him
+their
+his
+they're
+she's
+they
+she
+them
+her
+their
+her
+\^
+ can't give things to 
+.
+in
+\^
+ 
+ 
+ to 
+.
+in
+\^
+ 
+ want 
+.
+\^
+ says "Do it yourself!"'\n
+\^
+ says "
+".\n
+\^
+ says "
+".\n
+\^
+ 
+ have much to say about 
+.
+ looks at 
+, puzzled.
+\n\^
+ leave
+
+s
+ to the 
+.
+\n\^
+ enter
+
+s
+ from the 
+.
+\n\^<,self.subjthedesc>> starts going to the 
+. 
+am
+are
+am not
+aren't
+do
+don't
+have
+don't have
+I'm
+you're
+I
+you
+I
+you
+I
+you
+\^
+ 
+ 
+lying
+sitting
+ down.
+.
+I
+you
+me
+you
+my
+your
+myself
+yourself
+\^
+ says "Do it yourself!"'\n
+Taken.
+\^
+ 
+ appear to be carrying anything.
+\^
+ simply can't go on any longer without food. \^
+ perish
+
+es
+ from lack of nutrition. 
+\^
+ can't go much longer without food. 
+\^
+ 
+ feeling very hungry. \^
+ better find some food soon.
+\^
+ 
+ feeling a bit peckish. Perhaps it would be a good idea to find something to eat.
+\^
+ simply can't go on any longer without water. \^
+ die
+
+s
+ of thirst.
+\^
+ can't go much longer without water. 
+\^
+ 
+ feeling very thirsty. \^
+ better find something to drink soon.
+\^
+ 
+ feeling a bit thirsty. Perhaps it would be a good idea to find something to drink.
+\^
+ wake
+
+s
+ up later with a headache.
+\^
+ pass
+
+es
+ out from exhaustion.
+\^
+ 
+ so tired, 
+ can barely keep 
+ eyes open.
+\^
+ 
+ feeling very sleepy. \^
+ better find a place to rest soon.
+\^
+ 
+ feeling a bit sleepy. Perhaps it would be a good idea to find a place to sleep.
+If you want to give another character access to 
+ belongings, you'll have to be more direct about it. For example, "give item to actor".
+Talking to yourself is fine. Expecting answers is  weird!
+ 
+ feel like  talking. 
+\b
+<hr>
+\n
+) 
+\n# 
+\b
+\b
+DDialog: v 1.0 February 1994.\n
+Trevor Powell
+directed dialog
+RActor: v 1.2 April 1994.\n
+Jeff Laing
+real actors
+in
+in
+\H+
+\b\([Restoring saved game]\)\b
+\H+
+\b
+\n<hr>\n
+
+
+)
+]
+,
+ 
+
+
+(
+[
+ intlist 
+)
+]
+
+ 
+\n
+tell
+ask
+to
+,
+\b\(&gt 
+<font face='TADS-Input'>
+</font>
+\)
+TOP
+TOP
+\^
+ can't see anything matching that vocabulary here.
+\^
+ can't touch anything matching that vocabulary here.
+\^
+ can't take anything matching that vocabulary here.
+\^
+ can't smell anything matching that vocabulary here.
+\^
+ can't hear anything matching that vocabulary here.
+Nothing matching that vocabulary can hear 
+.
+NIL
+NIL
+\^
+ can't see anything  matching that vocabulary here.
+\^
+ can't touch anything matching that vocabulary here.
+\^
+ can't take anything matching that vocabulary here.
+\^
+ can't smell anything matching that vocabulary here.
+\^
+ can't hear anything matching that vocabulary here.
+Nothing matching that vocabulary can hear 
+.
+in
+on
+under
+behind
+out of
+off of
+out from under
+out from behind
+in
+on
+take
+see
+hear
+smell
+reach
+north
+northeast
+east
+southeast
+northwest
+west
+southwest
+south
+up
+down
+Look: v 1.9 May 1994\n
+Jeff Laing
+extended item descriptions
+ 
+ 
+ 
+\^
+ 
+\ 
+
+,
+ and 
+, 
+ \v
+. 
+ are 
+ is 
+in
+ here. 
+ 
+ 
+. 
+\^
+ 
+Some things 
+Something 
+ 
+ 
+ 
+ 
+. 
+\^
+ 
+Some things 
+Something 
+ 
+ 
+ 
+ 
+. 
+\^
+ 
+Some things 
+Something 
+ 
+ 
+ 
+ 
+. 
+The Test Room
+\([You really shouldn't be here! Scream at Brett.]\)
+This is the test room. Test stuff goes here. Wow.
+dummy
+test
+guy
+test
+test guy
+Man, he looks just like a crash test dummy!
+The crash test dummy goes, "Um, I woulda thought you were the one to ask about that."
+"Whoa dude, cut to the metaphysical stuff, don't you?" mocks the crash test dummy.
+The dummy grins widely. "A bit of how's-your-mother, eh?"
+You really wanna talk about me? Here, have a crowbar.
+The crash test dummy shrugs his shoulders.
+me
+self
+myself
+You look like ordinary ol' you.
+\H+
+\n<hr>\n
+\(Convolution\)\n
+[DEBUG VERSION!]\n
+By Brett Witty.\n
+Copyright (c) 2004 Brett Witty.\b\b
+Warning: This game may contain subject matter that some players may find disturbing or confrontational.\b
+For instructions and hints on how to play, consult the readme or use "help" or "instructions" in-game. To play Convolution, press space.
+\b\b\b\b
+You suddenly snap out of a train of thought, your head throbbing with pain and flashes of something you can't quite catch hold of (or maybe understand). Now what was that you were thinking of?\b Despite your best and desperate attempts, you can't quite remember... You stop and look around. Wait up, where the heck are you? You find yourself leaning against some crumbling wall, surrounded by delivery boxes. A cursory inspection suggests that this is a basement... But of what? And where?\b You knuckle your head in confusion, suddenly noticing a scrap of paper in your fist. You stand up straight, take a cautious breath and a better look around...\b\b\b
+ 
+\b
+*** Your score just went up by 
+ points. ***
+*** Your score just went down by 
+ points. ***
+*** Your score just went up by a point. ***
+*** Your score just went down by a point. ***
+\n[You can turn off score notification by typing 'notify'.]
+the credits
+\(Convolution\)\n
+By Brett Witty\b
+This is my maiden effort, although not my first exposure to IF programming (look for Shorokin on LambdaMOO). Convolution began in January of 2004 and ended some time after that. The game was mapped out and plotted before being committed to code. It originally began in a shareware version of ADRIFT, but obviously needed a better system. Some of the locations were produced in vanilla TADS, but I soon switched over to WorldClass and haven't looked back since.\b
+Playtesters:\n
+\t None yet.\b
+Thanks go to:\n
+\t My friends\n
+\t Michael J.\ Roberts for TADS\n
+\t David M.\ Baggett and David Haire for WorldClass\n
+\t My usual sources of inspiration: Alan Watts, The Wachowski Brothers, Douglas Adams, Monkey Punch and the rest.\n
+\t William Shakespeare, for his insistence on appearing in almost every project I undertake, despite my best attempts to shake him.\n
+\t My thesaurus and dictionary (of the good ol' paper variety). Thanks for the suggestions.\n
+\t The IF community for supporting the art form so thoroughly.\b
+And now for the serious credits:\b
+credits
+credit
+credits
+\b
+, 
+The following modules were provided by TADS developers who were prepared to share their work with others:
+\bIf you are a TADS developer, please consider doing the same. All the above mentioned modules should be available for ftp from the interactive fiction archive maintained by \(Volker Blasius\) on \(ftp.gmd.de\).
+
+, 
+, 
+ and 
+\b\^
+ 
+were
+was
+ provided by \(
+\).\n
+help
+help
+This has not been implemented yet! Harrass Brett!
+You can't get out that easily! Take it like a man! 
+xyzzy
+xyzzy
+You inhale deeply and fearfully squeak out the word "XYZZY".\b You pause.\b Nothing happens. Perhaps you're not pronouncing it correctly?
+plugh
+plugh
+For some whimsical reason, you try to say "plugh" a few times. You end up saying something more like "blergh". Nevertheless it comes out hollow. 
+plover
+plover
+Unexpectedly, you find yourself thinking about short-billed wading birds which are typically found near water but sometimes frequent grasslands. Now what brought <I>that</I> on?
+cursing
+fuck
+shit
+cunt
+bastard
+damn
+darn
+You curse loudly. Somewhere far away, your mother's ears are tingling. 
+burp
+burp
+belch
+You build up a great reserve of intestinal power and then release it in an almighty belch.
+tap
+tap on
+tap on
+taps on
+Tapon
+clear
+clear away
+sweep
+brush
+wipe
+clear
+Clear
+kiss
+smooch
+snog
+kiss
+Kiss
+shake
+rattle
+jiggle
+shake
+Shake
+You don't smell anything unusual. 
+You don't hear anything unusual. 
+You don't feel anything unusual. 
+Far above you is the sky. Clouds lazily drift across aimlessly. 
+Knockon
+Tapon
+window
+a window
+An ordinary window.
+the 
+broken
+
+ window
+\^
+ 
+ 
+open
+closed
+ and locked
+.
+(Opening 
+)\n
+\^
+ have to open 
+ first.
+\^
+ 
+ already open.
+\^
+ have to unlock 
+ first.
+\^
+ 
+ already closed.
+\^
+ 
+ already locked.
+\^
+ can't be locked.
+\^
+ have to close 
+ first.
+\^
+ 
+ not locked.
+\^
+ 
+ already locked.
+\^
+ can't be locked.
+\^
+ 
+ need anything to lock 
+.
+\^
+ 
+ fit the lock.
+\^
+ have to close 
+ first.
+\^
+ 
+ not locked.
+\^
+ 
+ need anything to unlock 
+.
+\^
+ 
+ fit the lock.
+%You% can't tap on 
+ - it is open! 
+You can't tap on the broken window. 
+%You% 
+ 
+. 
+\^
+ 
+are
+is
+ already broken! 
+%You% 
+ 
+. 
+You gaze through 
+ and see the world beyond. 
+Enter
+Gothrough
+Tapon
+Knockon
+Open.
+Closed.
+Locked.
+Unlocked.
+The window is sealed, preventing entry. 
+(Clearing away the broken glass first)\n
+You should clear away the broken glass first. 
+You can't open a sealed window! 
+You can't close a sealed window! 
+You cannot lock this kind of window. 
+You cannot unlock this kind of window. 
+You cannot lock this kind of window. 
+You cannot unlock this kind of window. 
+There is nothing to clear away!
+You pull your hand inside your jacket arm and sweep away the broken glass, leaving a relatively safe passage through the window.
+You are wary about sliding through the window with so much broken glass about. Maybe you should clear it away first. 
+You can't go through the window as it is sealed shut. 
+broken
+smashed
+shattered
+DVD case for 
+Long and interesting review of the DVD 
+. 
+\^
+ clicks open. 
+You click 
+ closed. 
+DVD of 
+ 
+Blank CD
+\^
+ is horribly smudged. 
+Oh no! It's scratched!
+\(
+\)
+You glide your fingers across the perfectly uniform surface of the disc. Oops, smudges. 
+You inhale deeply, and only barely detect the plastic processing plant scent on the DVD. 
+You lick the DVD, and ponder the taste. Hmmm... tastes like 
+. 
+Using a soft part of your shirt you clean 
+You think it'd be bad karma to break someone else's 
+ DVD. Do unto others... 
+You have neither the chewing ability nor the stomach to eat 
+. 
+You flip 
+ in the air, and fumble to catch it. They might offer superior visuals and sound, but they sure aren't aerodynamic. 
+You promised yourself when you were younger that you'd never hit a girl or compact multimedia sources. You wouldn't mind smashing up a BetaMax(tm) tape, though. 
+You poke idly at 
+, leaving only oily smudges.
+\^
+ is something that cannot be screwed. In all senses of the word. 
+DVDs are compact, not comfortable! 
+As avant garde you may consider yourself to be, DVDs are not fashion accessories. 
+sky
+firmament
+up
+the sky
+From somewhere far away the wind carries along the electrifying sounds of Jimi Hendrix. 
+Kiss which guy? 
+DUMMYITEM
+dummy item
+If you're reading this, you are making Baby Jesus cry.
+waxer
+buffer
+machine
+floor
+waxing
+floor waxing machine
+This is the exceptionally fine WaxMaster 9000, as seen on TV!
+key
+janitor
+janitor's
+steel
+a key
+the janitor's key
+The key is a small, steel key on a keyring. There is a tag with the words "Vern (Janitor)". 
+scrap
+paper
+note
+memo
+scrap
+crumpled
+crumpled up
+crumpled up scrap of paper
+It appears to be a scrap of paper, hastily torn from a notebook and then crumpled up. There is some scribbled writing on one side.
+The writing looks to be dashed off quickly. It reads: "Get out! Save yourself!"\b 
+
+Ooookaay.
+ 
+bowl
+bowl of fruit
+fruit
+metal
+bowl of fruit
+The bowl does what its meant to - hold fruit, that is. However, under the right light, it has a pseudo-militaristic/Japanese style to it. 
+banana
+nana
+ripe
+yellow
+ripe banana
+Stuffed full of healthy Vitamin B, this banana would be a great snack! 
+Mmmm... That was delicious! 
+peel
+skin
+banana
+banana
+banana skin
+Devoid of any banana-goodness, this skin may have no use at all. 
+apple
+red
+juicy, red apple
+What a gorgeously red and crisp-looking apple. It looks so inviting... (Wait, didn't that get someone into trouble before?) 
+You crunch your way through the delicious apple to the core. 
+core
+apple
+apple
+apple core
+The remains of a once-juicy apple. 
+an apple core
+crowbar
+bar
+iron
+iron crowbar
+an iron crowbar
+The strong sense of solidity, weight and purpose gives the crowbar an aura that most other bars of metal don't. Some people go their whole lives without hefting one of these guys in their hands and feeling that tingle of criminal power. You will not be one of them.
+envelope
+creepy
+stylish
+elegant
+ivory
+bone
+stylish envelope
+It is a very elegant envelope. It is made out of an ivory-hued card (or is that bone-white?) On the front there is an embossed design and the back is plain with 
+ the envelope flap left open
+ the envelope flap tucked neatly in
+. The whole package feels very refined and crisp in your hands. 
+You see no envelope here. 
+design
+crest
+emblem
+symbol
+knot
+envelope
+embossed
+paper
+small
+maddening
+the embossed design on the envelope
+The embossed design is an intricate Celtic knot framing the initials "CT". The knot has a maddening complexity to it - the strands weave over and under and you don't know if there is one strand or many, nor if the knot has any ends that you can see. 
+letter
+paper
+message
+elegant
+letter addressed to you
+professional-looking letter
+Something is definitely off-putting about the letter. It has been printed immaculately (almost mechanically) on professional onion-skin paper, closed with three sharp, neat folds. The letter itself is as deliberate as the presentation --- three punchy lines of text with no signature. Most intriguingly, it's addressed to you. 
+You unfold the letter and notice immediately it has been addressed to you. You read further:\b\b\b\t Now that you are up and about, you are invited to see us upstairs to try again to resolve this matter.\b\t Room 808.\b\b\b What the hell? Resolve what matter? Why don't they just let you out of here? You fold up the letter and put it away, shaking your head in disbelief. 
+reading the weird letter
+box
+package
+open
+opened
+opened package
+an opened package
+An opened parcel, alone from the others, sits near your feet. A hint book seems to be sticking out of it. 
+A lonely, empty, and opened parcel lies to one side. 
+The 
+overturned
+
+ package is a sturdily built cardboard box emblazoned with the "HintCo" logo. 
+A futuristic-looking book is half buried amongst the polystyrene packing peanuts. 
+Amongst the spray of polystyrene peanuts lies an electronic notebook, face-down. 
+A spray of polystyrene peanuts lie scattered around the box. 
+book
+hints
+guide
+cheats
+help
+hint
+guide
+cheat
+weird
+nifty
+futuristic-looking
+futuristic
+the hint book
+A nifty looking hint book. 
+It is opened to a section entitled "
+". 
+You notice a 
+illuminated
+darkened
+ red button discreetly set into the corner of the book. Below it is a tiny switch that is set to 
+on
+off
+. 
+Contents
+How To Use This Guide
+Purpose
+\^
+ 
+ already open.
+\^
+ 
+ already closed.
+You open 
+ to the contents page. 
+You close 
+. 
+(first opening 
+.)
+<CENTER><U>Table of Contents.</U></CENTER>\b\b
+\t\t 
+. 
+.\n
+one
+two
+You turn 
+ to Section 
+. 
+You flick the little switch on 
+. 
+BLANK
+This hint book is designed to be a portable way of receiving hints without breaking the virtual reality. It works like a book. Use the 'turn hint book to n' to go to Section n. Enter n as a number like 1 or 6. To read the current section, type 'read hint book'.\b The book does not automatically (by default) read the page when you turn to a new section, so you don't accidentally see hints if you mistype the section number. If you want the book to automatically read the section, type 'push automatic reading button'. Push the button again to revert to the default behaviour. The red light on the book indicates the current setting.\b You can open and close the book. Closing it loses your place (reopening the book brings you to the contents page).\b Every so often, the hint book will hum if it has added a new hint. You can turn off the hum by 'turn off hint book'. If you miss the humming, use 'turn on hint book'.\b Don't worry about losing this book. You can use 'summon hint book' to magically bring it to your person (regardless of where it was). You can't break the hint book though you can try if you like. 
+button
+automatic
+reading
+red
+automatic reading button on hint book
+The button is discreetly set into one corner of the book. 
+It is illuminated by a small LED, indicating that automatic reading is enabled.
+It is currently dark, but if it were lit up, that would mean automatic reading is enabled. Clearly this option is currently disabled.
+ 
+You need to be near 
+ to do that!
+You push the button and it lights up in a dull red.\b (Automatic reading is now ON) 
+You push the button and watch the red LED slowly fade out.\b (Automatic reading is now OFF) 
+switch
+tiny
+humming
+tiny switch on hint book
+This switch is set into the cover of the hint book. It controls whether the book hums or not. Currently 
+the switch is set to "on"
+the switch is off, stopping any humming
+. 
+You need to be near 
+ to do that!
+You flick the switch up and 
+ responds with a gentle beep.\b (Humming is now ON) 
+You flick the switch down and 
+ responds with an abrupt bloop.\b (Humming is now OFF) 
+vern
+janitor
+vern the janitor
+Vern the Janitor
+Vern is your typical hard-working, underpaid, underappreciated janitor. He has a big bushy moustache that gives him an air of seriousness, or more likely, it muffles his occasional muttered curses. He wears a wearied set of (once) blue overalls discoloured with hundreds of exotic stains - the product of years of custodial service. 
+Vern the Janitor mills about, fixing this or that. 
+Vern mumbles, "No thanks." 
+overalls
+trousers
+smock
+worn
+wearied
+blue
+stained
+discoloured
+discolored
+Vern's overalls
+Vern's denim overalls look tough, well-worn and have seen a lot of janitorial action. You guess that some of the muck he deals with just won't wash out all that easily. 
+stains
+muck
+overall
+overalls
+exotic
+the stains on Vern's overalls
+The number and variety of stains on Vern's overalls astounds you. There are the various brown-black splotches on the chest, a couple of chemical discolorations here and there, and the legs are a darker, sedimentary colour from the knees down (as though he had done some muck-wading on occasions). You even notice the occasional mustard stain down the front.\b 
+Vern gives you a querulous look in response to your staring. 
+Vern looks down at his overalls, wondering if you'd spotted something embarrassing that he hadn't. 
+Vern shifts slightly and puts his hands in front of him, trying to break your intrusive staring. 
+God
+almighty
+omniscient
+benevolent
+malevolent
+universal
+Christian
+God
+purpose
+purpose
+the game
+convolution
+this game
+the game
+money
+cash
+moolah
+dosh
+pounds
+dollars
+cents
+sterling
+bread
+loot
+bucks
+money
+sex
+intercourse
+lust
+banging
+sex
+love
+romance
+love
+reality
+the universe
+the world
+reality
+TADS
+WorldClass
+the TADS programming system
+meaning of life
+the meaning of life
+Behind a bunch of boxes
+You find yourself surrounded by hundreds and hundreds of boxes. This storage area seems to be tucked away in some mouldy corner of a basement somewhere. Murky light seeps in from the small, dusty window near the ceiling. 
+The boxes lie in neat stacks around you, except for a few small random piles near the cleared way to the north. 
+You deftly weave a way through the cardboard boxes out into... \b
+boxes
+bunch
+bunch of
+delivery
+hundreds
+unopened
+reject
+the boxes
+The boxes seem to be unopened delivery boxes, piled high in vaguely ordered way. They surround you in a creepy "fort of postal rejects" way.
+Except for a small passage to the east, the boxes surround you.
+The delivery boxes are piled up all around you, except for a tight passage to the east and a small cleared way to a door to the north.
+Hundreds of names are scribbled on the delivery boxes - some that sound vaguely familiar, others that definitely don't and many more that you can't even read (unless their names contain very few vowels...)
+As much as your heart desires to stand gloriously atop these Boxes Of Delivery, vanquishing them with your magnificent mountaineering skills, the ceiling is way too low and you doubt whether they could hold you (reliably). 
+Try as you might, you can't seem to stack any boxes flat enough to be appropriate for lying on!
+You try lying on a few boxes that don't look too bad... Unfortunately, one of them make a horrible crunch sound when you put your weight on it. You roll away and figure you'd be better off in your current position.
+Figuring you have nothing better to do, you start getting ready for a good ol' lie down, but then you realize, you DO have something better to do!
+You sit on one of the boxes and ponder your predicament. 
+sitting
+You prepare to give the boxes a solid shove, when then the word "avalanche" comes to mind. You can think of more glamorous ways to die and so leave the boxes be.
+mould
+corner
+mouldy
+mould
+Upon closer inspection, there seems to be no substantial mould, although this place certainly suggests that there should be.
+kazakhstan
+kazakh
+kaz
+kazak
+kazakhstan
+If you squint you think you can see the name "Nazarbayev" who lives somewhere in Kazakhstan. 
+window
+small
+dusty
+small, dusty window
+The window seems to be completely covered in grime from the outside. There is no way to open the window. Anyway, it's too small to squeeze through.
+The Basement
+Quite obviously, this is a basement. Even more clearly, the place isn't regularly used - dust and spiderwebs decorate the place. Cardboard boxes are stacked high to the west and you think you can see a narrow path through them. There is a small metal door to the south and stairs leading upwards to the east.
+The floor is quite dusty, except for the clear track from the stairs to the door to the south. Other than that, it's unremarkable, worn cement.
+You squeeze through the boxes.\b 
+The door seems very much locked. 
+You need to open the door first.
+You walk up the stairs into the light.\b 
+light
+basement light
+There are a few cased lights embedded in a few spots around the ceiling. They seem to be those industrial-grade lights that are turned on once and stay on for half a century or so. You see no way to turn them on or off, or even fiddle with them.
+dust
+dust
+The dust seems well-settled in here, except for a clear track from the stairs to the metal door to the south. 
+web
+webs
+spiderwebs
+spider
+spiderwebs
+You are surprised there aren't more spiderwebs hanging about. Maybe there aren't enough bugs down here.
+door
+janitor
+closet
+metal
+small
+janitor's
+janitor
+small metal door
+The door to the janitor's room is open. 
+The sturdy metal door is shut. Scratched into the middle of it is the word "Janitor". No prizes for whose room lies beyond.\b 
+door
+janitor
+closet
+metal
+small
+janitor's
+janitor
+small metal door
+The door to the janitor's room is open. 
+The sturdy metal door is shut. Scratched into the middle of it is the word "Janitor". No prizes for whose room lies beyond.\b 
+The Janitor's Room
+Typical for someone employed to do all the hard work - the supervisor's room is tiny. It's very utilitarian (ironic for a utility closet). A bare light bulb illuminates the room in a harsh light. The door leading out is currently 
+wide open
+shut
+. 
+The door seems very much locked. You'll have to find a way around that. Or maybe not. 
+You need to open the door first.
+closet
+cupboard
+storage
+storage closet
+A sizable storage closet. 
+There is a sizable storage closet against the side wall. 
+Some back room
+This is a back room that lies north from what seems to be a reception area. With all the hastily-stacked boxes and abandoned furniture it seems as though someone has been using this place as a temporary storage area. Not effectively, mind you.\b Just beyond a few boxes correctly placed to trip an unwary traveller lies a set of stairs heading west, down into the basement. A fortified emergency exit lies to the north.
+You step cautiously down the stairs into the basement. It takes a while for your eyes to adjust.\b 
+boxes
+box
+packages
+hastily-stacked
+stacked
+cardboard
+pile of boxes
+The arrangement of these boxes is clearly the product of hastiness or laziness. Or both. Some boxes are all stacked askew, arranging themselves according to gravity. Others seem to be stacked with good intention - one box has its "This way up" arrow pointing directly down, a small box supports a larger and heavier one... You're sure that in the right gallery this would be an avante-garde centerpiece of great distinction. Lying in this back room they have been demoted to "clutter". 
+The boxes that immediately catch your eye do not keep your interest - you do not feel you need them. 
+chair
+abandoned
+busted
+broken
+bent
+crooked
+twisted
+busted-up chair
+Some things in this world sure got the rough end of the stick in terms of their existence: mayflies, dung beetles, New Coke(tm) and this chair. It began its life as one of those dime-a-dozen, plastic-backed, unergonomic chairs that they often use for school assemblies or town meetings. They are produced en masse with cheap (foreign) labour; they only require screwing two bent pieces of metal to the plastic seat. Unfortunately, their cheap manufacture seems to induce enraged people to hurl them at walls, lazy people to snap their backs via creative postures and fat people to accidentally crush them. This specimen has had its seat warped and its legs bent and snapped off. It lies in a tangle heap of plastic and metal in one corner of the room. If it wasn't just a stupid chair, you might shed a tear for its beleaguered existence. 
+You think about taking this tangle of plastic and metal, but it doesn't serve its intended purpose - you couldn't possibly sit on it - nor does it lend itself to convenient carrying. You are sure your creativity stops well short of being able to make this busted up chair useful. 
+door
+exit
+fortified
+locked
+back
+emergency
+reinforced
+the emergency exit
+Whoever runs this place must have forgotten the purpose of this emergency exit. The doorway is fairly wide so you guess they may have used this as the main delivery point - scratches of paint and blunt gouges in the metal frame seem to confirm this theory. However they must have found a better way and subsequently locked this door permanently. It looks solid enough to shrug off any axe-wielding maniac, and even seems to be doing a good job against the occasional rust stain. Trying to shove this door open would be a recipe for a broken shoulder. You dread to think what the fire safety inspectors would make of it. 
+You rattle the door bar, but the door doesn't even make a pretence of being able to open. 
+You would probably need a special key and an unbelievable amount of strength to open this door. You have neither. 
+\^
+ run smack into 
+. Maybe you should try opening it first.
+You 
+ 
+ to little effect - the door bar rattles a little, but the door itself seems too strong to let your knocking through. 
+The Reception
+The reception office seems to be rarely used. It has the usual assortment of administrative stuff strewn about, but has that "I'll be right back in a month or so" look to it. Between the mess and the filing cabinets is an important-looking door to the east. Otherwise, a plain-looking door to the north leads out the back and you spot the main lobby to the south.
+The Lobby
+You swear you've seen this lobby a million times before - probably in various movies. It seems more like an apartment lobby than a lobby for an office building or hotel. There is a seventies-style elevator to the west, the entrance to the south, the reception to the north and a hallway leading off to the east.
+The Entrance
+The entrance area is only lit by the light coming in off the street and some of the fluoros in the lobby to the north. It would probably give the residents a glum welcoming as they checked their mail. Nevertheless, the janitor keeps the place presentable, despite the bad architectural design. There is a set of closed glass doors to the south that lead out to the street. 
+To your surprise, the doors have been chained shut! 
+doors
+door
+front
+entrance
+chained
+the front doors
+The doors are slightly more impressive than you expected - the frames are constructed out of expensive oak that hold large glass panes stencilled with an elaborate insignia. Surprisingly, the handles are wrapped with a massive set of chains locked with a large, heavy-duty padlock. 
+An envelope has been tucked between the chains. 
+insignia
+crest
+emblem
+symbol
+stencil
+door
+stencilled
+big
+glass
+insignia on the door
+The insignia stencilled on the door is an elaborate Celtic knot. It is woven in a maddening way - you can't figure out if there is a beginning or an end, or even if there are more than one distinct strand! In an elegant calligraphic font below the design are the initials CT. The whole thing is very expensive and elaborate, but of no use to anybody!
+Ground floor hallway
+This hallway slinks off to the side of the lobby. Some effort has been made to jazz up the hallway with the an obligatory scattering of paintings and so forth, but it does feel a little underachieved. At the eastern end of the hallway there is a stairwell leading up and immediately to the south is a swinging door labelled "Laundry". Alternatively you can return to the lobby to the west.
+NEEDS TO BE IMPLEMENTED!
+Ground floor stairwell
+The stairwell is your usual spartan concrete fire escape, lit with cold fluorescent lights. The stairs only lead up (as indicated by the sign). Alternatively, you can walk out into the hallway to the west. The hallway seems to lead out into the lobby. 
+Good ol' fashioned concrete.
+sign
+arrow
+small
+metal
+shiny
+sign
+This standard-issue metal sign tells you are on the ground floor. It also informs you that the first floor can be found upstairs. 
+The sign points diagonally upwards and informs you matter-of-factly: "First". 
+The sign is firmly glued to the wall. 
+light
+fluoro
+lighting
+fluoro
+fluorescent
+hum
+humming
+buzz
+buzzing
+stairwell
+fluorescent light
+It's just your run-of-the-mill fluorescent lighting. 
+door
+east
+east
+manager
+manager's
+the door to the manager's office
+By all rights, this door should be the same as all the other standard wooden doors about the place. But as the little gold-plated sign in the center of the door indicates that this is the door to the Manager's office, standard isn't good enough. You guess he would have wanted to install a grand oak door with intricate and powerful carvings, but budget and space was tight so all he got has an extra coat of shellac on the door (plus the spiffy gold-plated sign). 
+Surprisingly, the door is open, inviting like the mouth of a venus fly trap.
+Nevertheless it is firmly shut, clearly demonstrating the line between the power and the plebs.
+ 
+\^
+ 
+ 
+ strangely left open
+firmly shut
+. 
+The door creaks softly, almost as though it gasped at your intention to enter into The Forbidden Zone. 
+With a sigh, the door closes and clicks shut. 
+The door locks with a definitive <I>click!</I>. 
+With a slightly resistive click, the door unlocks. 
+sign
+manager
+gold
+gold-plated
+spiffy
+sign saying "Manager"
+This stylish, gold-plated wasn't from any ol' hardware store; it looks like it has been professionally machined and fitted. It's even been polished recently, judging from your golden reflection.
+shellac
+paint
+varnish
+glossy
+shiny
+extra
+coating
+shellac on the Manager's door
+The door is thickly covered in glossy shellac. It must be new (or so very thick) because it hasn't started to crack yet. It's disconcerting to see something wood being so reflective. At least it smells nice. 
+Ah... the soothing aromas of liquified synthetic insect resin. Not as wholesome as the old-fashioned bug pulp they used to use but hey, synthetic varnish is basically the same. Right?
+Smooth and velvety like a beautiful women, but hard and cold like a manager. 
+The door is a crappy substitute for icecream. Well at least you know now... 
+door
+west
+out
+west
+manager
+manager's
+the door leading out of the manager's office
+This door would be the only thing keeping the manager safe from the outside world, if of course the manager were actually here. At the moment, the door is 
+wide open, letting any old trash from the outside wander in (so it seems)
+firmly closed, preserving this sanctuary of organization
+. 
+\^
+ 
+ 
+ strangely left open
+firmly shut
+. 
+With a click and a slight creak of protest, the door opens for you. 
+You push the door and it closes with a satisfied click shut. 
+The door locks with a definitive <I>click!</I>. 
+With a slightly resistive click, the door unlocks. 
+End of the Alleyway
+The alleyway ends abruptly here as the building to the south (where you have come from) turns north to nestle itself between two other buildings. There isn't as much rubbish here as the rest of the alleyway to the east, but that's relative. However, there is enough grime to make up for it. \n To the south and west the base of the walls are dirty windows, although the southern ones are so short to be almost useless. 
+window
+windows
+windowsill
+sill
+window sill
+glass
+dirty
+grimy
+west
+western
+broken 
+
+windows to the west
+Set into the base of the western wall are a set of 
+
+dirty,
+ scratched windows. A crack squiggles across one of the panes.\n 
+Peering through them reveals only murky shapes that lie in the underground room beyond. 
+You can't see much through the grime encrusted on the window. 
+The windows set into the base of the western wall have been smashed and cleared out. You still can't see much in the room beyond, but you can smell a certain staleness above the odours of the alleyway.
+The windows to the west have been smashed and the broken shards of glass litter the window sill and the surrounding ground. The facade of broken glass and darkness beyond is a little creepy. 
+You don't think you can get the window any cleaner (given the surrroundings).
+You vigorously rub the window clean of the grime and muck. Your hand ends up with all the gunk, so you wipe them on the wall. 
+Watching carefully for any more broken glass, you slide yourself through the window into the dark room below.
+window
+windows
+south
+southern
+small
+narrow
+short
+basement
+narrow windows to the south
+The sealed windows sunk deep into the base of the southern wall are barely a few inches high and are terribly dirty. You wonder why someone would bother installing them. Actually, those grimy windows look a lot like the windows in the basement you woke up in... 
+The windows are so small and dirty, you hardly see the point. 
+alleyway
+Dirty Alleyway
+You find yourself in a slightly broad alleyway running east-west. The soot-stained brick walls are streaked with rust stains and mould, decorated with a few obligatory spritzes of graffiti. A jumbled pile of garbage sits against the north wall, and reeks of a diverse array of mixed unpleasant odours. Water from various drainpipies and the occasional rain storm has soaked through the refuse, creating an ooze that has creeped across the alleyway making the ground underfoot slippery. Some of the slime has trickled into a few small drains near the base of the walls. Above you there is a fire escape, and to the south three steps lead up to a reinforced steel door. Otherwise this mess of an alleyway continues both east and west.
+The slime from the garbage has oozed its way across the alleyway and trickled down a small drain. 
+A set of footprints leading eastward have tracked through the slime. 
+A set of footprints leading westward have tracked through the slime. 
+The slime has been muddled up with footprints going in all directions. 
+The crumbling brick walls are coated with grime and mould. Rust streaks down the wall from the joins of the metal brackets holding the drains and fire escape up. A few splashes of graffiti complete the wall's grotty appearance.
+The overpowering stench of the garbage hangs in the air here. 
+You can hear the occasional dripping drain amidst the quiet trickle of one particular drain that opens over the garbage. Other than that, there is an uneasy silence. 
+door
+doorway
+exit
+entrance
+south
+reinforced
+steel
+south
+huge
+old
+big
+rusted
+rusty
+the reinforced steel door
+The huge steel door to the south looks very much like the other side of the door you saw in the back room. This side has its share of rust blotches and cracked blue paint. Someone has recently spray-painted a gang sign on the door, over all the discolorations and cracks. 
+Chips of blue paint crumble beneath your fingers. The cold metal frame is abrasive from the peeling paint and the dried rust.\b You look at your fingers and brush the junk off.
+Didn't your mother tell you about eating paint chips?
+You gingerly sniff the door, accidentally inhaling a tiny paint fleck. You stagger backwards, trying to sneeze. After thrashing about for a little while, you blow it out and stand back, rubbing your nose. 
+You try to push open the door but it barely rattles in response.
+Even if that could actually unlock the door, the lock has been plugged up with a decades-old, rock-hard piece of chewing gum. Nevertheless, you have little faith that you have, or even could have, the appropriate key. 
+Despite your best attempts, the door will not open. 
+You knock on the metal door, hurting your knuckles. What's worse it that you doubt anyone heard it. 
+Being more careful this time, you bash on the door with your fist. The dull thumps go unanswered. 
+You thump on the door with your fist. The echoes die away, yet no-one answers the door. 
+You slap on the door several times, to no avail. 
+slime
+muck
+ooze
+gunk
+concrete
+oozing
+garbage
+rubbish
+trash
+slime
+Dear God, no! You have more sense than to lick <I>the slime off the ground!</I> 
+You warily slide your fingertips through the slime. The greyish-brown sludge sticks to your fingers and you twist your mouth in revulsion. You hurriedly shake the slime off your finger and wipe the residual on the wall. 
+You're not sure you can differentiate between the stink of the slime and the garbage. After all, the slime is just the liquid form of the garbage. 
+Try as you might, you cannot hear the slow march of the slime across the alleyway. 
+There are more futile activities around, but not many. 
+Have you gone completely mad?! This is <I>slime</I>, on the <I>ground</I>, in a <I>disgusting alleyway!</I> 
+Even though the slime is sloppy enough to try to drink, you think you better not. 
+Scooping up the slime and slathering it all over yourself doesn't seem like the smartest idea at the moment. 
+drain
+drainpipe
+drainage
+pipe
+drains
+drainpipes
+pipes
+drain
+drainpipes
+The pipes that collect runoff from above and drain out into the alleyway are more suggestions of drainage than actual examples of such. They are attached to the brick by a few bolts and a prayer. Some have rusted through, whilst others have buckled in places. 
+The drain's smell is a unique blend of mould, muddy water and sharply metallic rust. 
+The rusty metal is slightly rough. After you remove your fingers from the drain, it suddenly shifts and you back away before it collapses on you. 
+You prefer to guess that it tastes metallic rather than test that theory. 
+You hear an interesting mix of echoing drips, trickles and the wind whipping past the end of the drain. 
+Although your fall would probably be buffeted by the garbage piles, you don't want to risk climbing the frail pipes. 
+You think it unwise to pull down the drains. It'd ruin the whole aesthetic! 
+You peer inside the drain, but only see the trickle of dirty water. 
+You look at the dirty water dribbling from the drain and decide not to. 
+You've seen too many movies involving magic leprechauns... 
+Pull
+Detach
+Unfasten
+Enter
+Getin
+garbage
+trash
+rubbish
+refuse
+junk
+pile
+mound
+smelly
+dirty
+pile of garbage
+For whatever reason, someone chose this area to dump their refuse and everyone else has followed suit. The mound of garbage consists of table scraps, plastic bags spilling out their junky insides, torn up boxes, smashed up furniture and mind-bogglingly unidentifiable other stuff. The whole mess is sodden with water spilled onto it by the drains. A vacation site only Oscar the Grouch could love. 
+You take a big whiff of the garbage and are rewarded with nothing either unexpected or appealing. 
+Just as you expected - it feels like squishy, slimy, dirty garbage. 
+You wouldn't taste the garbage on a dare. 
+You put your ear near the garbage, expecting to hear the ocean. No wait, that's seashells. 
+This is one mountain you wouldn't want to conquer.
+You are neither a goat nor a contestant on a reality TV show. You leave the garbage uneaten. 
+Although your civic pride is admirable, you doubt you could do much better than relocating the garbage from here to somewhere nearby. It isn't worth the effort. 
+Seriously, you can't possibly want to carry around any of this junk. It doesn't even have sentimental value! 
+You have searched through the garbage as much as you can stomach. 
+You gingerly poke through the refuse, hoping to find something worthwhile. You were too hopeful. 
+You prod the garbage with your shoe but you don't uncover anything interesting (or appetising).
+You give the garbage a hefty booting, but are only rewarded with a dull squish. You wipe a piece of junk off your shoe onto the wall. 
+You think about giving the garbage a bunch of fives, but figure it'd probably give you tetanus in return. 
+Even if there was some hidden pathway underneath all that rubbish (which there isn't), you feel that burying yourself in the garbage is A Bad Thing(tm). 
+You already have a fine set of clothes and don't need to resort to wearing slimy, rotten plastic bags. 
+The squishy garbage might be comfortable, but you figure you wouldn't want an embarrassing smudge on the seat of your pants. 
+Clean
+Clear
+Search
+Lookthrough
+Enter
+Getin
+Getunder
+Sitin
+Climb
+Standon
+Stand
+graffiti
+graffitti
+grafiti
+grafitti
+spritz
+spray
+graffiti
+In the usual weird style of the "street-artist", the graffiti is made up of various "tags", some readable some not. A few of the pieces of graffiti look to be quite old and have faded substantially. 
+One slapdash effort in red looks like it says, "murder.com". 
+In one corner someone has painted a doped-up looking smiley face with suggestive lackadaisical soft lines. 
+In several little nooks and crannies, someone has used a marker to write their tag but you have no idea what it says. Maybe the guy's name is "Wiggly line"? 
+Someone has prominently sprayed "FACK" on the south wall. Weird. 
+An immature someone has spray-painted a woman near the garbage in a very unsubtle pose. 
+On a large piece of piping you barely make out some small, rambling essay written on with a marker. You think it's something about the government and other scoundrels. 
+One slapdash effort in red looks like it says, "murder.com". 
+In one corner someone has painted a doped-up looking smiley face with suggestive lackadaisical soft lines. 
+In several little nooks and crannies, someone has used a marker to write their tag but you have no idea what it says. Maybe the guy's name is "Wiggly line"? 
+Someone has prominently sprayed "FACK" on the south wall. Weird. 
+An immature someone has spray-painted a woman near the garbage in a very unsubtle pose. 
+On a large piece of piping you barely make out some small, rambling essay written on with a marker. You think it's something about the government and other scoundrels. 
+The graffiti (unsurprisingly) feels like the surface it was painted on. Some of the paint is smeared on your fingertips but you rub it off. 
+If you're trying to get high by licking old paint, you may want to reconsider your life. 
+The paint smell is long gone and would still be overpowered by the garbage even if it hadn't.
+You listen to what the graffiti has to say (metaphorically) but decide not to follow up on its crude directions. 
+Your civic pride is admirable, but cleaning up one scrap of graffiti here would leave countless more unassailed. Plus, if you want to be do something for your community you should do it where everyone can see you doing it. 
+"Mess up my buildings, eh? Take that!" you shout, assailing the wall. The graffiti seems unaffected by your well-intentioned attack. 
+Kick
+Hit
+stairs
+steps
+three
+3
+small
+few
+small steps leading up to the door
+Three squat concrete steps lead up to the reinforced door to the south. The stairs themselves are unremarkable - their most interesting features are the scuff marks and chips in the concrete. 
+You run your fingers along the rough surface of the stairs, leaving a (relatively) clear line through the dust. 
+You wait patiently for the steps to make some noise. You eventually stop, disappointed but unsurprised. 
+Alleyway stairs are a delicacy you choose to be ignorant of. 
+You can't smell anything over the pungent aroma of the garbage. 
+Fenced end of the alleyway
+This section of the backstreet is a little less rubbish-ridden than the areas to the west, mostly because it is not quite a pocket for garbage to collect in, and partly because of luck. The alleyway continues on to the east before turning south to somewhere brighter, to the main street you guess. But you may find out because a high chain-link fence cuts across the alleyway to your immediate east. Alternatively, to the north is rear entrance, or you can revisit the refuse to the west.
+Sporadic breezes wending their way from the east whisk away the stench of the rubbish, but replace it with the cold, lifeless smell of concrete. 
+Other than faint dripping to the west and the gentle whistle of wind through the fence, this place is oddly quiet. Not even a whisper of traffic or the commotion of the city. Weird. 
+You can't venture eastwards with that fence blocking your way! 
+fence
+barrier
+enclosure
+east
+steel
+chain
+chain-link
+chainlink
+wire
+eastern
+chain-link fence
+The fence spreads from wall to wall with no gaps either side. The chain-links have been weathered somewhat, but remain resilient. They all remain strongly welded to the metal frame and give no opportunity to squeeze through. What's worse is the menacing rows of barbed wire strung across the top. The definite impassability of the whole fence is disheartening. 
+You catch a whiff of some of the breezes whistling through the fence. All smell like bland, cold concrete.
+The breeze whistles through the fence as though it had nothing better to do. The fence clinks as it sways in the occasional stronger gusts. 
+You cautiously give a quick lick to a seemingly clean section of the fence. The steel taste is unsatisfying and you feel foolish. 
+The backstreet continues eastwards for about thirty feet before turning south to the sunshine of the main street. 
+You shake the fence to only dramatic effect. 
+You could easily climb the fence, if it weren't for the vicious barbed wire at the top. 
+The gap underneath the fence is barely an inch high, and let's be honest, your attempts at dieting haven't been <I>that</I> successful. 
+Between the metal frame and the concrete there is a gap of about an inch high. 
+The fence has been bolted onto the brick wall, preventing any attempt to remove it. 
+The fence has been bolted onto the brick wall, preventing any attempt to remove it. 
+Even if that could fit underneath the fence, you wouldn't be able to get it back, so you decide against it. 
+Even if that could fit through the fence, you wouldn't be able to retrieve it. You decide to keep 
+. 
+Pull
+Push
+Shake
+Hit
+Kick
+Poke
+Lookthrough
+Lookbehind
+Unscrew
+Detach
+Unfasten
+Remove
+Unscrewwith
+Detachfrom
+Putunder
+Throwunder
+Putthrough
+Putbehind
+Throwthrough
+Throwbehind
+First Floor Stairwell
+The first floor stairwell is much the same as the ground floor. In fact, you're willing to bet they're all like that. Architects and their interest in repetition... When will they learn? There is a small sign on the wall and a doorway to the west opening up into a hallway.
+The ground is nicely smoothed concrete. Very professional once laid, dangerous when wet. 
+sign
+arrow
+small
+metal
+shiny
+sign
+A shiny metal sign indicating that this is the first floor. You can go up the stairs to the second floor and down to the ground floor. Ingenious!
+An arrow points up the stairwell with the label: "Second". Another points down with the label: "Ground". A third and final arrow points out to the hallway to the west indicating "First".
+light
+fluoro
+lights
+fluoros
+fluorescent
+hum
+humming
+buzz
+buzzing
+stairwell
+fluorescent lights
+It's just standard fluorescent lighting. Bright lights ceased being entertaining for you many years ago.
+The fluorescent lights buzz softly. 
+hum single-mindedly
+First floor hallway
+This is the east end of the first floor's hallway. The hallway continues westwards with its chalky grey paint and wearied rust-coloured carpet before turning northwards to much of the same, presumably. There are two doorways here, leading west and north. The doorway to the west leads into a concrete stairwell. The fluorescent lighting isn't particularly elegant or inviting. 
+Almost correspondingly, the room to the north is lit in a dreary green-grey fluorescence. It seems to be a lunch room. The ordinary lighting in the hallway is cosy in comparison. 
+In comparison, the ordinary hallway lighting is strangely comforting. The plain blue-grey door to the north is closed. 
+The light rust-coloured carpet here is of the tough, compacted kind. It seems to be in good shape, discounting the usual wear and tear due to traffic. 
+The hallway has been painted a pale, chalky grey. You guess this wasn't a well-intentioned choice by the architect, more a "just the usual, thanks" decision. Periodically along the walls there are circular lights that illuminate the hallway. Despite being rather plain, the hallway is well-maintained, to its credit.
+You stare at the ceiling for a while, trying to find inspiration amongst the plain white paint. You find nothing. 
+Lunch room
+You guess this must be for the lower-rung employees. The room is almost entirely made of drab linoleum and has a faint artificial lemon-scented floor cleaner smell to it. The single light above is so old that it emits a weird green-grey light, not helping the atmosphere at all. The door to the south is 
+held open by a hook latching it to the wall
+closed, revealing a poster
+.
+The floor is made out of grey and brown flecked linoleum tiles. A few smudges and stains hide in nooks and crannies where the cleaners couldn't (or couldn't be bothered to) get to. 
+The stale linoleum smell is almost saturated in the lemon-scented floor cleaner that they obviously use here. 
+door
+lunch
+lunch room
+lunch room door
+A plain wooden door. It is covered in some cheap grey-blue paint that hasn't started to flake yet, but threatens to. There is a small sign in the center of the door. 
+ 
+\^
+ 
+ 
+ wide open
+ closed, revealing a poster
+.
+You open the door. It swings wide open with little effort on your behalf. 
+You shut the door with a light push. You notice a poster stuck on the back of the door. 
+door
+lunch
+lunch room
+lunch room door
+A plain wooden door. It is covered in some cheap grey-blue paint that hasn't started to flake yet, but threatens to. There is a small sign affixed to the center of the door. 
+ 
+\^
+ 
+ 
+ wide open
+ closed
+.
+You twist the knob and the door swings open easily. 
+Leaning into the lunch room, you grab the door and pull it shut. 
+poster
+calendar
+notice
+sheet
+poster
+Stuck to the back of the door is a motivational poster for the cleaners. It looks like it survived the Cold War. The poster is divided into two pictures top and bottom, divided by a line of bold text. The top picture is a beautiful, enthusiastic young woman merrily pushing a mop around. Below it is a frumpy old woman slouching over a cup of coffee, a crumpled cigarette hanging from her sour mouth. The big block letters between them asks, "What is your purpose here?" \b You wouldn't be surprised to see a little line saying "Brought to you by the Nazi Work Ethics Committee." 
+sign
+plastic
+door
+plastic sign on door
+Written in a stock signage font, the little plastic sign says tersely: "Lunch room. Employees only." 
+First floor hallway
+THIS HAS NOT BEEN COMPLETED. ADD IN DESC, CARPET FLOOR...\b Go east to hallway, west to more hallway, south to oldies, north to abandoned apartment. 
+Bend in hallway
+INCOMPLETE. Go east to hallway, west to elevator, north to more hallway, south to Dude's room.
+OH NO NOT MORE HALLWAY
+INCOMPLETE. Go south to hallway/elevator, west to Jack n Jill, east to Locked Apartment.
+An apartment
+UNIMPLEMENTED YET. North hallway, east bedroom, south kitchen.
+
+The bedroom
+UNIMPLEMENTED YET. West to lounge, south to bathroom.
+
+The bathroom
+UNIMPLEMENTED YET. North to bedroom.
+The kitchen
+UNIMPLEMENTED YET. North to lounge.
+Abandoned Lounge Room
+UNIMPLEMENTED YET. South to hallway. East to closet. 
+Abandoned kitchen
+UNIMPLEMENTED YET. East to lounge. 
+Abandoned Closet
+UNIMPLEMENTED YET. South to kitchen.
+Catwalk over alleyway
+UNIMPLEMENTED YET. South to Abandoned Lounge.
+Dangerous Ledge
+UNIMPLEMENTED YET. East to Catwalk, North to Dangerous Ledge.
+Dangerous Ledge
+UNIMPLEMENTED YET. South to Dangerous Ledge, North to Catwalk outside Locked Apartment bedroom.
+Catwalk over alleyway
+UNIMPLEMENTED YET. South to Dangerous Ledge, west to Locked Apartment Bedroom.
+Dude's Lounge
+Dude's lounge. Add in junk, dude etc North to hallway, west to bedroom, southwest to bathroom, south to kitchen
+Dude's Bedroom
+Dude's bedroom. Add in junk, bed, decorations. East to lounge.
+Dude's Bathroom
+Dude's bathroom. Add in shower, sink, junk, toilet. Northeast to lounge.
+Dude's Kitchen
+Dude's kitchen. Add in usual crazy stuff. North to lounge.
+Jack & Jill Entry
+Jack & Jill's entrance. Add in coat rack, etc. West to bathroom, south to kitchen, north to bedroom, northwest to lounge, east to hallway.
+Jack & Jill Bathroom
+Jack & Jill's bathroom. Maybe untravelable. East to J & J entrance. 
+Jack & Jill Kitchen
+Jack & Jill's kitchen. Maybe nest in with entry. Add bench, paraphenalia. East to J & J entrance. 
+Jack & Jill Bedroom
+Jack & Jill bedroom. Usual trimmings. South to entrance.
+Jack & Jill Lounge
+Jack & Jill lounge. Add Jack, TV, couch, TV table. Southeast to entrance.
+Locked apartment lounge
+Lounge for locked apartment. North to kitchen, south to study, east to bedroom, west to hallway.
+Locked apartment kitchen
+Kitchen for locked apartment. South to lounge.
+Locked Apartment Study
+Study for locked apartment. North to lounge.
+Locked Apartment Bedroom
+Bedroom for locked apartment. West to lounge, east to catwalk, north to bathroom.
+Locked Apartment Bathroom
+Bathroom for locked apartment. South to bedroom.

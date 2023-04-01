@@ -1,0 +1,3 @@
+vern : Actor
+    location = nowheresVille
+;

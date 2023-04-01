@@ -1,0 +1,16 @@
+The Great Phone ReReconstruction
+
+- Make it of two parts: a handset and a box
+- Make the handset zero weight, zero bulk
+- Make the only allowable containers: PC, phone, lobby
+  - If in the PC, you're listening to the phone
+  - If in the phone, it's hung up
+  - If in the lobby, it's dangling
+- Have a list of call receivers (Vern, emergency, dial tone)
+- If you put the handset on the hook, it automatically switches to dial tone. Removing the handset doesn't change the talker at all.
+- Dialing goes for n rings and then initializes the hangup (internally).
+
+Current state:
+- Where am I?
+- Who am I talking to?
+- Pending call (only if handset on the phone, talker is not dial tone)

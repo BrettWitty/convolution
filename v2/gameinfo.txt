@@ -1,0 +1,15 @@
+IFID: 3f6e3ae2-7398-9c9b-6a66-0c67655e3a91
+Name: Convolution
+Byline: by Brett Witty
+HtmlByline: by <a href="mailto:brettwitty@brettwitty.net"> Brett Witty</a>
+AuthorEmail: Brett Witty <brettwitty@brettwitty.net>
+Desc: Convolution is a game of exploration---exploration of location and of self. 
+HtmlDesc: Convolution is a game of exploration---exploration of location and of self. 
+Version: 1.0
+ReleaseDate: 2010-06-14
+Genre: Mystery
+Forgiveness: Polite
+Language: en-US
+LicenseType: Freeware
+CopyingRules: At-Cost Only; Compilations Allowed
+PresentationProfile: Multimedia

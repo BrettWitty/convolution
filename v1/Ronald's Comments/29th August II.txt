@@ -1,0 +1,29 @@
+>e
+Shading your eyes from the bright light, you stomp up the stairs. 
+
+<b>Some Back Room</b>
+
+>listen
+You hear nothing out of the ordinary. 
+You can hear a phone ringing somewhere to the south. [Contradiction]
+
+>kick boxes
+You shouldn't kick that. [bah!]
+
+>look at furniture
+{description of a particular chair} 
+[Perhaps worth pointing out that a particular chair catches our eye
+first, I was expecting a description of the abandoned furniture which
+is strewn around. Otherwise change the room description to refer to an
+abandoned chair?]
+
+>sit on chair
+That isn't something you can sit on. 
+[LOL. I actually like this statement a lot. I put it here because you
+might want to know about it, but please feel free to leave it]
+
+I think my work here is done...
+>s
+<b>Reception</b>
+
+more to follow...

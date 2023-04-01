@@ -1,0 +1,7 @@
+
+- Ideas or objects cannot be too sacred -- remove them for the betterment of the game.
+- The majority of rooms have at least 3 exits. No room has only two for no reason (for example, there are no "Corridor   Nothing here but a way east or west" type places)
+- Add as many synonyms as possible
+- Avoid noun collisions if possible. Sub-rule: If there are possible noun collisions, make sure they aren't VR-breakers (like revealing puzzles or revealing things you haven't seen yet)
+- Replace as many standard responses as possible. For example, the dreaded OPEN DOOR followed by the disgustingly vanilla "Opened."
+- Every object should have at least an extra bit of interactivity, even if it is a humorous "You can't do that!"

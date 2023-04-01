@@ -1,0 +1,24 @@
+TO DO
+
+- Implement "help", "hint", "verbs"
+- Fix buggy envelope
+- Fix up standability on boxes
+- Set it so that very small items can be put on the basement boxes, but not bulky ones
+- Fix up the Janitor's room door to autoopen on attempt
+- First floor hallways descriptions, textures
+- Add lighting decorations to the first floor hallway (1)
+- Lunch room poster needs detail
+- Lunch room poster needs to be hidden until shown explicitly
+- Walls, floors, ceilings in the ground level
+- Walls, floors, ceilings in the basement level
+- Furnace room
+- Reception area
+- Elevator
+- Mailboxes!
+- Implement the laundry and new storage room. Give the laundry door a push verb that makes it swing back and then slam shut.
+- Implement the chains on the door (so you can poke, pull, bite, hit and inspect them).
+- Finish Manager's Office.
+- Block off stairwells.
+- Add Hitwith code to SealedWindow so you can only break the window with a hard object
+- Fix slime such that wear and eat doesn't trip the "You can't take that" response, but also so that "take slime" gives an error message.
+- Add doCutwith checks for ChainlinkFence

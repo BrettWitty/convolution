@@ -1,0 +1,95 @@
+I've explored the first three rooms - behind the boxes, the basement
+and boiler room. I am carrying on testing while doing other things, so
+it's easier for me at the moment to send you a partial transcript of
+when-things-went-bad with my comments in square brackets. Let me know
+if you prefer me to do anything else - perhaps a shorter summary, it's
+no problem.
+
+<b>Behind a bunch of boxes</b>
+>push/pull/move boxes
+The pile of boxes cannot be moved. [false statement]
+
+>look at wall
+For a stretch of maybe a few metres wide, the west wall is free of
+boxes, revealing the dry bricks and dust. The bricks are so dry and
+old that they crumble under any moderate force, which has left them
+with a rough texture over the years.
+>push bricks
+The word "bricks" is not necessary in this story. [noun request - bricks]
+
+>look at window
+Above the skyline of boxes, just below the ceiling, a thin row of
+windows span the entirety of the north wall. Murky light seeps through
+the dusty panes, illuminating this nook of the basement.
+[in the description of the room, it would seem there is only one
+window - here, a row of windows is described]
+
+>examine beam
+As if it were orchestrated that way, the boxes block out some of the
+light to form a solid beam illuminating the entrance of the passage
+leading out. Blurry bars of light shine through the cracks of boxes,
+breaking up over others. [...cracks of boxes?]
+>look at entrance
+You see no entrance here. [noun request - entrance]
+>look at passage
+A tight passage wends its way east through the boxes , presumably out
+to the main room.
+[space before comma]
+
+>east
+<b>Basement</b>
+
+>look at brick wall
+You see no brick wall here. [false]
+
+>look at wall
+Which wall do you mean, the north wall, the south wall, the east wall,
+or the west wall?
+[... it turns out that none of the walls are described here (although
+the north wall has been mentioned as interesting; and should the west
+wall even be visible?), so this disambiguation feels awkward]
+
+
+>kick boxes
+You shouldn't kick that. [I could kick them before!]
+
+>look at dust
+The dust seems to have settled in well here, except for a clear track
+from the stairs to the metal door to the south.
+>look at track
+The word "track" is not necessary in this story. [maybe true, but it's
+something interesting]
+
+>look at metal door
+The sturdy metal door is shut. Scratched into the middle of it is the
+word "Janitor". No prizes for whose room lies beyond.
+It's closed.
+>examine scratches
+You see no scratches here. [*sulk*!]
+
+>north
+<b>The Boiler Room</b>
+
+>touch boiler
+You feel nothing out of the ordinary. ["ow!"?]
+
+>kiss boiler
+Kissing the the boiler has no obvious effect. [hmm... i'm trying to
+injure myself here! it lets me kiss the boiler?!]
+
+>kick boiler
+You shouldn't kick that. [no "thunk!"? but this is a fair enough response]
+
+>listen
+You hear nothing out of the ordinary. [but the boiler bubbles away
+obediently.. i'm almost sorry for you that i tried this!]
+
+>look at metal
+You see no metal here. [literally false; the boiler is metal (i was
+checking to see if i could pull of any metal strips, sorry again)]
+
+>look at pipes
+You see no pipes here. [noun request - pipes]
+
+>look at vents
+The word "vents" is not necessary in this story.

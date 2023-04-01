@@ -1,0 +1,81 @@
+To be done:
+- The Basement
+  - The alcove into the old storage room
+  - THROW BOXES AT BOXES or THROW THING AT BOXES
+- Alleyway
+  - The western alleyway windows need to be ThrowAtable
+- Rose
+- Charlie
+  - Rose and Charlie's lounge
+  - R&C's kitchen
+  - R&C's bedroom
+  - R&C's bathroom
+- Cody
+  - Cody's bed
+  - Cody's bedroom (needs a little bit more)
+  - Medicine cabinet
+  - Kitchen sink
+  - Bookcase
+- The microwave
+- The lunch room furniture
+- The table in the locked study
+  - The books and writings in the study
+- Locked apartment lounge (just decorations)
+- Locked apartment bedroom
+- Locked apartment bathroom
+- Jack and Jill's entrance
+  - J&J's bedroom
+  - J&J's bathroom
+  - J&J's lounge
+  - Jack
+  - Jill
+  - TV, shotgun, lounge
+  - Kitchen
+- Hairdryer
+- Towels
+- The elevator
+  - The elevator shaft
+- The manager's office
+  - The desk
+  - The safe
+  - The filing cabinet
+- The old storage room
+  - Descriptions
+  - Scenery
+- The room off the alleyway (the Fight Club room)
+- Vern
+- Items for the new storage room
+- Watery steps
+- Programmer
+  - Programmer's lounge
+  - Programmer's bedroom
+  - Programmer's kitchen
+  - Computer
+  - Posters
+  - DVD collection
+  - Furniture (bed, sofa, table)
+  - Telescope?
+- Ravers (4 sleeping bodies?)
+  - Coffee table
+  - Sofa
+  - Dinner table
+  - Jacket
+- Locked mafia room
+  - Doors x2
+- Recluse
+  - Recluse's lounge
+  - Recluse's kitchen
+  - Recluse's bedroom
+  - Recluse's bathroom
+- Swipe card reader/writer
+- Classic IF game collection
+- Yin
+- Yang
+- The Creator
+- Evil You
+- Good You
+- The Infinite Hallway?
+  - Subway
+  - Burning house
+  - Sandy beach
+  - Amazonian cliff

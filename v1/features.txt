@@ -1,0 +1,23 @@
+
+- punch, kick and attack are separate verbs
+- crumple, tear, fold, unfold
+- clear
+- If you read anything in the darkened entranceway, it adds appropriate text.
+- Passages can be examined
+
+
+Tricky things to program:
+- the mailboxes
+- the elevator
+- the many characters
+- the alternate "me"s
+- windows
+- telephone
+- chockable doors
+- microwave
+- the trenchcoat and its pockets
+- slippery steps
+- posters/signs on doors that act realistically
+- notes that you can crumple, fold and tear (it also unfolds implicitly when you read a folded/crumpled note)
+- the dryer
+- the many TVs

@@ -1,0 +1,65 @@
+OK!
+I've started a cursory explore of the first room, and here are a whole
+bunch of minor things...
+
+nouns I like: box (synonym for boxes), window, (crumbling) wall, mould/corner.
+
+I would like to be able to push the boxes and kick the boxes,
+especially since I can move them placidly.
+
+I can 'climb onto boxes' (which means I am sitting on them) even
+though they 'almost touch the ceiling' but I cannot 'climb boxes'
+(which I would expect to be the same thing). While I'm sitting on the
+boxes I can move them and remain sitting on the boxes. I can also kick
+down the door while I'm sitting there. I can even stand on the boxes!
+
+'open boxes' gives the result that boxes cannot be opened. i don't
+think that's exactly right!
+
+When playing IF: I rarely use the verb 'search' unless I am stuck, so
+finding the alcove is a chore - since I don't find it by looking nor
+examining the boxes. Having to search for the right word to use is
+something to be avoided.
+
+I *like* the TADS implementation of 'again', useful for kicking down
+the planks in the door. You might want to capitalise AGAIN (or aGain)
+somewhere in the description when the planks start to go (it's good
+that you clearly direct that person to try again, otherwise they might
+give it up as a lost cause), so that it acts as help for the easily
+bored.
+
+Reading the boxes - I just noticed and I like that each box has a
+different name and address! It's worth making it clear that you will
+pick out a different box each time so that people bother to experiment
+with something that you've coded nicely. Perhaps the text could say
+that you discard the box you picked up - that way a player would
+expect the next box to be different. "Satisfied by the inanity of the
+name, you discard the box." or something could work.
+I've now read through a few boxes and sometimes it says "This one
+seems to be addressed to just Jackson" which reads poorly, I think.
+Perhaps a Dr, or a less likely Rev would be a better option.
+
+Once I've found the alcove, it would be nice if 'North' was a possible
+exit, and when I hit 'N', it explains why I can't yet go that way. At
+the moment it seems like I forget about the alcove once I've found it.
+
+I can attack the planks, but I can't attack the door/the alcove, which
+I might alternatively do and expect the same effect.
+
+Moving the boxes - I noticed that you can't move the boxes before you
+find the alcove (you have 'no reason' to). When you have boxes, I *do*
+want to move them (the first things I did were 'look at box',
+'look at boxes', 'kick the boxes'). I have a bit of a Starsky and
+Hutch attitude. I guess. If there is a pile of boxes, make them fly
+across the room for effect. It's OK if there are multiple ways to find
+the alcove.
+Or if you want the alcove to be hidden well enough that it isn't just
+found by accident or by someone not even really looking, then maybe
+behind a pile of boxes at the start of the game isn't the best place
+:)
+
+I found the spiderswebs in the next Basement room (which I haven't
+explored yet). That's what I'm talking about! :)
+
+best,
+Ronald

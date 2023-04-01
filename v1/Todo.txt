@@ -1,0 +1,70 @@
+Top priority:
+* Test the dryer
+* Add in Hint objects in the current hints to make things pop up at the correct time.
+* Create Window/SealedWindow classes
+* Make the Crumpleable/Foldable classes interact properly
+* Put in calling code in the lobby phone.
+* Finish laundry
+* Finish Locked Apartment
+* Finish Dude's Rooms
+* Finish Old Folk's rooms
+* Finish abandoned apartment
+* Finish Jack and Jill's room
+* Finish manager's office
+* Finish mailboxes
+  * Fix/avoid the problem of mailboxes requiring a slot.
+* Finish Janitor's room
+* Finish new storage room
+* Finish elevator
+* Finish all second floor (raver, recluse, programmer, mafia room)
+* Finish higher levels
+* Hints
+* A Wet Area mix-in. Hooks into the drop code so that lit or wettable objects interact accordingly.
+
+
+Medium priority:
+- Change the moveInto stuff in the lobbyPhoneHook.dobjFor(PutOn) to Drop code.
+- Change "punch boards" to include a "You think it's better to kick them. " response and then redirect to "attack" (NB think again, wrt new verbs)
+- Add an ability to hit the boards with heavy things.
+- Rewrite board smashing to be more concise (eventlists)
+- Figure out how to do the faded centrefold for the Janitor's door.
+- Bug-test the letter on the door handles.
+- Mailboxes.
+  - All the names
+  - Some varied descriptions
+  - Test disambiguation!
+- Array of washing machines/dryers.
+- Add AttackWith code to swinging door.
+- The elevator.
+- The elevator shaft with the correct code for dropped objects to end up on the elevator roof or not.
+- Put a secret note in the laundry drain.
+- Figure out how to order disambig messages.
+- Swipe card.
+- The sign and poster on the Lunch room doors.
+- Put in all the destNames for rooms. destName is the text displayed in EXITS.
+  - Test them all (especially for missing "the")
+- Add vocabWords stuff to knowJackAndJill function
+- Add in similar functions to knowJackAndJill for other occupants.
+- Work out a way to allow X WALLS to work (especially in the hallways) without getting duplicates.
+- Rewrite the cannotTakeMsg of the lunch room table.
+- Implement (in the lunch room)
+  - Refrigerator
+  - Microwave (button to open door etc)
+  - Bin
+  - Mugs?
+- Implement the boxes in the back room
+- Add in a "You can't do that!" to connecting (attaching the wires in the abandoned apartment)
+- Add in special behaviour for Actors being poked.
+- The timed auto-close doors should be reopenable if halfway closed (i.e. avoid the locking problems)
+- The drawers in Cody's kitchen need implementing (perhaps all of them are stuck tight, bar one)
+- Finish Cody's makeshift bookcase
+- Under Cody's bed is bug-tastic. (Use Underside)
+- Make Cody's pillow unlisted. (isListed = nil)
+
+Lowest priority:
+- For jokes, add a "knock up" verb :)
+- Put spyholes in doors.
+- Add a ShuffledList to walking through the boxes
+- Add a box in the storage room that you need to push out of the way to close the door.
+- Work on Australian vs English vs American englishisms.
+  - Especially the first vs ground floor thing

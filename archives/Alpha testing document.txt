@@ -1,0 +1,19 @@
+Hi Ronald!
+
+Thanks again for volunteering to alpha test for me. I've included the t3 file. You will need the TADS 3.0.7 interpreter which you can get at http://www.tads.org/t3dl/pksetup.exe
+
+What you'll have to play around with is maybe 30 odd rooms. There is essentially one puzzle implemented, with some hints on how to go about it. (There are actually two very different solutions implemented so far)
+
+The basement level should be 99% complete, so go nuts on that. The ground level is mostly done. You won't be able to get into the one unfinished room on that level (Manager's Office). The elevator isn't implemented yet, so don't worry about it. The first floor can be reached and there are two NPCs and many objects you can interact with. Don't be too surprised if the NPCs aren't incredibly talkative :)
+
+Especially on the first floor you will encounter rooms or objects with descriptions saying "UNIMPLEMENTED YET." which is self-explanatory.
+
+So have an explore. You will start off in the official start with close to the starting inventory. The coin is there for you to fool with in the laundry.
+
+I'd really like to know what you think of the writing and general gameplay. If you come across any bugs or crashes, let me know. There is a lot of little things you can find so far, but I can provide a list of amusing stuff, or stuff to try out. Try punishing the phone (but don't worry too much about making calls yet).
+
+Now I trust you, but for prevents-possible-problems reasons, I need to make it explicit that you can't distribute this game to anyone else without my explicit permission. This is so I stay within the IF Comp rules.
+
+Well, I hope you enjoy!
+
+BrettW

@@ -1,0 +1,155 @@
+* (Main puzzle), - (Way of getting through), + (Bonus points) # (Things that don't work)
+
+
+* Get from ground floor to first.
+- Got keys from mailbox, opened stairwell entrance
+- Found key in dryer, opened stairwell entrance
+- Make mess, ring janitor, get through door while he comes through
+- Make mess, ring janitor, steal his keys while he works
+- Damage boiler, ring janitor, get through door while he comes through
+- Damage boiler, ring janitor, steal keys
++ Chock open door (door wedge, heavy box)
+# Kicking down the door
+
+* Get swipe card for elevator
+- Give keys to old man
+- Give keys to old lady, who gives you cookies. Give cookies to Dude. Ask for swipe card.
+- Beat Dude at computer games
+- Something via Jack n Jill?
+
+* Get to second level (leaky pipe makes concrete stairs slippery)
+- Make a lasso, successfully throw it on the railing, pull yourself up stairs (twice, since you fall down once)
+- Ring Janitor to fix the pipe, use portable hairdryer several times to dry stairs (maybe have to recharge batteries)
+- (Need 3 towels) Throw towels on stairway, walk on towels
+- Climb up fire-escape. Ask programmer to let you in.
+- Climb up fire-escape. Break in (smash window, use coathanger on window).
+
+* Get from second level to fifth
+- Convince "imprisoned" guy to give you key. Get through to lurking horror level. Get past lurking horror.
+- Convince programmer to hack the swipe card for you.
+
+* Convincing the imprisoned guy to give you the key
+- Distract him. Kill him. Take the key.
+- Elaborate conversation.
+- Give him Zen text. Take key.
+# Giving him money.
+
+* Convince programmer to hack the swipe card (Need to get swipe card reader from recluse)
+- Give him an ancient TRS-80 (found in hidden storage room).
+- Give him copy of Masterpiece Games (and hint book).
+- Give him the love note from Jill.
+- Write the beginning of his game for him.
+- Give him lots and lots of money.
+# Giving him small change.
+
+* Get swipe card reader from recluse
+- Ask recluse about pizza ("Pizza delivery!"). When he opens the door slightly, kick it open.
+- Break in via elevator shaft. (Enter elevator, stand on box, climb through roof, go south, open access panel, drop down)
+- Talk to him and make him slightly happy. Give him love note from Jill.
+- Knock on door. Show him badge. Get reader.
+
+* Helping the old guy
+- Give him a hammer to crack the walnuts. He'll give you a locked box (and if asked, the nutcracker).
+- Crack the nuts for him. He'll give you a locked box (but not the nutcracker).
+- Give him the war memorabilia in the old storage room.
+
+* Getting into the locked box
+- Break lock with nutcracker.
+- Break lock with crowbar.
+- Smash open box with crowbar.
+- Smash open box with hammer.
+
+* Help Jill (Part 1)
+- Get towel. Put towel in dryer. Put coins in dryer. Give dry towel to Jill.
+- Find another towel. Give other towel to Jill.
+- Drying towel with hairdryer. Give dry towel to Jill.
+- Drying towel by putting it on the furnace. Give dry towel to Jill. (Smells/looks slightly burnt?)
+- Holding towel near furnace. Give dry towel to Jill.
+
+* Help Jill (Part 2)
+- Make sandwich, get beer. Put sandwich on table. Take swipe card.
+# Clubbing Jack with crowbar or hammer.
+# Shaking up beer.
+
+* Deadly Ninja Puzzle
+- Create booby-trapped Samurai. Push booby-trapped Samurai into room. (Ninja attacks it, and it explodes)
+- Get waxer up lift. Plug in floor waxer. Push waxer into room. (Walk into room? Maybe you can avoid the slippery bit. Maybe this blocks off access to the kitchen bit)
+- Molotov Dummy trick.
+# Using the banana peel.
+# Using the oil can
+
+* Create booby-trapped Samurai
+- Push mannequin out of water room into corridor. Put shotgun shells in mannequin. Put jacket on mannequin. Put fruit-bowl on mannequin's head.
++ Oil wheels
++ Dry mannequin with towel or hairdryer
+
+* Molotov Dummy trick
+- Push mannequin out of water room into corridor. Put shotgun shells in mannequin. Put rag/towel in neck. Light rag. Push molotov dummy into room.
++ Oil wheels
+
+* Getting by Yin and Yang
+- Use balanced solution: (Yang v Yin)
+  - Hot v Cold
+  - Spiritual v Material
+  - Life v Death
+  - Summer v Winter
+  - Male v Female
+  - Odd v Even
+  - Sun v Moon
+  - Fire v Water
+  - Wood v Metal
+  - East v West
+
+* Getting by Yin (but solution must coincide with Yang solution)
+- Give huge wad of money. (Material)
+- Give antique statuette. (Material)
+- Give ice cube (Cold)
+- Give pizza (West)
+- Give autumn leaf (Fall)
+- Give copy of physics textbook (Material)
+- Give water (or melted icecube) (Water)
+- Give crowbar/nutcracker/fruit bowl/coins/beer can/metal box/fork (Metal)
+- Give perfume (Female)
+
+* Getting by Yang (but solution must coincide with Yin solution)
+- Give him the note from Jill (Male)
+- Give him the copy of Hamlet (Spiritual)
+- Give him copy of Tao Te-Ching (Spiritual)
+- Give him love poetry (Spring)
+- Use hairdryer on Yang (Hot)
+- Give noodles (East)
+- Give chopsticks (East/Wood)
+
+* Get into Janitor's Closet
+- Give sandwich to Vern. Ask for key.
+- Give poisoned (contaminated) sandwich to Vern. When he runs out, take key.
+- Give pizza to Vern. Ask for key.
+- Put something metal into microwave. Turn on microwave. When he runs to stop you, take key.
+- Unplug microwave. Press buttons on microwave. Ask Vern about microwave. When he investigates, take key.
+
+* Get into Old Storage Room
+- Use crowbar to pry off wood. Open door.
+- Kick wood (say 5 times). Remove wood. Open door.
+- In alleyway, smash window. Wipe down windowsill with something cloth-like (to get rid of glass). Squeeze through opening.
+- Smash wood with crowbar/hammer. Remove wood. Open door.
+
+* Stealing the jacket from the ravers
+- Pull (a few times) the jacket from under the knocked out raver.
+- Pull coffee table away. Push the raver off the couch. Get jacket.
+- Pull raver out of the way. Push the couch over. Get jacket.
+- Turn on tap. Hide under table. Wait until the guy gets up to turn off the tap. Get jacket. Wait until he drops on the lounge and begins sleeping.
+- Pour water on raver. Get jacket.
+- Wake raver. Show badge to raver. Ask raver for jacket.
+- Poke raver a few times until he rolls over. Get jacket.
+
+* Getting copy of Hamlet
+- Show bananas to monkeys. Give paper to monkeys. Give bananas to monkeys.
+
+* Escape the Lurking Hulk
+- Throw heavyish object through door (distracts the Hulk), quickly open door, north. (Close door or be chased)
+- Put sandwich through hole. While Hulk is eating it, go through door.
+
+* Getting into alleyway storage room
+- Throw anything heavy at window, unlock door.
+- Hit door handle with hammer.
+- Jimmy door with crowbar.

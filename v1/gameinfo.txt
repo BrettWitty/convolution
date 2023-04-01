@@ -1,0 +1,13 @@
+IFID: cdef7b8d-8aea-789d-5bf7-77b5e9f4b87e
+Name: Convolution
+Byline: by Brett Witty
+HtmlByline: by <a href="mailto:shorokin@hotmail.com"> Brett Witty</a>
+AuthorEmail: Brett Witty <shorokin@hotmail.com>
+Desc: Convolution is a game of exploration---exploration of location and of self. 
+HtmlDesc: <b>Convolution</b> is a game of exploration---exploration of location and of self. 
+Version: 1.30 - Alpha version
+ReleaseDate: 2008-01-13
+Language: en-US
+LicenseType: Freeware
+CopyingRules: Nominal cost only; compilations allowed
+PresentationProfile: Default

@@ -1,0 +1,322 @@
+End boss should lecture on the fate of the character in relation to IF and fate and choice. Little references to earlier stuff would make this neat.
+
+The player meets a programmer who desperately needs a finished game to send to his boss. The player comes across a game called Convolution and hacks together an initial segment. Give the game to the programmer. Wooo self-referencing...
+
+An old lady sits around doing not much, hunched up in her chair. She can answer some questions, but misinterpret others. She tells you that Level 6 "you gotta watch out for".
+
+A mirror can be inspected. If looked at, your image will (sometimes?) wink or raise its eyebrow at you. Creepy. You can also break the mirror (risking seven years bad luck)
+
+In the lobby (entrance?) there is a payphone. You have to pick up the handset (an attached item?) to dial out. You also need a coin to make any calls other than emergency calls. Have 911, 000, 111 and other international emergency numbers fail. Have a check on the goNorth so that you can't make off with the handset.
+
+The player finds a Matrix DVD boxed set. Say it's one of your favourite movies, in fact, it's high on your top 5 daydream-about-whilst-at-work movies. Maybe have various other titles there too like Senchin no samurai and other future-referencing titles. Maybe do a little red herring-ing by adding in other trilogies (Back to the Future?) and making some comment on that.
+
+One of the upper levels is ankle-deep in water.
+
+"You shake the chainlink fence to only dramatic effect."
+
+The lower levels are particularly dirty, tarnished, dull and damaged. As you ascend the levels, things get more vibrant and perfect.
+
+There is a laundry on the middle "real world" levels.
+
+Wife and angry husband lead to a few problems. You need to get her a towel from the laundry (she's in the shower). Also you need to give the husband a beer (without disturbing his TV viewing). If you do good, the wife will give you a signed photo saying "Hugs and kisses, my silent, roguish Romeo."
+
+(when being told you are a computer program) "An uneasy sense of understanding creeps up your spine. Like a disease, your brain is infected with the thought. Blood drains from your face and reflexively you laugh - the hollow outburst echoing around the room until it fades like your sense of being."
+
+Maybe have a door that you can knock on that knocks back. Very creepy. Maybe a puzzle involved?
+
+Have a MysteriousNote class. Hide several messages around. The actual reading messages alter depending on how many previous messages you have read already. Thus all the info is contained in the class and each instance just reads off that class. This way of doing things ensures that you get an even progression of emotion (cynicism -> annoyance -> fear -> wonder). Plus it keeps a central repository of data regarding you reading the messages. This can be good for The Final Confrontation and also as an addition to the score.
+
+Throughout the game if the player types "SCORE" reply with a (random?) message like "What do you think this is? A game?" Then explicitly say at the end, type "SCORE" so they can check their success. Also have two amusing things: if the user types "SCORE" near the/a hot chick then reply with: "What do you think- Ohhhh... Score with the girl? Let me assure you, *that* is not your purpose." or something like that. 
+
+Hints should be provided in the form of a Hint Book in-game. Players turn pages forwards for more hints. It also changes text according to where you are (so area-specific hints). Maybe also include a variable table-of-contents which adds an entry when you encounter a new puzzle/person. Maybe it's a palm pilot. Perhaps it buzzes gently when you're near a secret or something.
+
+There should be a VR score. This measures how much the player interacted with scenery, read messages and generally "role played". Say that this score is subjective and give it as a percentage.
+
+"slurshy gurgle" of a bathtub draining
+
+"What's your name?"
+"Cody. But I don't know if that's my real name. I think my parents just made it up."
+
+A hidden box in the floor of the lobby.
+
+When you visit the Dude's room, if you don't introduce yourself, he keeps shouting out to you while you search his place.
+
+Yin is a female with slightly male attributes (perhaps short hair, dressed in slightly masculine clothes). Yin is material. Yin doesn't talk but emotes a lot (grimaces, smiles etc)
+Yang is a male with slightly female attributes (longish hair, overly fashionable clothes). Yang is spiritual. Yang talks but is almost emotionless.
+
+Randomly get the dude to say, "Hey dude (giggle) touch that book!" The book is The Atheist's Mass by Balzac. When you touch it he says, grinning, "Dude, stop touching my Balzac!" Also include stuff where he goes to try the joke again, then dazedly remembers he already did it. He also does a similar joke with Alexander Dumas.
+Perhaps have this as a topic "tell a joke". He instructs you to the books and you wonder if a deep, literary soul exists under his shabby exterior and he'll pull some complicated gag from a piece of literature. Then cue the childish pun :)
+
+The phone in the lobby rings incessantly. If the player picks it up, they can only hear whispers that they can't make out and then the line cuts off. Or perhaps it's creepy giggling that abruptly stops.
+
+In the darker areas of the old storage room, implement a "grue" decoration. On "X GRUE" tell them "Your overactive imagination is probably more dangerous than mythical creatures." Or something like that.
+
+When looking out the window and noticing the quiet, empty street "almost as if in response, a nondescript car drives past."
+
+The old guy is eternally grumpy. Occasionally he wanders from the bedroom to the bathroom to get some pills and then north, west and then south to get water to drink for the pills. If you hang around the bathroom when he comes in, he pushes you out and you hear him grumbling. If you hang about in the bedroom he shuffles by, grumbling something in your direction. If you leave anything on the floor in either the bedroom or the lounge, he moans about it and shuffles around it grumpily.
+
+For the Karma engine, implement the follow "bad" results:
+- Walking into the old folks' or dude's house without introducing yourself.
+- Attacking anyone.
+- Certain conversation responses
+- Unplugging TVs while they're being watched
+- Using the "door kick" solution to the recluse
+- Kicking inanimate objects
+- Vicious solutions to getting Vern's key
+
+In the final conversation, allow for different solutions depending on different beliefs. You can deny the convolution and end up forcibly being brought back to begin again. You can accept it and willingly (but sadly) return to the start. If you have good karma and a high score, AND play your cards right, you can get to the ultimate ending of ascension.
+
+When you meet the imprisoned guy, you notice his tongue is bitten ragged. Flecks of blood dot his lips. You notice this and your jaw tightens, but you retain most of your composure.
+
+Perhaps (to reinforce the beginning) you have little comments a short while after waking up. Maybe hook into the BeforeAction in behindTheBoxes. Or if we use a fuse, count how many rooms you've seen versus the turns. If this is high, say something about wandering around in silence, if it's low, mention "poking around" suddenly noticing the emptiness of the surrounds.
+
+Reference "Delusions"?
+
+If you give Yin an object meant for Yang and vice versa, they look at each other and swap the objects. They let you through, but you get half points.
+
+Especially in the Mafia red herrings, refer to the vicious gangsters Vizioso (vicious in Italian) and Canino. This is mostly for a later project but is nice to include as a future reference.
+
+Feature No Doubt's "Tragic Kingdom" CD.
+
+If you look in Cody's toilet, the first time around it says, "Look in the toilet? You're taking curiosity to an extreme sports level, but anyway..."
+
+Come up with an excuse (via past-lives) why there is the occasional reference to hippies and the Cold war.
+
+In the library, include a copy of Baudrillard's "Simulacra and Simulation".
+
+In the final "extra" apartment, have one room where the carpet is a
+high-resolution image of the bird's-eye view of the room. If you look at
+the ground, you can see the top of your head. The ceiling is plain.
+This is a reference to Jean Louis Borges' story of the cartographers that
+make a map so detailed it covers the land itself.
+See "Simulations and Simulacra" by Baudrillard
+
+In one of the notes, a previous you begs you to try to remember your past lives. You need to understand your past to transcend the present. "Unravel it!"
+
+If you get to the end in a particularly stylistic way (high points) then in the middle of the programmer God's speech, an alternate you interrupts the proceedings. Maybe evil you pops in as well. You are provided with arguments, counter-arguments and so forth and they throw the decision to you. Maybe they offer a gun.
+
+Perhaps in the imprisoned guy's room, have a half room that shimmers and flickers, like a bug in the simulation. Maybe it turns into a hall of mirrors.
+
+God explains your existence. "What is real?" "Reality is your expression on your environment. And in this you have a pure reality - you are organism and environment. " But why the puzzles? "Choice is key to expression. You are not expressed if you are living your life in routine." But if I am trapped in the building and forced ever upwards, I don't really have free will. I have no choice. I dance the dance because I know no other.
+
+("This is not a reality! I'm just a loop! A nothing!")
+
+Straight up, God explains what is to come, as soon as you step in the room.
+"What the hell is this place? What is happening?"
+"This is your pinnacle. Your destination. But I must inform you, after this conversation is over, you will be wiped clean and returned to the basement, to begin life anew." (wiped clean => reset?)
+With this foreknowledge, the PC gets increasingly nervous as he feels the end growing near. His voice becomes louder.
+"I don't understand. Is this some weird psychological torture? Why is everything so bizarre?"
+"What some would call the reality is that you are a computer simulation. You are a program. A computer game. An entertainment. You exist as the movement of electrons in beautiful cascades. "
+<blood draining bit>
+"You seem troubled by this. Do you not see your inherent beauty? Your splendour? My genius?"
+<Yes/no/I don't know>
+"Hmmm... This so-called reality is a farce. You have your own reality."
+<link into "what is real?">
+
+God seems saddened that you don't accept your life as it is and how beautiful he thinks it is. Your good (or evil?) self argues that it is just simulation. It has no reality.
+"You don't appreciate your reality?"
+<maybe offer choice of yes or no>
+"Hell no! I want out!"
+
+Allow the questions: "Am I dead?" "Am I Neo?" "Are you God?" "Are you the Architect?" "Who are you?" "Who am I?"
+
+The Creator and you play this game of Convolution (the samsara experience). He induces you to play along, get involved in the intrigue, the morality. You must instill meaningfulness. "But why? Why not let me live forever?" But you do. Your life is endless, but at the same time, has a beginning and an end. A end which is a beginning.
+You need to "play along" or otherwise it is just a machine and you are just a product. (Wordplay: But you are more than a product, you are a convolution of life.) You are given enough environment and ability to play along, but not enough to control the game. The messages littered about the place is yourself trying to gain control. Trying to break free.
+
+An idea: In the final scene, perhaps as a count-down, let every paragraph move down a shade so you finally fade out.
+Actually this is a goofy idea, more annoying than clever.
+
+As a joke, explain why you need to meet The Creator in the end: "You need an end. I could starve you, but this is meaningless. " Then, have a hidden thing such that if you go through 777 turns, you die of starvation. Or maybe a larger number. This could be seriously annoying for a serious player to die without knowing the in-joke.
+
+Other questions to answer: what is the meaning of the existence of the other residents? What do you get out of it? What if I die?
+
+If you ask the programmer about IFComp, he says he has a great idea for an entry: It's a game about a writer trying to write a game for IFComp! If you AGREE with him, you say "Great idea, but how would you pull it off? Wouldn't the player get confused?" If you DISAGREE, you say, "Hmm... Very postmodern. But postmodernism is so over-used nowadays. It's just attempting to be clever without actually being so." The programmer disagrees and argues. (Though postmodernism isn't quite the right term here)
+
+Have a bit of misunderstood rivalry between Charlie and Cody. Perhaps Cody says, "Dude, that old dude next door farts like a demon! It's gross! How could anyone stand that?" You say, "Yes..." as you survey his messy room.
+
+In the midst of the Creator discussion, if you do "x me" then you slowly realize your overwhelming everyman-ness. Unremarkable yet not nonexistent. You complain to the Creator.
+
+"Being locked up in a long sequence of prisons, with only brief escapes between them, is not all that entertaining. After a while the player begins to feel that the designer has tied him to a chair in order to shout the plot at him." - Graham Nelson
+PC: "Tell me about it..."
+(maybe have this in a magazine on the programmer's desk)
+
+The prisoner has two pieces of paper clutched in his hands. One of them is the "FATE" and the other "DESTINY" scraps. When you ask for them, he will warn you about them and only give them over reluctantly. They have smears of blood on them. (Maybe they are actually tattoos on his hands)
+
+LOOK UNDER LOINCLOTH (the prisoner's) causes him to scream: "Aiee! Let me at least have my dignity!"
+
+If you find the key to the prisoner's lock, the chain falls off and clunks heavily on the floor. He shakingly looks over himself slowly, clutching and unclutching his hands. Suddenly his head snaps up and his eyes are full of bloodlust. He screams and leaps at you. You instinctively roll with him and hurl him across the room. He falls in the middle of a pile of jagged wooden boxes, which collapse on top of him. You see only his shaking hand emerging from the boxes. A few rounds later, a pool of blood spreads out from under the boxes.
+
+Put some old batteries in the refrigerator as a reference to Maniac Mansion.
+
+"You are the Everyman. You are a faceless wanderer, thrown into a world you don't understand but yet you are only mildly perturbed. You are driven but aimless. You are everything that preceded you and everything that follows. You... are the protagonist.
+
+=============
+Baudrillard makes the excellent point that a simulated experience is even
+more dangerous than the "real" experience (such as a holdup). This is for
+several reasons, one of which is that it crushes the idea of an
+institution or system against the very reality of things.
+ 
+In Convolution, we have this purposeful delusion. We intentionally set up
+the game and run through it. But the game itself is rather inessential.
+The fact that previous PCs have run through and found this compounds
+nicely. They leave messages to warn their successors. But in reading these
+messages you unwittingly drag yourself into a deeper conundrum. Instead of
+harmlessly playing through the challenges, you play on the level of
+intentional simulation. You accept a higher level and punish yourself by
+doing so.
+ 
+Thus the confrontation at the end may involve the Creator who insists on
+the beauty of the illusion. You need to unwittingly participate. (The
+Creator knows the meaning and the meaning of the meaning). The "good" you
+defensively attacks this idea. This kind of living is false and you must
+break free. But the "bad" one knows that breaking free is worse. You must
+degenerate in order to transcend. By playing against the system you
+actually play *with* it. It's amazing.
+ 
+Have this conflict of players who know the different levels of this
+insight. There are unwitting players, players who know the deception and
+want to retaliate, and players who know the deception but want to coalesce
+back. This parallels Zen amazingly. It also links into The Matrix in a
+great way.
+================
+
+You argue with The Creator that this is all rubbish. He replies: "Oh yeah? What's your name?" Your explosive anger dies inside you like Hindenburg.
+
+A neat idea: Puzzles are like sin. Without the puzzles, you have a bland kind of utopia. This has a nice ironic jab at puzzle-vs-puzzleless games.
+
+Cody broke his leg skiing and now has his leg in a cast. This gives another way to get to his skiing story.
+
+To become Nietzche's "Ubermensch", you go through 3 steps:
+1. Will to destruction
+2. Re-evaluating or destroying old ideals
+3. Overcoming nihilism
+In a paradoxical way, the PC is an Ubermensch. Through convolution, you try to bring to end your existence and to reality entirely, intentionally destroying it by participating. This involves recognizing (time and time again) the truth of the situation of Convolution. Without this meaningful march towards destruction, you lapse into a meaningless nihilism - an empty existence.
+
+Areas of philosophy relevant to Convolution: hyperreality, cybernetics, metaphysics, nihilism, consciousness, religion, Zen Buddhism, Hinduism, Christianity, cyclicity, mathematics, simulation
+
+
+In the new storage area, have a journal tucked away somewhere. In it someone tells his experiences in hospital after a gunshot wound to the head. This offers a (obscured) interpretation of Convolution. In his ward there is a surfer dude with a broken leg, and an old guy who talks about his wife and communists. He admits to sneaking out at night (although while not totally all there) and checking out rooms upstairs. The prisoner may be either a real prisoner (injured guy locked in a maximum security ward) or a psychiatric patient. The ravers could be a ward full of sleeping people. The programmer could be an IT guy, or a security guard. He finds out that his doctor is in room 777.
+
+When The Creator explains Convolution, he quotes: "Once you have glimpsed the world as it might be, it is impossible to live anymore complacent in the world as it is."
+
+Above the door leading to The Creator: Lasciate Ogni Speranza Voi Ch'Entrate (Abandon all hope, ye who enter here) Or maybe the door after Yin & Yang
+
+Just before The Creator's room, there is a huge hexagonal room a la the Library of Babel. There are thousands of books on shelves. What's cool is that each book has a transcript of the first maybe twenty moves of Convolution. Each volume is labelled with a string of text, which actually corresponds to a hash (or lookup) for the transcript. We do all this via a tricky Dispenser object.
+Even cooler, in the library in the locked apartment, have a stolen volume. This works nicely as a gift for the programmer as he uses the transcript to mould a game around.
+
+"How curious it is to name a fate..." (Referring to the identification with 
+Convolution)
+
+Maybe rewrite the TWISTED EXISTENCES thing (or a shorter-word and more words 
+phrase) via Comp Sci convolution:
+The convolution of "I HATE MY FATE" is: (I,H,M,F), (#,A,Y,A), (#,T,#,T), 
+(#,E,#,E)
+
+Convert a Latexed integral for the convolution into a jpg (imagemagick?)
+
+Echoes are convolutions of the original sound with a function given by the 
+surroundings.
+
+Quantum superposition in a linear system can be seen as a convolution.
+
+Perhaps there is a scrap of paper somewhere (in the locked room) with a list 
+of probability functions and various impenetrable calculations. At the bottom 
+there is: "Fate = (some function)" with a little note in the corner, "If we 
+don't look at the mirror, Schrodinger would be pleased, ha ha"
+
+Mirrors all do weird stuff. One mirror blinks at you. Another has a weird glow 
+(Cody's) that you attribute to mould. One in the old storage room is warped 
+like a funhouse mirror. Maybe one has a Hall of Mirrors effect, but it is a 
+singular mirror (this ties into the induction/Convolution idea).
+
+ENTER/TOUCH MIRROR = You reach forwards the mirror, and not surprisingly, your 
+fingers stop dead at the surface, merely touching the image rather than 
+slipping through it. This is an ordinary mirror, although it was warmer to 
+the touch than you expected.
+
+"Closer to God (The Creator), the world bursts at the seams with The Spirit." 
+Referring to the anomalies that are your identity bursting out.
+
+Related to the paradox of playing with/against the system, have a note that mentions that earlier cycles were more unstable. You could link this into chaotic systems with early perturbations leading to chaos later on. Maybe this is in the folder of mathematics and physics on the locked room lounge coffee table.
+
+Deconvolution (of an image, say) involves making a blurry image clearer. In 
+this way, enlightenment, understanding, and revelation are the deconvolution 
+of the protagonist's life.
+This adds credence to the destructive forces who want out. They need to 
+deconstruct the convolution and thus reach clarity. Beautiful.
+
+Karl Popper suggests that scientific theories are never proven, but can be falsified. One of the previous Convolutes writes that to understand Convolution we need to find a way to falsify it. But how do you falsify existence? Part of the existence is the requirement to recurse back. So to strengthen the scientific aspect, you must rebel. But if you rebel too hard, and negate the existence, everything goes to hell. To strengthen your existence you have to risk destroying it all. Very anarchistic.
+
+"How did we find out about Convolution?" How does one find out about God? Though hidden to the common eye, there are traces, stories, feelings and experiences. We know Convolution only by these. Such traces are allowed to exist by The Creator for what reason, we do not know.
+
+The Recluse has borrowed the scientific article from the person in the locked apartment. Leave a note to that effect. This world-analysis has caused The Recluse to become paranoid, which is why he is what he is.
+
+As a random goodbye, Cody says, "See ya, Pilgrim" in a sly reference to Dante the Pilgrim.
+
+Aristotle believed the soul had two parts: an individual part and a divine part. A specific Convolute is an instance of the former, and The Creator is the instance of the latter. This is another layer to The Creator and gets around the problem of "Who created The Creator?"
+
+Maybe if the previous paragraph is discussed in the final showdown, the Evil You shouts "ex nihilo nihil fit!" meaning "Nothing comes from nothing!"
+
+Ouroboros is the snake eating its own tail. Maybe have it as an ornament somewhere.
+
+In The Prisoner's room, have a book of Nietzsche whose pages look to be literally eaten away. This is a sly reference to devouring his philosophy, which is essentially the philosophy behind Convolution.
+
+The idea of Convolution is very similar to Nietzsche's idea of Eternal Return. A quote from "The Gay Science":
+What, if some day or night a demon were to steal after you into your loneliest loneliness and say to you: 'This life as you now live it and have lived it, you will have to live once more and innumerable times more' ... Would you not throw yourself down and gnash your teeth and curse the demon who spoke thus? Or have you once experienced a tremendous moment when you would have answered him: 'You are a god and never have I heard anything more divine.'
+
+When you're in the Infinite Hallway, you see someone open a door and run through another. A few seconds later, another figure bolts through (maybe he comes right by you).
+Or better, when you walk into the Infinite Hallway, your head swims in the illogical grandeur of it all. If you SIT, you collapse against a door for a second, moaning and sweating. If you try to move, your vision whirls and you lean your head against the wall. In either case, The Troublemaker and the PC from The Troublemaker rush by and disappear into a door.
+
+After giving Yin and Yang their gifts, they open a lock each (a door lock and a deadlock). They open the door and there is just uninviting darkness. They both grab you, toss you forward and slam the door shut. You panic for a second and there is a electrical *clack!*, followed by a *click* that recedes down the hallway as lights switch on. You stare at the chain of lights switching on and relief turns to curiousness, which gives way to disbelief, which drops into despair.
+
+In the final confrontation, if the gun turns up, they may give you it. If you shoot The Creator, one of the You's says, "God is dead, and we have killed him." (A paraphrase of Aphorisms 125: Gott ist tot! Gott bleibt tot! Und wir haben ihn getötet. : God is dead! God is still dead! And we killed him.)
+
+Have a single line: "You step between Yin and Yang, into the darkness beyond." This is a reference to the path between the Manichean idea of opposition (if you interpret Yin and Yang that way), whilst continuing the theme of Taoist "opposition" (where Yin has a bit of Yang and vice versa). You are the collapse/amalgamation of Yin and Yang, continuing forward into the unknown, the realm of self-discovery.
+
+Maybe you can kill the programmer and we keep a safety route in: the paranoid recluse can do the keycard work for you. He heard you killing the programmer: "I heard ya. I knew you were coming. I heard ya. You won't kill me. I have a gun. Quick! What do you want?"
+This should influence the Karma engine and you should get less points for wanton violence.
+
+===========
+
+If you jump from the alleyway ledge:
+
+You decide to take fate into your own hands. With a deep breath and 
+outstretched arms, you fall forward.
+
+There is a whoosh, a heartbeat, and a meaty click as your feet hit first. They 
+immediately slip out from under you, the algae-slick floor rushing up to meet 
+your face. There is a hammer-blow to your face and you lie ringing and 
+unmoving. You cough and gasp, sucking in mud-flecked air. A wet pain spreads 
+around your head like a crimson halo. Your vision swims and as the world gets 
+darker you hear footsteps. Blurred feet crowd around you and someone slurs, 
+"Oh dear. Not again." Clouds of bodies reach down and pull you up like a 
+ragdoll on strings. Something warm and wet trickles into your eyes and there 
+are no longer shapes.
+
+And then it ends.
+
+===========
+
+The Convolution process is your own personal "Ars Moriendi" ("The Art of Dying"), but linked into the IF metaphor. Maybe in the old storage room, have a dusty old copy of a reprint of "Ars Moriendi".
+
+The trefoil knot (as well as the Gordian knot) are good symbols for immortality.
+
+(On a plaque somewhere)
+In silicio
+In esse
+In nuce
+(In simulation, in essence, in a nutshell (contained))
+
+
+In the "crazy doors" sequence, perhaps you meet a monkey you guides you to the next door. Maybe it's an ape, as a sly reference to Thus Spake Zarathustra.
+
+Mix the two stories (Mafia & Ubermensch) together like a Convolution.
+
+On a card:
+While wearing white
+You got shot
+First you were dead
+Then you were not
+
+(maybe as an oblique clue, replace "First you were dead" with "First you was 
+dead" as a clue that you should shoot Good You, who is the first convolute.)

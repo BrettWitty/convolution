@@ -1,0 +1,654 @@
+
+- Began work on Convolution around the 18th of January 2004.
+  - Downloaded ADRIFT and began implementation.
+  - Threw away ADRIFT and started learning TADS2.
+
+- Around the end of January 2004, backed up my TADS2 source and began afresh with Worldclass.
+
+- 6th of March 2004, wrote up entire(?) puzzle list with all solutions and alternatives. Attempted an objects list.
+
+- 20th of March 2004, after about 90kb of code was written, I decided to start again (groan) with TADS3 because it solved many future programming problems.
+
+- 28th of March 2004. Working well with TADS 3. Up to about 30kb of text. Only two rooms!
+
+- 22nd of April 2004. IFComp has begun to advertise. I've got about 5 months to go. I'm up to 50kb of source code. Current sizes:
+  - basement.t 15kb
+  - classes.t 8kb
+  - convolution.t 4kb
+  - elevator.t 1 kb
+  - ground.t 11kb
+  - laundry.t 7kb
+  - mailboxes.t 1kb
+  - props.t 1kb
+  - vern.t 4kb
+  - I have 13 odd things in my To Do list. I have most of the basement and ground floor layout in place (not completely described/outfitted). Still need to add in the (old) storage rooms.
+
+- 24th of April 2004. Signed up for IFComp and submitted some basic details about my game. So it begins...
+
+- 3rd of May 2004. Spent a while betatesting Return to Ditch Day, so no programming done for some time. Finished implementing the swinging door in the laundry and some other small things. Implemented most of the mailboxes. They're working well! Coded the new "violent split"; punch, kick and attack are separate commands. I've made the verbs work like the ADV3 library, namely they call on playerMessages for failure messages.
+Found a handful of eager betatesters. Now I just have to finish the game! Looks like it might be too long for IFComp. :(
+Current source code: 65kb
+Source code changed:
+  - classes.t 9kb
+  - ground.t 14kb
+  - laundry.t 13kb
+  - mailboxes.t 3kb
+  - props.t 2kb
+  - verbs.t 5kb
+
+- 8th of May 2004. Tried to do a quick and dirty implementation of the rest of the rooms, but I got caught halfway through the first floor! I still have the dude's place, Jack and Jill's place, the locked apartment and the alleyway to do. Descriptions are lacking everywhere.
+I began implementation of the trenchcoat and some other props.
+Ran into a compiler curiosity. You can't name use filenames that are the same as library ones. No biggie, but weird.
+The game is beginning to look gigantic. My To-Do list is growing long.
+Current source code: 82kb
+Source code changed:
+  - first.t 12kb
+  - convmisc.t 2kb
+  - oldfolks.t 2kb
+  - props.t 4kb
+  - second.t 1kb
+
+- 9th of May 2004. Gunned ahead on the first floor. Lots of things have been implemented. Detailed rooms have been installed. Still need to do the dude's room, Jack & Jill and the locked apartment. Added a plethora of destNames. Created the TimedAutoclosing door and attempted to write a chockable door. The ground and first floor stairwells were added.
+Current source code: 103kb
+Source code changed:
+  - abandoned.t 5kb
+  - basement.t 16kb
+  - classes.t 14kb
+  - convmisc.t 5kb
+  - convolution.t 5kb
+  - first.t 14kb
+  - ground.t 19kb
+  - verbs.t 6kb
+
+- 18th of May 2004. Working a bit on the first floor. Implemented some of the tricky furniture in the lunch room (the table, the microwave). Laid down the basic rooms for Jack and Jill. Fixed up a few exits and things in the basement. Fixed up some old (beginners) code. Modified the Trenchcoat Of Holding (but the pockets aren't working nicely yet!).
+Current source code: 111kb
+Source code changed:
+  - basement.t 18kb
+  - first.t 17kb
+  - j&j.t 2kb
+  - props.t 5kb
+
+- 24th of May 2004. Continuing work on the first floor. I've laid down the basic rooms for the Dude's room. I've rounded out a little of the abandoned apartment, adding a few spots of decoration and rewriting some descriptions. I fixed a bug with the trenchcoat. Now putting items into the pockets (or taking them out) is all redirected to the trenchcoat itself. I rejigged the entrance so that it isn't so dark. There is also a nice trick that if you try to read anything in the entrance, you position yourself near the light. I've added outside.t to the source code, and I plan to convert the WorldClass code directly to TADS 3. This area was half the reason I swapped to TADS 3 so it will be interesting to see how it goes. I need to implement a Window class (openable, transparent, breakable...) which may be darn tricky, but I need it for later on.
+Current source code: 115kb (not including outside.t)
+Source code changed:
+  - abandoned.t 6kb
+  - dude's place.t 3kb
+
+- 26th of May 2004. No big programming efforts recently (I'm having installing XEmacs on my new computer). I worked a little on the elevator shaft. This should be darn tricky to do right. Not to mention programming the elevator itself. I'm thinking of scrapping the Lurking Horror section to branch the game in three main ways:
+1. Liberate the "imprisoned" guy. Get through the deadly ninja puzzle, then onto Yin and Yang.
+2. Get the card reader from the recluse. Do a task for the programmer and then he'll reformat your access card. Use the elevator to get to Yin and Yang.
+3. Possibly reincorporate the Lurking Horror and the Roomful of Monkeys puzzles. Maybe it's a secret way. Climb through the elevator roof (on the second level), up to level three. Work through the monkey puzzle and then you have access to the Lurking Horror on the fourth level. Get through that to the elevator shaft and climb up to level five.
+
+- 27th of May 2004. Implemented some of the "Locked Apartment". There sure are a lot of exits involved there! Began experimenting with NestedRooms. I wonder how people will take my description of the Locked Kitchen. I'm also experimenting with detailed and varied apartment designs.
+
+- 14th of June 2004. Recently acquired a funky new computer and my free time has been eaten up by fancy games. The new machine compiles stuff lickity-split! Finished the translation of outside.t to TADS 3. It actually comes out about 1k bigger in TADS 3, but the code is cleaner. I implemented a bunch of new verbs: knock, tap and poke.
+Current source code: 147kb
+Source code change:
+  - basement.t 18kb
+  - convmisc.t 7kb
+  - elevator.t 2kb
+  - first.t 18kb
+  - locked.t 4kb
+  - outside.t 23kb
+  - verbs.t 7kb
+
+- 15th of June 2004. Worked exclusively on the lighter tonight. It isn't finished yet, but has quite a bit of interactivity already. It gets too hot and is dropped (and shut off) if left on too long. It has fuel and the player gauges how full it is. It seems to be bug-free so far (except for things I know it doesn't handle yet).
+Current source code: 151kb
+Source code change:
+  - props.t 9kb
+
+-16th of June 2004. Added a little bit of framework to the Locked Apartment. Developed the Window and SealedWindows classes. Added a Breakable class with much customization available. Noticed that my commenting is rather random, sometimes I use //, sometimes /* */ and some bits are densely commented, other bits, not at all.
+Current source code: 154kb
+Source code change:
+  - classes.t 16kb
+  - locked.t 5kb 
+
+-19th of June 2004. Coded much of the website.
+Current source code: 154kb
+Source code change:
+ - Nothing
+
+-21st of June 2004. Added a large chunk of text to Cody's lounge room. I described the lounge room and added exits, but the large amount of work were the stickers on his door. There are quite a few and some are even suggestive of things to come. I added some base code for the TV class. I wonder how I can inform actors in the room when a TV is turned off.
+I really need to get cracking as people are already beginning to be in "polish mode" for their entries in IFComp 2004. I'd like to finish the first floor by the end of this month.  The elevator (and shaft) looks like it'll take forever. It may take a while to get used to writing conversation threads.
+Current source code: 166kb
+Source code change:
+  - dude's place.t 8kb
+
+-22nd of June 2004. Coded Cody's TV and the wall plug for it. It is quite functional, but ultimately useless. I had a long problem with a mysterious bug because I thought PlugAttachable was a modification of Attachable, which it is not. *groan*
+Cody's place is beginning to take place. It's currently one of the most densely written areas, and it's just beginning. The stickers on the door and the handful of channels on the TV contribute greatly to this.
+Current source code: 181kb
+Source code change:
+  - classes.t 20kb
+  - dude's place.t 20kb
+
+-26th of June 2004. Implemented some extra code for Cody's TV. I fleshed out his lounge room, kitchen, added a sofa and some of a bookcase. Most of the kitchen has been implemented. There is even a skeletal Cody lounging on the sofa (though he needs better posture code).
+Current source code: 189kb
+Source code change:
+  - dude's place.t 27kb
+
+-29th of June 2004. I'm energized about writing IF now. It is my goal to make it on to Emily Short's list of notable IF games.
+Made the decision not to have randomized creepy notes. I will place each note specifically. I edited the starting sequence to read better and for cosmetic reasons.
+
+-3rd of July 2004. After a few days of minimal coding, I added a bunch of dense objects: Cody's toilet, sink and shower, the laundry dryer, and base stuff for the washing machines. Cody's bathroom is almost done.
+I've edited the intro a bit and it reads better.
+Current source code: 213kb
+Source code change:
+  - classes.t 22kb
+  - dude's place.t 43kb
+  - laundry.t 18kb
+
+-4th of July 2004. Worked on the hints and scoring systems today. I've also begun work on the Karma engine. The hints system is so cool, though slightly intimidating at first. Submenus are so easy to use. The scoring system isn't ideal, in my opinion, but is well integrated with the hints system and is pretty usable. I like the fact that you can use multiple achievements under the one object (sundry achievements, or if you're tricky, part-solutions).
+Current source code: 219kb
+Source code change:
+  - convhint.t 6kb
+  - convscore.t 1kb
+  - karma.t 1kb
+
+-7th of July, 2004. After almost pulling my hair out in frustration, I finally got a working dryer. It works nicely: you put in a coin, press a button and it rumbles away for a few turns until it's finished. The rumbling is customized depending if it has contents or not. If you open up the dryer midway through a run, it stops and waits for you to close it. One thing is a bit weird and I'm seeking help for: it's tough to remap a condition based on the direct object.
+The dryer isn't perfect yet, but is very good. And the best thing is that the code transfers easily to the laundry machines. I think it will be on my achievements list.
+Current source code: 226kb
+Source code change:
+  - verbs.t 8kb
+  - laundry.t 14kb
+  - dryer.t 5kb
+
+-8th of July, 2004. I'm ever-eager to keep working on my game. I did some more framework stuff (putting bare rooms for the next few floors). I'm up to 88 rooms, though a huge proportion of them is the worrisome Lurking Horror level. I'm going to concentrate on coding the "elevator" path to level 5. One route is better than no routes at all.
+I did some bugtesting of the dryer. Damn it's tricky. I'm getting help from MJR, but it's a weird beast this dryer.
+I also fixed up some stuff regarding mailboxes. They have the unfortunate problem of requiring the ability to put stuff in the slot, but not take out stuff. Argh! I might code them up as PO boxes and work on them properly if time permits.
+I did some small, but nifty things for the keys. There is now a puzzle in the game!
+I've come up with even more ideas to include. These aren't big coders, which is good, but they are mostly plot/character driven, which is even better.
+Current source code: 229kb
+Source code change:
+  - many files begun
+
+-9th of July, 2004. Got some help from MJR (needed remap = nil) and figured out how to solve the coin remapping problem. The dryer works pretty well now. Frustrating though.
+
+-10th of July, 2004. Did some IF reading today, but mostly worked on the lobby telephone. It's a frickin complicated object (well actually, array of objects), but the only troublesome thing was working out how to make it "make noises".
+I also chopped out the entirety of the "chock" code. Chockable doors are so low on my priority list that I'd rather remove them and recode if needed.
+Current source code: 229kb
+Source code change:
+  * classes.t 18kb (from 22kb)
+  - lobbyphone.t 7kb
+
+-11th of July, 2004. Worked on the phone today (not sure if it will work). I did a lot of stuff related to Cody's conversations. I got the initial "walk-in" coded nicely, but he has trouble navigating his ConvNodes.
+Once I figure out the flow to conversations, they should be easy to use.
+I did a little bit of work on Cody's bed. It acts a little better but you can't lie on it.  His whole bedroom needs a lot of attention.
+Current source code: 238kb
+Source code change:
+  - cody.t 4kb
+  - dude's place.t 44kb
+  - ground.t 21kb
+  - lobbyphone.t 8kb
+  - topics.t 2kb
+
+-12th of July, 2004. Didn't do a lot today. Began work on the library. The bookcases have some specialized listers in them. I also did a lot of research on books to include in the library.
+Current source code: 243kb
+Source code change:
+  - books.t 4kb
+  - locked.t 7kb
+
+-19th of July, 2004. Last week I mostly did reading. I read a bit of Baudrillard, Plato, Deleuze and random Wiki articles. Baudrillard sparked a brilliant idea that helped tie Convolution together nicely. There should be a three-way (well, four) in the end. But The Creator, Evil and Good You don't hold quite the ideas that they may seem to.
+I also reviewed Dangerous Curves during the week (which took out two nights). It brought a few design issues to mind so I'll have to watch out.
+Today I wrote a bit of the Republic (but scrapped most of it), and did some detail work/coding on the microwave. It now properly works with LOOK IN and is attached to the wall. Listings work in the way I want them to.
+Current source code: 248kb
+Source code change:
+  - books.t 8kb
+  - first.t 17kb
+  - lunch.t 5kb
+  - props.t 11kb
+  - topics.t 2kb
+
+-21st of July, 2004. I did a bit of work in the lunch room, implementing some scenery and appliances. I'm getting better at overriding the listers, which is great because I like to customize messages.
+Current source code: 254kb
+Source code change:
+  - lunch.t 11kb
+
+-22nd of July, 2004. I worked on some more lunch room stuff. I also fixed the quirky "sprawled" behaviour of Cody's and edited some of Cody's TV text. The lunch room is almost complete. I just need to do the microwaving of the microwave and add a few chairs.
+Current source code: 256kb
+Source code change:
+  - cody.t 5kb
+  - lunch.t 12kb
+
+
+-29th of July, 2004. On and off I've been fixing small things. Since the last update I've fixed Cody's conversation code, added in Rose and some conversational stuff of hers, and generally fixed up the alleyway. The alleyway now has a window in which you can throw a garbage can through (and it acts accordingly). The "Fight Club" and Old Storage rooms have been initially implemented.
+Cody's room still needs work and there is a lot more conversation to do. This weekend I should finish the entirety of Cody's room (sans maybe his video game), and get as much done on the old folks' place.
+Current source code: 278kb
+Source code change:
+  - cody.t 8kb
+  - dude's place.t 46kb
+  - topics.t 3kb
+  - verbs.t 8kb
+
+-31st of July, 2004. Fixed more things in the alleyway. The western alleyway windows seem to work fine now. I repaired some old TADS 2 code (\"blah\" changed to <q>blah</q>).
+Refrigerators have standardised code now, and seem to work fine.
+Current source code: 280kb
+Source code change:
+  - outside.t 32kb
+
+-1st of August, 2004. Implemented the fire escape way to the first floor. I need to implement you throwing things at it to make the ladder to fall down. If this is implemented then there will be three ways to the first floor. (Woot!)
+I also hit the big 400 Thing objects. I have 91 rooms with maybe 10 more to come (if that).
+Current source code: 285kb
+Source code change:
+  - first.t 20kb
+  - outside.t 34kb
+
+-2nd of August, 2004. You can now throw heavy objects at the ladder and it'll fall down. It's really only customized for the bin, but nevertheless, it works.
+I also fixed a whole bunch of bugs (THROW ME AT LADDER was amusing). I changed all the listenDescs into soundDescs. The TADS 3 naming of the senses is rather unsystematic (feel, smell, sound, taste) but what the hey.
+The lobby phone now rings when you walk into the back room. With a little bit of extra code, the first creepy phone call can kick off. The big challenge is getting phone conversations to work. The phone also has some smarter remaps and some custom msgs.
+Current source code: 287kb
+Source code change:
+  - lobbyphone.t 8kb
+  - outside.t 35kb
+
+-4th of August, 2004. Yesterday I didn't do much except add a little bit of detail to Cody's toilet and maybe some research. Tonight I rewrote the "nailed shut" door to use EventLists and tighter code. I actually caught some errors and it works pretty well. It even works appropriately from the other side. The descriptions work in a more standard way.
+I'm scheduling my very first alpha testing session. Ronald volunteered so I will clean up the first level and pass it on to him.
+Current source code: 291kb
+Source code change:
+  - basement.t 20kb
+  - dude's place.t 47kb
+
+-5th of August, 2004. I did some serious programming on the lobby phone. It seems to work pretty well. Other than implementing a few small things on the phone, the next thing to do is initiating the conversation with Vern. Complication city.
+I was actually impressed by some of the sweet code I have on the phone, though it is pretty twisty in parts (farming things out to states is both a blessing and a curse).
+Current source code: 296kb
+Source code change:
+  - lobbyphone.t 13kb
+
+-6th of August, 2004. I fixed up the phone somewhat and smoothed out some bits in order to give it to Ronald to alpha test. I got an immediate response and I've rewritten the intro. The basement needs a bit of reworking, mostly because it's been a while since I solidified my idea of it. It should be rewritten (so as to improve the writing and give it some more atmosphere).
+Current source code: 301kb
+Source code change:
+  - basement.t 20kb
+  - ground.t 24kb
+  - lobbyphone.t 14kb
+
+-7th of August, 2004. I rewrote the first room and removed the "alcove" puzzle. It is being moved elsewhere. The boxes have a bit of extra interactivity now.
+Current source code: 299kb
+Source code change:
+  - basement.t 19kb
+
+-8th of August, 2004. I did some more modifications of the alleyway. It's a little crazy - it comprises about 15% of the current code, but it's a chunk of the game you don't have to visit. Darn. So I worked on the abandoned apartment, installing windows and readjusting things. The new basement is also mostly implemented.
+Current source code: 304kb
+Source code change:
+  - abandoned.t 6kb
+  - first.t 22kb
+
+-9th of August, 2004. Added some conversation topics to Cody (and one or two to Rose). A hidden note in the abandoned lounge has also been added.
+Current source code: 312kb
+Source code change:
+  - cody.t 11kb
+  - rose.t 5kb
+
+-11th of August, 2004. Close to no programming lately. I did consolidate my puzzles list though. It is condensed and cleaner. I chopped out the whole "bizarro" puzzles, but I guess it's for the better. The set puzzles now are simpler to implement (there will be no rope, or anything insane like that). Hopefully this means I can race through and implement a lot of these things without spending a week trying to get half a puzzle programmed.
+Current source code: 312kb
+Source code change:
+  - None
+
+-13th of August, 2004. Still a little sick, so work is sporadic. I managed to channel that inner whatever to write a large section of the prisoner's book. It's pure gold but rather creepy. I hope it has the desired effect but doesn't distract players too much.
+Current source code: 315kb
+Source code change:
+  - books.t 11kb
+
+-14th of August, 2004. Feeling better (but had chores to do). Nevertheless I reprogrammed the dryer and implemented the washing machine, all under one new piece of code. The laundry area is basically done.
+Current source code: 321kb
+Source code change:
+  - classes.t 22kb
+  - dryer.t 7kb
+  - laundry.t 15kb
+
+-15th of August, 2004. Did a lot of work on Cody's conversations today. He has a lot more to talk about now. Most of his apartment is done now. I really only need to sort out a few things (and add more behaviour to him) and then his place is done. Cody and his apartment takes up about 70kb of code now, which is about 20% of the code.
+I realized today that I have one less week to work on my game, since I'll be in Melbourne for the week before it's due. That means I need to get cracking, big-time. I have about 10 characters to implement and a whole stack of rooms. Eek.
+Current source code: 336kb
+Source code change:
+  - classes.t 22kb
+  - cody.t 20kb
+  - convactor.t 5kb (new)
+  - dude's place.t 51kb
+  - props.t 12kb
+  - verbs.t 10kb
+
+-16th of August, 2004. Amazingly, I got the phone to work. I can call Vern and he walks on down. Things I still need to do: he needs to clean up when he gets there, we need to catch the player asking him twice, we need to make him more decorative, the lobby phone needs to realize that if you walk out of the room we need to initialize lobbyPhoneHangingIdle.
+Nevertheless I'm very happy about this (modulo some technical problems). The TADS 3 library is excellently set up.
+Current source code: 342kb
+Source code change:
+  - lobbyphone.t 14kb
+  - vern.t 9kb
+
+-17th of August, 2004. Did a little bit of tweaking to the phone. Fixed a stupid initDesc problem. The phone seems (mostly) bug-free, except for the technical problem with the SenseConnector.
+Current source code: 342kb
+Source code change:
+  - Nothing but edits
+
+-18th of August, 2004. Fixed the phone, I think completely. Turns out that you need to include getExtraScopeObj to make sure things are properly in scope.
+There is an annoying bit of behaviour with disambiguation that I can't avoid. Grrr. The mailbox door in the entrance is included with the glass and security doors in X DOOR.
+I also completed the back room, mostly from text created in the WorldClass version.
+Deadline panic is starting to creep in. Oh dear.
+Current source code: 348kb
+Source code change:
+  - ground.t 30kb
+  - lobbyphone.t 15kb
+  - props.t 13kb
+
+-20th of August, 2004. Worked on the locked study. A simple thing such as a desk has some in-depth code, just to make it read nicer. I'd like to finish the locked apartment soon, simply because it can be done with little complication.
+Current source code: 351kb
+Source code change:
+  - books.t 13kb
+  - locked.t 8kb
+
+-23rd of August, 2004. I find when I'm getting ready to program, I'm not keen on doing it, but when I'm in the thick of it, I'm pleased. After a long struggle (versus Prince of Persia Sands of Time), I did some work on the locked lounge room. The sofa and two deliciously coded pillows are now in play. I may add a few extra decorations (a mantelpiece, but no TV).
+Current source code: 355kb
+Source code change:
+  - locked.t 12kb
+
+-24th of August, 2004. In my struggle to get the locked apartment done, I mostly completed the bedroom, complete with tatami and futon. The futon and sofa have some special coding (to prevent standing etc) but it's nothing special.
+I modified some of the actor code to make things work nicely with makeProper.
+Current source code: 360kb
+Source code change:
+  - locked.t 16kb
+
+-29th of August, 2004. I took a bit of a break this week (I was kinda burned out by the project). Ronald gave me a bunch of great bugs to fix. The basement area is super-solid.
+This weekend I fixed the basement area, some of the ground floor, added a lot to the locked apartment, wrote 30 odd varieties of ramen for the programmer, added stuff to the books (and really worked on the locked study) and a bunch of smaller things.
+Current source code: 386kb
+Source code change:
+  - basement.t 28kb
+  - books.t 14kb
+  - convmisc.t 9kb
+  - ground.t 31kb
+  - locked.t 23kb
+  - props.t 14kb
+
+-30th of August, 2004. More sweeping implementations. The back room seems to be all done. The reception area and the lobby are mostly done.
+I completely recoded the damn lobby phone. It works better now. It took me damn near an hour to get the DIAL verbs to work (it came down to a simple misplaced bracket).
+Many rooms now have secret messages in them. Squee!
+Current source code: 388kb (though much more rewritten)
+Source code change:
+  - ground.t 35kb
+  - lobbyphone.t 13kb
+  - props.t 14kb
+  - verbs.t 10kb
+
+-31st of August, 2004. Added a bit of the prisoner's two rooms. Nothing great, but it's something new to work on.
+Current source code: 391kb
+Source code change:
+  - prisoner.t 3kb
+
+-1st of September, 2004. The countdown begins. Only three weeks (for me) to go. I did some work tonight on the prisoner's room/book, a few secret messages, and did a lot of work on decorations in the reception and ground hallway.
+Current source code: 397kb
+Source code change:
+  - books.t 16kb
+  - classes.t 22kb
+  - ground.t 38kb
+  - prisoner.t 3kb
+  - props.t 15kb
+
+-2nd of September, 2004. More work on the (damned) phone and ground floor. I mostly fixed up things in the laundry and new storage room. (This entry is short because I forgot to record the info, but it was mostly patching up stuff Ronald pointed out) I think I wrote up one or both of the pictures in the ground hallway.
+Current source code: 399kb
+Source code change:
+  - laundry.t 17kb
+
+-3rd of September, 2004. Did a bit of work fixing the phone. It looks mostly done. I fixed the drop/put code for it, and now it shows up nicely in the inventory. It also does proper responses to implicit listens.
+I removed the Zippo(tm) lighter, simply because it has no purpose and causes infinite trouble. I fixed some code on the laundry door attacking code. The boiler now brings in steam when kicked.
+Current source code: 401kb
+Source code change:
+  - basement.t 29kb
+  - convolution.t 6kb
+  - ground.t 42kb
+  - lobbyphone.t 15kb
+  - props.t 10kb
+
+-4th of September, 2004. I mostly did a bit of modifications here and there. I modified some stuff with Cody, added a hair dryer, added a DRY verb, and fixed the slippery steps.
+The infinite hallway has begun. I wanted an AskConnector for the infinitely many doors, but it creates many problems, most importantly that it creates headaches and no fun for the player, so I scrapped that idea.
+Current source code: 406kb
+Source code change:
+  - infinite.t 2kb
+  (plus bits and pieces everywhere)
+
+-5th of September, 2004. I added the Easter egg of the Track ideas, the boiler room cupboard, and a bunch of other small things. I also removed the lurking horror section.
+Current source code: 409kb
+Source code change:
+  - basement.t 31kb
+  - books.t 18kb
+  - props.t 12kb
+
+-6th of September, 2004. Worked on the old storage room. AskConnectors have a logical but annoying property of only asking for valid paths. This is okay except my window is always considered whereas the more logical door isn't.
+Spent ages trying to fix this random list problem for Cody's skis. There were a few other bugs that Ronald pointed out, one that is really tough to fix. Oh well.
+Current source code: 412kb
+Source code change:
+  - oldstorage.t 4kb
+
+-9th of September, 2004. Worked on the old storage room recently. Tonight I specifically worked on the elevator, implementing a few non-programmatic things (decorations etc).
+I added a very simple about box for the game (with a Yin-Yang symbol).
+Current source code: 414kb
+Source code change:
+  - elevator.t 3kb
+  - oldstorage.t 5kb
+
+-11th of September, 2004. Did a large chunk of coding on the elevator. I think it basically works, but I need to install some more things to make sure.
+Current source code: 422kb
+Source code change:
+  - elevator.t 10kb
+
+-12th of September, 2004. The elevator is mostly coded now. I need to add in the code for the swipe card, but it seems to be easy. I'm sure a bit of aberrant behaviour might confuse the elevator, but it works to some degree now.
+Current source code: 426kb
+Source code change:
+  - elevator.t 15kb
+
+-12th of January, 2005. After a long hiatus not doing IF (or working on Mix-Tape), I returned to fix up the phone code (again!) The current model has no more redundancy and works relatively smoothly. It is incomplete as yet.
+I found a whole bunch of bugs running through the game to refresh my memory. The elevator gets stuck thinking that you're moving when you're not.
+Current source code: 424kb
+Source code change:
+  - lobbyphone.t 8kb
+
+-24th of January, 2005. I poked around in the source code, looking at various things and adding hints. I did a lot of little modifications everywhere. I tried some modifications to Cody's posture code, but it's a tricky area. I added a neat disambiguation thing to the abandoned lounge when you have the window open and type "OUT".
+Current source code: 428kb
+Source code change:
+  - varied (and unrecorded)
+
+-26th of January, 2005. I intended to finish the phone code tonight, but to no avail. Everything seems to be working cleanly except for sounds. I modified my fuse/daemon approach, which worked well as an background noise, but caused ickiness with "LISTEN". Plus "LISTEN TO" wouldn't work. I might rip out this code and replace with Eric Eve's "Square Circle" approach: move in a MultiLoc SimpleNoise when ringing, and remove when done. This will require fuses and some checks, but should work cleanly.
+Current source code: 431kb
+Source code change:
+  - phone.t 12kb
+
+-29th of January, 2005. I finished coding Vern's "plant and boiler" fixing code. The phone is still unfinished so I can't test it. I added some states and rearranged Vern's AI code.
+I also added some code to the lunch room. There is a chair for Vern to sit on, and some of the specialDescs clump together.
+Current source code: 439kb
+Source code change:
+  - vern.t 16kb
+
+-30th of January, 2005. I tried to include the noise code for the phone. However, I need to redo the code (*groan*) as functions have ambiguous uses, sometimes doubling up when they shouldn't. I need to draw a flow chart for the darn thing. The noise code works (though we don't use MultiLocs), but the various processes don't communicate correctly (leading to an infinite chain of rings).
+I modified the backRoom's desc to read better.
+I added some detail to the prisoner, in the form of ActorStates and set up some of his objects. I realized that I had my puzzle mixed up with the prisoner - his point was removed after removing the higher levels, and he doesn't fit in as well as the other puzzles. Plus I didn't know if we find the prisoner's shackles key elsewhere, or whether it is the same key to get to the room beyond. I think it might be found downstairs, or you can pick the lock.
+Current source code: 441kb
+Source code change:
+  - ground.t 43kb
+  - phone.t 12kb
+  - prisoner.t 4kb
+
+1st of February, 2005. Instead of driving myself nuts with the phone, I worked a little on the second floor. I implemented half of the Mafia door (just need to implement the LISTEN TO messages).
+Current source code: 446kb
+Source code change: 
+  - mafia.t 3kb
+  - second.t 4kb
+
+8th of February, 2005. I fixed up the windows between the old storage room and the alleyway. They now behave properly. I also did some modifications on the cupboard obstacle to the old storage room. I also fleshed out the puzzles list, creating a few new options.
+Current source code: 448kb
+Source code change:
+  - oldstorage.t 5kb
+  - outside.t 40kb
+
+13th of February, 2005. Added the comic book and worked on the "madman" journal. Researched gunshot wounds for the journal... not nice.
+Current source code: 454kb
+Source code change:
+  - books.t 23kb
+
+22nd of February, 2005. I've added desks and so forth to the manager's office. The big programming chunk was the wall safe. It now works beautifully, though it has a simplified interface. I've initially chosen the combination 36,24,36 after Bart Simpson's locker number which is the same as Sir Mixalot's measurement requirements in "Baby Got Back" :)
+Current source code: 459kb
+Source code change:
+  - manager.t 7kb
+
+1st of March, 2005. I added some description and objects to the manager's room, making it maybe 75% complete.
+Current source code: 462kb
+Source code change:
+  - manager.t 9kb
+
+3rd of March, 2005. I fixed up the picture that hides the safe and added details to the desk. Apart from finishing touches, the manager's office is pretty much done.
+Current source code: 465kb
+Source code change:
+  - manager.t 12kb
+  - props.t 14kb
+
+8th of March, 2005. I concocted the idea of the Library of Convolution and began coding. I now have bookcases that have books you can randomly take from. Now all I need is some code to randomly choose the books corresponding to transcripts.
+Current source code: 470kb
+Source code change:
+  - library.t 5kb
+
+11th of March, 2005. I finished the data for the Library of Convolution's Magic Transcript Creator. Given the right string of numbers, it should be easy to trace through the Transcript tree. Then I need a nice way to hash those numbers.
+Current source code: 486kb
+Source code change:
+  - library.t 21kb
+
+28th of March, 2005. I finished the pseudorandom text of the Library of Convolution. It seems to work flawlessly now.
+Later on, I added a fridge and some decorations to the old folks' kitchen. There is some nifty little programming, getting around the problem of having attachments on the fridge door showing up in the fridge's desc (the door is separate), and having custom take msgs. They also hide from GET ALL appropriately.
+I'm thinking I could rustle up a multiple-owner modification. Some of the grammar might be tricky, but it seems doable. I want this for Rose and Charlie's stuff, as well as tricky situations where multiple things "own" another object (like two things covered by a sheet).
+Current source code: 493kb
+Source code change:
+  - library.t 24kb
+  - oldfolks.t 8kb
+
+31st of March, 2005. I added a lot of sensory descs to the old folks' kitchen. I added a bench as well. A bug with the card's and note's specialDesc appearing everywhere has been fixed.
+Current source code: 497kb
+Source code change:
+  - oldfolks.t 12kb
+
+3rd of April, 2005. I prettified some of the ground.t code, and added a note to the laundry drain. I also removed some excessive detail (the drain and tap in the laundry sink).
+Current source code: 497kb
+Source code change:
+  - laundry.t 17kb
+
+10th of April, 2005. I added Eric Eve's lookdir.t add-on and made some modifications to rooms that had some of that functionality already (but in a kludgy form). I fixed a bug with the elevator and with the ground hallway to stairwell door. I also did some minor text editing.
+Current source code: 497kb
+Source code change:
+  - Lots of minor changes
+
+11th of April, 2005. I created a new DoorLock class that incorporates my lock-picking code. Then I modified the manager's door to incorporate it. You can also kick the manager's door open.
+Current source code: 498kb
+Source code change:
+  - classes.t 24kb
+  - ground.t 42kb
+
+24th of April, 2005. I added the statuette to the old storage room, and added a few surfaces and details to the room as well. The statuette is quite detailed and has some nice textual effects depending on the light in the room.
+I also began the Masterpiece games CD and hint book.
+Current source code: 505kb
+Source code change:
+  - oldstorage.t 11kb
+  - props.t 14kb
+
+29th of April, 2005. Did some minor, minor work on Rose. I reorganized
+the topics list and studied the ADV3 library to figure out how I can
+do the Yin/Yang redirect trickery. I'm figuring a simple BeforeAction
+in the room that triggers a flag, which notifies all the topics, remap
+all Yin's topics to Yang, do the notified Yang response, then reset
+the flag.
+Current source code: 507kb
+Source code change:
+  - rose.t 5kb
+  - topics.t 2kb
+
+6th of May, 2005. Added a plaque and a hidden note to the manager's office. There are some specialized listers on the plaque to give the hidden note some flavour.
+Current source code: 509kb
+Source code change:
+  - manager.t 14kb
+
+10th of May, 2005. I worked out the Yin/Yang conversation trick quite easily. Basically you have a pair of topics for each concept: one for Yin and one for Yang. On Yin you can specify that this topic is really intercepted by Yang and it changes lastInterlocutor accordingly. This was really only a few lines of code to implement (like 5), and it has all the sexiness of assumed interlocutor handling.
+I didn't need to create a ConversationDirector class, but it's a project I'd like to take on. Maybe use it for the finale (the four-way conversation). I'm not sure how much you have to override. I'm currently figuring that each Actor remaps everything to the Director, which sorts out the actor, and bumps it out accordingly. This extra step doesn't seem too hard, except choosing which TopicEntry to use (across N Actors!) is tough. So I don't think it's super-tough, but it might be messy or slightly tricky.
+Current source code: 511kb
+Source code change:
+  - yinyangtest.t 2kb
+
+12th of May, 2005. Made a few cosmetic changes to scenery in the manager's office.
+Current source code: 511kb
+Source code change:
+  - manager.t 15kb
+
+16th of May, 2005. Did some research, finding some great quotes and coming up with some good ideas. I added a few more synonyms to Yes and No in the library.
+Current source code: 512kb
+Source code change:
+  - verbs.t 11kb
+
+5th of June, 2005. After a regrettable hiatus, I coded up some of the programmer's rooms. I added in the closet and did some descriptions. I've had a bunch of ideas since the last update, so it hasn't been completely slack.
+Current source code: 515kb
+Source code change: 
+  - programmer.t 7kb
+
+20th of June, 2005. GTA: San Andreas has been battling for my attention. I fought it off long enough to do some major detail work on the fire escapes. Jumping up and down has some nice details (I found a cool way to block off passage to the Gangster's room - A big crate of wet cement, left for their "guest" to dip into after the interrogation. ) I also added more ladders and fixed the locked ladder behaviour. I also implemented lookDir stuff for most fire escape rooms.
+Current source code: 523kb
+Source code change:
+  - first.t 32kb
+
+21st of June - 1st of October 2005. I worked on Mix Tape during this time, so I could enter in the Eleventh IF Comp. I learnt a lot of TADS 3 that way, so hopefully Convolution will improve from it. Given the rate that I could program Mix Tape, I should be able to finish Convolution soonish (famous last words).
+Current source code: 523kb
+Source code change:
+  - none
+
+6th of October 2005. Wrote some more of the Head Wound diary.
+Current source code: 523kb
+Source code change:
+  - none
+
+4th of March 2006. Rewrote the intro. It's longer but I'm more pleased with it. I also came up with the aspirin idea and implemented it.
+Current source code: 524kb
+Source code change:
+  - convolution.t 7kb
+  - props.t 9kb
+
+5th of March 2006. Moved all the notes to notes.t. I modified the aspirin to work a little neater.
+Current source code: 526kb
+Source code change:
+  - props.t 10kb
+
+6th of March 2006. Briefly worked on the elevator. I made the access panel hidden and mocked up some of the top of the elevator. I need to implement a room desc that changes when the elevator is moving (also put in sound cues).
+Current source code: 530kb
+Source code change:
+  - elevator.t 19kb
+
+12th of March 2006. Worked on the lobby phone. It now rings (and makes the right noises). It does the dialtone (in an awesome way depending on whether you drop the phone or not).
+Current source code: 534kb
+Source code change:
+  - phone.t 16kb
+
+17th of March 2006. Fixed a small bug in the phone and made small modifications on the ground floor. I think I need to add a few "gameplay goals and suggestions" like coincidental shafts of light shining on the note and little mental aids.
+The hints system needs a bit of an overhaul, given the knowledge I acquired writing Mix Tape.
+Current source code: 534kb
+Source code change:
+  - (minor edits)
+
+19th of March 2006. Some successes today. There was some heartache with "GET HANDSET" not being remapped to "ANSWER PHONE". The difficulty was that "ANSWER PHONE" calls "GET HANDSET". This was exacerbated by the creepy callers hanging up immediately after displaying text. I also implemented the handler for when you walk away whilst holding onto the phone. It now hangs up the phone automatically (and implicitly). I don't know if I want the default to be "HANG UP" or "DROP PHONE".
+Current source code: 537kb
+Source code change:
+  - ground.t 42kb
+  - phone.t 17kb
+
+2nd of April 2006. Oblivion has been demanding my attention for the last while (darn it). Today I did some cleanup in the basement (ho ho), the boiler room and the lobby. Some of the TravelMessages in the basement weren't working, which was weird. I fixed that. The boiler room code has been moved to its own file and I modified some small behaviours. I added in feel descs and so forth, as well as some inconsequential components on objects that might be examined by a players. There are a few triggers to hint at the whole headache thing. Hopefully it's not overdone.
+The lobby fern has an associated soil object that players might poke at. I fixed up a minor bug in the phone. If, say, after the creepy callers you hold onto the phone for a second then hang up, it'll say you hung up, but it'll cue a dialtone message. I added in a clause to avoid this. It was a hack, but it works.
+I'm discontinuing the "Source code change" record because it's flimsy and a nuisance to record.
+I tweaked the "Tuba Mensch" inscription a little. I can't decide whether to put it in the old storage room or the new one. I wonder if anyone will get it.
+Current source code: 539kb
+
+4th of August 2006. Breathe, other computer games, and my thesis have taken away my time. I also fell out of the IF loop for a while but I'm keen to get back in, thanks to some comments by Emily Short. I'm disliking the current focus on Inform 7. Hopefully the detail and simulation in this game will encourage folk back to TADS 3.
+I'm also keen to finish Convolution so I can move onto remixing Mix Tape or beginning work on Puzzle University. During my hiatus I actually did some major technical work towards the latter project. Some of this is TADS 3 Foundation which is getting closer to being useful.
+Tonight I made some small corrections to the basement, the elevator, the aspirin and some of Cody's topics. I didn't add any new objects, but tweaked (and added) some descriptions and made some of the code cleaner. For example, if you're in the reception area and have the aspirin (but haven't eaten it) you don't get the "You should find some aspirin" message.
+Current source code: 545kb
+
+5th of August 2006. I did some minor edits to Cody, Vern and the lunch room. I was planning on writing up the microwave code, but ended up getting distracted and tired.
+Last night I plotted my Convolution code output versus days. It's very roughly logarithmic. There's probably a good explanation for this (on average, given X amount of work done, there's maybe a probability of 1/X that I'll write something new and (X-1)/X that I'll debug or tweak old code (or do nothing). Integrate over X => log(X)) You can tell I do maths (but then again, perhaps, you can probably tell I don't do probability or analysis)
+Current source code: 546kb
+
+6th of August 2006. Did a bunch of work on the hints. Man, that's gonna be complicated when the game's done. I also did a little bit of work in the Back Room.
+Current source code: 550kb
+
+7th of August 2006. Wrote the Tuba Mensch description. And that was basically it before I got distracted.
+Current source code: 551kb
+
+8th of January 2008. Picked up IF again. Breathe, T3F and my 3d computer game have taken away my Convolution time. I think Convolution is a great project, so I want to finish it before my ideas completely atrophy.
+I'm using TADS 3 Workbench to code. It's so lovely and doesn't have the peculiarities from the XEmacs mode.
+I did a little bit of tinkering, adding verbs and behaviours for things I probably wouldn't have caught if I was very familiar with the game and code.
+I thought a bit about the aspirin puzzle. I dunno. It's kinda cliche and possibly annoying. But it gets a player exploring and you find the solution after at most 5 rooms. It's also thematic and lends some nice flavour text to events. I'm tempted to keep it in and see what betatesters say.
+Current source code: 579kb
