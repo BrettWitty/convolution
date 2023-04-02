@@ -1,4 +1,6 @@
-This is an archive of the entire code, planning and artifacts for the abandoned game "Convolution" by Brett Witty. It is preserved so people can learn from the code for working example, or the rest of it as cautionary examples.
+This is an archive of the entire code, planning and artifacts for the abandoned game "Convolution" by Brett Witty (brettwitty@brettwitty.net). It is preserved so people can learn from the code for working example, and the design documents as cautionary examples.
+
+I'll take PRs for the externals of the project, but not anything in `v1`, `v2` or `archives`. Feel free to contact me about the project.
 
 ## History
 
@@ -8,13 +10,13 @@ I worked on it extensively until the 12th of September 2004. I took a hiatus unt
 
 After that the work kinda frittered out into other projects. I restarted Convolution afresh in 2009-2010 but abandoned it again soon after. Following the less-than-stellar results of Mix Tape, I became dispirited with interactive fiction and left for about a decade. I'm back now, and happy to put my old projects out into the sunlight for others to poke at.
 
-At some point in the project I had beta-testers lined up, and have notes from an alpha tester called Ronald.
+At some point in the project I had beta-testers lined up, and have notes from a nice alpha tester called Ronald.
 
 ## The Idea
 
-During the development of Convolution, I was a single, unburdened maths PhD student with casual interests in philosophy, having entered adulthood during The Matrix, Being John Malkovich and Fight Club. I was a weird combination of smart and clueless, creative and clumsy. This comes through in the game.
+During the development of *Convolution*, I was a single, unburdened maths PhD student with casual interests in philosophy, having entered adulthood during *The Matrix*, *Being John Malkovich* and *Fight Club*. I was a weird combination of smart and clueless, creative and clumsy. This comes through in the game.
 
-Convolution is a game rooted in philosophical themes. You wake up in an urban garage with shattered, contradictory memories of violence and confusion. You are driven to enter an apartment complex ("Convolution Towers") and make your way as high as you can. There are puzzles and residents to interact with.
+*Convolution* is a game rooted in philosophical themes. You wake up in an urban garage with shattered, contradictory memories of violence and confusion. You are driven to enter an apartment complex ("Convolution Towers") and make your way as high as you can. There are puzzles and residents to interact with.
 
 But Convolution Towers is a weird space. You have done this journey before and have left yourself notes and warnings hidden about the place. You appear to be pursued by a lurking horror. As you go higher, the world becomes more abstract and fantastical.
 
@@ -90,7 +92,7 @@ This code is nowhere near as implemented as `v1`.
 
 ## Notes on the game
 
-Honestly, it was a grab-bag of incredibly detailed rooms that allowed a few ways to progress up the tower. There is no strong rhyme nor reason to much of it. The last chunk of the game is intended to be akin to Being John Malkovich or Monsters Inc, and you crash through several *very* disparate areas before meeting your AI creator God.
+Honestly, it was a grab-bag of incredibly detailed rooms that allowed a few ways to progress up the tower. There is no strong rhyme nor reason to much of it. The last chunk of the game is intended to be akin to *Being John Malkovich* or *Monsters Inc*, and you crash through several *very* disparate areas before meeting your AI creator God.
 
 The theme of "convolution" plays out in a number of ways:
   * Echoes are convolutions of sound with its environment. There are a lot of real and metaphorical echoes.
