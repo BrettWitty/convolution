@@ -2,6 +2,14 @@ This is an archive of the entire code, planning and artifacts for the abandoned 
 
 I'll take PRs for the externals of the project, but not anything in `v1`, `v2` or `archives`. Feel free to contact me about the project.
 
+## How to play
+
+Any of the versions in `archives` can be run with a multimedia TADS 3 interpreter like [QTads](https://realnc.github.io/qtads/).
+
+You can also play it via Parchment: [(last version)](https://iplayif.com/?story=https%3A%2F%2Fgithub.com%2FBrettWitty%2Fconvolution%2Fraw%2Fmain%2Farchives%2Fconvolution-v1.30-2005-04-04.t3)
+
+Note that the game is far from finished. You might be able to get to the first and second floors, but that's about it. There will be bugs. It is extremely unlikely that I will fix them.
+
 ## History
 
 I began writing Convolution on 18th of January, 2004. It began initially as an ADRIFT game, the TADS 2, then in WorldClass (an updated TADS 2 library by Dave Baggett). At the end of March 2004 it started as a TADS 3 game.
@@ -28,7 +36,7 @@ This code predates git, and I wasn't into other version control software. All co
 
 I have done some minor surgery to the original archive. The first attempt in 2004 is moved to `v1`. The second, shorter rewrite is in `v2`. Previously the code in `v1` was a subdirectory of `v2` (as a primitive form of source control).
 
-I moved the project diary `Timeline.txt` to the top directory as it is an interesting reflection on the project.
+I moved the project diary `Timeline.txt` to the top directory as it is an interesting reflection on the project. It is a changelog and development diary of sorts.
 
 I moved the code for the website up near the top directory. It is mostly a guide on how not to write a webpage about a project.
 
