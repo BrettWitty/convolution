@@ -49,7 +49,7 @@ The code was all created on Windows machines, predominantly in TADS 3 Workbench,
 ### Files in `v1`
 
   * [`amusing.txt`](v1/amusing.txt) is a list of Easter eggs I had implemented.
-  * [`Bulk and weight list.txt`](v1/Bulk and weight list.txt) and [`Bulks and weights.sxc`](v1/Bulks and weights.sxc) contain inventory management constants.
+  * [`Bulk and weight list.txt`](v1/Bulk%20and%20weight%20list.txt) and [`Bulks and weights.sxc`](v1/Bulks and weights.sxc) contain inventory management constants.
   * [`Checklist.txt`](v1/Checklist.txt) is a TO-DO list for things that needed to be implemented. Not a complete or accurate list.
   * [`classes.t`](v1/classes.t) has code for:
     * Foldable and crumpleable notes.
@@ -69,20 +69,20 @@ The code was all created on Windows machines, predominantly in TADS 3 Workbench,
   * [`convhint.t`](v1/convhint.t) contains a fleshed-out example of a hints system.
   * [`convmain.h`](v1/convmain.h) has a PreinitObject that provides a count of rooms, Things and general objects.
   * [`convmisc.t`](v1/convmisc.t) has some custom grammar.
-  * [`convolution ideas.txt`](v1/convolution ideas.txt) is a scrapbook of random ideas.
-  * [`Convolution notes.txt`](v1/Convolution notes.txt) is the original concept with some notes and ideas.
+  * [`convolution ideas.txt`](v1/convolution%20ideas.txt) is a scrapbook of random ideas.
+  * [`Convolution notes.txt`](v1/Convolution%20notes.txt) is the original concept with some notes and ideas.
   * [`conv_str.txt`](v1/conv_str.txt) is a strings output from the latest compile.
   * [`crazy_ramble.txt`](v1/crazy_ramble.txt) is a bit of free association/subconscious writing intended for "The Prisoner".
-  * [`Design Rules I Used.txt`](v1/Design Rules I Used.txt) contains some general design rules for the implementation.
+  * [`Design Rules I Used.txt`](v1/Design%20Rules%20I%20Used.txt) contains some general design rules for the implementation.
   * [`elevator.t`](v1/elevator.t) is an elaborate implementation of an elevator.
   * [`headwound.t`](v1/headwound.t) is a diary that you find detailing your adventures following a gunshot wound to the head.
   * [`Hidden_notes.txt`](v1/Hidden_notes.txt) is a list of thematically-resonating ideas, secret notes and random insanity. These were intended to be hidden EVERYWHERE in the game.
-  * [`Level plan.txt`](v1/Level plan.txt) is a rough map of the game.
+  * [`Level plan.txt`](v1/Level%20plan.txt) is a rough map of the game.
   * [`library.t`](v1/library.t) is the Library of Convolution, a Borgesian infinite library with books that record different potential starts to the same game that you've been playing. There's a procedural grammar that creates random books.
   * [`lookdir.t`](v1/lookdir.t) is Eric Eve's look direction library.
   * [`mood.t`](v1/mood.t) contains an attempt to track mood with your karma ([`karma.t`](v1/karma.t))
   * [`Objects.txt`](v1/Objects.txt) attempts to list and not explain all the puzzle-relevant objects.
-  * [`Old Puzzles.txt`](v1/Old Puzzles.txt) lists puzzles that were removed, or thought of without implementing.
+  * [`Old Puzzles.txt`](v1/Old%20Puzzles.txt) lists puzzles that were removed, or thought of without implementing.
   * [`phone.t`](v1/phone.t) an extremely over-engineered lobby phone that rang randomly, could be used, and tracked whether you had hung up the receiver or not
   * [`props.t`](v1/props.t) a trenchcoat of holding, lockpicking hair pins, some aspirin and an object called "The Tuba Mensch"
   * [`purpose.txt`](v1/purpose.txt) dialogue from Matrix Reloaded from Agent Smith to Neo. A strong inspiration for a number of ideas.
