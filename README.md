@@ -34,13 +34,13 @@ Thematically the game was me riffing on Buddhist reincarnation, virtual reality,
 
 This code predates git, and I wasn't into other version control software. All code is as it was finally saved.
 
-I have done some minor surgery to the original archive. The first attempt in 2004 is moved to `v1`. The second, shorter rewrite is in `v2`. Previously the code in `v1` was a subdirectory of `v2` (as a primitive form of source control).
+I have done some minor surgery to the original archive. The first attempt in 2004 is moved to [`v1`](v1/). The second, shorter (also incomplete) rewrite is in [`v2`](v2/). Previously the code in `v1` was a subdirectory of `v2` (as a primitive form of source control).
 
-I moved the project diary `Timeline.txt` to the top directory as it is an interesting reflection on the project. It is a changelog and development diary of sorts.
+I moved the project diary [`Timeline.txt`](Timeline.txt) to the top directory as it is an interesting reflection on the project. It is a changelog and development diary of sorts.
 
-I moved the code for the website up near the top directory. It is mostly a guide on how not to write a webpage about a project.
+I moved the code for the [website](website/) up near the top directory. It is mostly a guide on how not to write a webpage about a project.
 
-I moved all game builds to `archives`. These are playable snapshots of development.
+I moved all game builds to [`archives`](archives/). These are playable snapshots of development, renamed to include their version and compile date.
 
 I removed all secondary build artifacts (`.t3o` files etc). I've kept the TADS 3 workbench file `convolution.t3m` because it can be used to build the project anew.
 
@@ -48,10 +48,10 @@ The code was all created on Windows machines, predominantly in TADS 3 Workbench,
 
 ### Files in `v1`
 
-  * `amusing.txt` is a list of Easter eggs I had implemented.
-  * `Bulk and weight list.txt` and `Bulks and weights.sxc` contain inventory management constants.
-  * `Checklist.txt` is a TO-DO list for things that needed to be implemented. Not a complete or accurate list.
-  * `classes.t` has code for:
+  * [`amusing.txt`](v1/amusing.txt) is a list of Easter eggs I had implemented.
+  * [`Bulk and weight list.txt`](v1/Bulk and weight list.txt) and [`Bulks and weights.sxc`](v1/Bulks and weights.sxc) contain inventory management constants.
+  * [`Checklist.txt`](v1/Checklist.txt) is a TO-DO list for things that needed to be implemented. Not a complete or accurate list.
+  * [`classes.t`](v1/classes.t) has code for:
     * Foldable and crumpleable notes.
     * Heat as a new sense
     * A Mailbox implementation
@@ -65,33 +65,35 @@ The code was all created on Windows machines, predominantly in TADS 3 Workbench,
     * Books
     * Appliances like refrigerators, sinks and pay laundry machines
     * Door locks with keyholes
-  * `convactor.t` has some modifications to expand conversations, including insulting people.
-  * `convhint.t` contains a fleshed-out example of a hints system.
-  * `convmain.h` has a PreinitObject that provides a count of rooms, Things and general objects.
-  * `convmisc.t` has some custom grammar.
-  * `convolution ideas.txt` is a scrapbook of random ideas.
-  * `Convolution notes.txt` is the original concept with some notes and ideas.
-  * `conv_str.txt` is a strings output from the latest compile.
-  * `crazy_ramble.txt` is a bit of free association/subconscious writing intended for "The Prisoner".
-  * `Design Rules I Used.txt` contains some general design rules for the implementation.
-  * `elevator.t` is an elaborate implementation of an elevator.
-  * `headwound.t` is a diary that you find detailing your adventures following a gunshot wound to the head.
-  * `Hidden_notes.txt` is a list of thematically-resonating ideas, secret notes and random insanity. These were intended to be hidden EVERYWHERE in the game.
-  * `Level plan.txt` is a rough map of the game.
-  * `library.t` is the Library of Convolution, a Borgesian infinite library with books that record different potential starts to the same game that you've been playing. There's a procedural grammar that creates random books.
-  * `lookdir.t` is Eric Eve's look direction library.
-  * `mood.t` contains an attempt to track mood with your karma (`karma.t`)
-  * `Objects.txt` attempts to list and not explain all the puzzle-relevant objects.
-  * `Old Puzzles.txt` lists puzzles that were removed, or thought of without implementing.
-  * `phone.t` an extremely over-engineered lobby phone that rang randomly, could be used, and tracked whether you had hung up the receiver or not
-  * `props.t` a trenchcoat of holding, lockpicking hair pins, some aspirin and an object called "The Tuba Mensch"
-  * `purpose.txt` dialogue from Matrix Reloaded from Agent Smith to Neo. A strong inspiration for a number of ideas.
-  * `Puzzles.txt` is an attempt to write the main puzzle flow for the game.
-  * `Readme.txt` was the intended Readme file for the game, if it were to be released.
-  * `Testers.txt` is a list of potential betatesters. Only half of this list mean anything to me.
-  * `Todo.txt` a list of random things to do, with a vague priorization.
-  * `verbs.t` contains many custom verbs.
-  
+  * [`convactor.t`](v1/convactor.t) has some modifications to expand conversations, including insulting people.
+  * [`convhint.t`](v1/convhint.t) contains a fleshed-out example of a hints system.
+  * [`convmain.h`](v1/convmain.h) has a PreinitObject that provides a count of rooms, Things and general objects.
+  * [`convmisc.t`](v1/convmisc.t) has some custom grammar.
+  * [`convolution ideas.txt`](v1/convolution ideas.txt) is a scrapbook of random ideas.
+  * [`Convolution notes.txt`](v1/Convolution notes.txt) is the original concept with some notes and ideas.
+  * [`conv_str.txt`](v1/conv_str.txt) is a strings output from the latest compile.
+  * [`crazy_ramble.txt`](v1/crazy_ramble.txt) is a bit of free association/subconscious writing intended for "The Prisoner".
+  * [`Design Rules I Used.txt`](v1/Design Rules I Used.txt) contains some general design rules for the implementation.
+  * [`elevator.t`](v1/elevator.t) is an elaborate implementation of an elevator.
+  * [`headwound.t`](v1/headwound.t) is a diary that you find detailing your adventures following a gunshot wound to the head.
+  * [`Hidden_notes.txt`](v1/Hidden_notes.txt) is a list of thematically-resonating ideas, secret notes and random insanity. These were intended to be hidden EVERYWHERE in the game.
+  * [`Level plan.txt`](v1/Level plan.txt) is a rough map of the game.
+  * [`library.t`](v1/library.t) is the Library of Convolution, a Borgesian infinite library with books that record different potential starts to the same game that you've been playing. There's a procedural grammar that creates random books.
+  * [`lookdir.t`](v1/lookdir.t) is Eric Eve's look direction library.
+  * [`mood.t`](v1/mood.t) contains an attempt to track mood with your karma ([`karma.t`](v1/karma.t))
+  * [`Objects.txt`](v1/Objects.txt) attempts to list and not explain all the puzzle-relevant objects.
+  * [`Old Puzzles.txt`](v1/Old Puzzles.txt) lists puzzles that were removed, or thought of without implementing.
+  * [`phone.t`](v1/phone.t) an extremely over-engineered lobby phone that rang randomly, could be used, and tracked whether you had hung up the receiver or not
+  * [`props.t`](v1/props.t) a trenchcoat of holding, lockpicking hair pins, some aspirin and an object called "The Tuba Mensch"
+  * [`purpose.txt`](v1/purpose.txt) dialogue from Matrix Reloaded from Agent Smith to Neo. A strong inspiration for a number of ideas.
+  * [`Puzzles.txt`](v1/Puzzles.txt) is an attempt to write the main puzzle flow for the game.
+  * [`Readme.txt`](v1/Readme.txt) was the intended Readme file for the game, if it were to be released.
+  * [`Testers.txt`](v1/Testers.txt) is a list of potential betatesters. Only half of this list mean anything to me.
+  * [`Todo.txt`](v1/Todo.txt) a list of random things to do, with a vague priorization.
+  * [`verbs.t`](v1/verbs.t) contains many custom verbs.
+
+The `.t` files are TADS 3 source for the game, whether connected to the main implemented section or not.
+
 ### Files in `v2`
 
 These are mostly rewritten or refactored from `v1`. The world map is condensed and rearranged. Certain large classes are brought out into their own file.
