@@ -46,7 +46,7 @@ I removed all secondary build artifacts (`.t3o` files etc). I've kept the TADS 3
 
 The code was all created on Windows machines, predominantly in TADS 3 Workbench, but also in XEmacs for some time.
 
-### Files in `v1`
+### Files in [`v1`](v1/)
 
   * [`amusing.txt`](v1/amusing.txt) is a list of Easter eggs I had implemented.
   * [`Bulk and weight list.txt`](v1/Bulk%20and%20weight%20list.txt) and [`Bulks and weights.sxc`](v1/Bulks and weights.sxc) contain inventory management constants.
@@ -94,7 +94,7 @@ The code was all created on Windows machines, predominantly in TADS 3 Workbench,
 
 The `.t` files are TADS 3 source for the game, whether connected to the main implemented section or not.
 
-### Files in `v2`
+### Files in [`v2`](v2/)
 
 These are mostly rewritten or refactored from `v1`. The world map is condensed and rearranged. Certain large classes are brought out into their own file.
 
